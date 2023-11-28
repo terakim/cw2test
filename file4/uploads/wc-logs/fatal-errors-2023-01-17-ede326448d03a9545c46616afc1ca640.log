@@ -1,0 +1,8 @@
+2023-01-17T05:51:19+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 9360088 bytes)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php, 줄 266)
+
+2023-01-17T05:54:39+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 9360088 bytes)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php, 줄 266)
+
+2023-01-17T05:57:08+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 9360088 bytes)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php, 줄 266)
+
+2023-01-17T05:57:39+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 9360088 bytes)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php, 줄 266)
+

@@ -1,0 +1,36 @@
+2021-08-09T05:46:14+00:00 - Array
+(
+    [action_id] => 777
+    [creation_date] => 2021-08-09 05:30:06
+    [execution_time] => 1628487066
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-09T06:50:43+00:00 - Array
+(
+    [action_id] => 799
+    [creation_date] => 2021-08-09 05:55:18
+    [execution_time] => 1628488578
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-09T07:38:42+00:00 - Array
+(
+    [action_id] => 849
+    [creation_date] => 2021-08-09 07:16:54
+    [execution_time] => 1628493474
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+

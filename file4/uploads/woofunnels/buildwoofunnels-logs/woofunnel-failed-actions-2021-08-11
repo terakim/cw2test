@@ -1,0 +1,12 @@
+2021-08-11T03:55:52+00:00 - Array
+(
+    [action_id] => 2373
+    [creation_date] => 2021-08-11 03:45:47
+    [execution_time] => 1628653607
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+

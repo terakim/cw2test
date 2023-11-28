@@ -1,0 +1,52 @@
+09-15-2023 @ 10:28:40 - Process Payment Response : cancel
+09-15-2023 @ 10:28:40 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS2023091501283377534e1f3cbda2b67f44
+    [order_id] => 13644_230915_012833
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-15-2023 @ 10:28:44 - Redirect : Checkout
+09-15-2023 @ 11:42:50 - Process Payment Response : cancel
+09-15-2023 @ 11:42:50 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309150242454d2d0fb6a25716639fde
+    [order_id] => 13651_230915_024245
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-15-2023 @ 11:42:54 - Redirect : Checkout
+09-15-2023 @ 13:31:01 - Process Payment Response : cancel
+09-15-2023 @ 13:31:01 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS2023091504305654a537ba5f76757618a9
+    [order_id] => 13661_230915_043056
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-15-2023 @ 13:31:05 - Redirect : Checkout
+09-15-2023 @ 14:42:53 - Process Payment Response : cancel
+09-15-2023 @ 14:42:53 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS20230915054249cbcad3fabeb453111162
+    [order_id] => 13661_230915_043056
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-15-2023 @ 14:42:53 - Redirect : Checkout

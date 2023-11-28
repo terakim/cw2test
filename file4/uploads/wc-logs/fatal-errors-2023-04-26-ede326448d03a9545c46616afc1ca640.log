@@ -1,0 +1,2 @@
+2023-04-26T00:00:40+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 28184744 bytes)(/home/.code/redis-cache-pro/src/Clients/Client.php, 줄 97)
+

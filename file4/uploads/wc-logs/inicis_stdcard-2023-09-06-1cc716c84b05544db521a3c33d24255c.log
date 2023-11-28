@@ -1,0 +1,73 @@
+09-06-2023 @ 09:22:46 - Process Payment Response : cancel
+09-06-2023 @ 09:22:46 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309060022374b1a4d6c40139cd6620b
+    [order_id] => 13329_230906_122237
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-06-2023 @ 09:22:50 - Redirect : Checkout
+09-06-2023 @ 09:49:57 - Process Payment Response : cancel
+09-06-2023 @ 09:49:57 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309060049523dc7075911c262543b1f
+    [order_id] => 13332_230906_124952
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-06-2023 @ 09:50:00 - Redirect : Checkout
+09-06-2023 @ 09:57:30 - Process Payment Response : cancel
+09-06-2023 @ 09:57:30 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309060057224fdb77c28644b1aebe24
+    [order_id] => 13333_230906_125722
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-06-2023 @ 09:57:34 - Redirect : Checkout
+09-06-2023 @ 10:02:55 - Process Payment Response : cancel
+09-06-2023 @ 10:02:55 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309060101104d0a1c021727c6832604
+    [order_id] => 13333_230906_125722
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-06-2023 @ 10:02:55 - Redirect : Checkout
+09-06-2023 @ 10:09:57 - Process Payment Response : payment
+09-06-2023 @ 10:10:06 - Redirect : Order Received
+09-06-2023 @ 10:12:49 - Process Payment Response : payment
+09-06-2023 @ 10:12:57 - Redirect : Order Received
+09-06-2023 @ 11:41:09 - Process Payment Response : cancel
+09-06-2023 @ 11:41:09 - [오류] 결제를 취소하셨습니다.
+Array
+(
+    [type] => cancel
+    [transaction_id] => TINICIS202309060241044ea91917ccace865025b
+    [order_id] => 13374_230906_024104
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+09-06-2023 @ 11:41:12 - Redirect : Checkout
+09-06-2023 @ 11:50:29 - Process Payment Response : payment
+09-06-2023 @ 11:50:37 - Redirect : Order Received
+09-06-2023 @ 13:28:42 - Process Payment Response : payment
+09-06-2023 @ 13:28:51 - Redirect : Order Received

@@ -1,0 +1,38 @@
+2021-09-28T01:47:08+00:00 - Array
+(
+    [action_id] => 4510
+    [creation_date] => 2021-09-28 01:41:05
+    [execution_time] => 1632793325
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 2
+            [message] => Invalid argument supplied for foreach()
+            [file] => /home/830128.cloudwaysapps.com/dyktspzgrz/public_html/wp-content/plugins/wp-marketing-automations-pro/rules/class-bwfan-rules.php
+            [line] => 175
+        )
+
+)
+
+2021-09-28T02:24:07+00:00 - Array
+(
+    [action_id] => 4577
+    [creation_date] => 2021-09-28 02:16:22
+    [execution_time] => 1632795442
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 2
+            [message] => Invalid argument supplied for foreach()
+            [file] => /home/830128.cloudwaysapps.com/dyktspzgrz/public_html/wp-content/plugins/wp-marketing-automations-pro/rules/class-bwfan-rules.php
+            [line] => 175
+        )
+
+)
+

@@ -1,0 +1,72 @@
+2021-08-10T02:17:10+00:00 - Array
+(
+    [action_id] => 994
+    [creation_date] => 2021-08-10 02:05:05
+    [execution_time] => 1628561165
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-10T03:40:26+00:00 - Array
+(
+    [action_id] => 1114
+    [creation_date] => 2021-08-10 03:01:49
+    [execution_time] => 1628564569
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-10T04:42:23+00:00 - Array
+(
+    [action_id] => 1244
+    [creation_date] => 2021-08-10 04:36:07
+    [execution_time] => 1628570227
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-10T05:21:51+00:00 - Array
+(
+    [action_id] => 1265
+    [creation_date] => 2021-08-10 04:52:27
+    [execution_time] => 1628571207
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-10T06:54:31+00:00 - Array
+(
+    [action_id] => 1508
+    [creation_date] => 2021-08-10 06:48:31
+    [execution_time] => 1628578171
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+
+2021-08-10T07:46:49+00:00 - Array
+(
+    [action_id] => 1594
+    [creation_date] => 2021-08-10 07:36:39
+    [execution_time] => 1628581059
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => 
+)
+

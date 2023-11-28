@@ -1,0 +1,2 @@
+2023-11-20T08:39:23+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count이(가) 호출되었지만 주문 유형이 등록되지 않았습니다. 너무 일찍 호출되었을 수 있습니다.
+2023-11-20T08:39:23+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count이(가) 호출되었지만 주문 유형이 등록되지 않았습니다. 너무 일찍 호출되었을 수 있습니다.

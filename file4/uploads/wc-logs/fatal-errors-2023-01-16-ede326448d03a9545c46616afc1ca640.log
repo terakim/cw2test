@@ -1,0 +1,4 @@
+2023-01-16T08:03:07+00:00 CRITICAL Cannot redeclare wp_cache_init() (previously declared in /home/.code/redis-cache-pro/api.php:54)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-includes/cache.php, 줄 21)
+
+2023-01-16T08:11:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2097152 bytes)(/home/826655.cloudwaysapps.com/kxdjgdmvsb/public_html/wp-includes/functions.php, 줄 4247)
+

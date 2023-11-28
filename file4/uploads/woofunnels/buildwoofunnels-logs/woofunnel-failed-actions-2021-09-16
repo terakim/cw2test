@@ -1,0 +1,19 @@
+2021-09-16T03:53:00+00:00 - Array
+(
+    [action_id] => 3944
+    [creation_date] => 2021-09-16 03:47:27
+    [execution_time] => 1631764107
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 2
+            [message] => Invalid argument supplied for foreach()
+            [file] => /home/830128.cloudwaysapps.com/dyktspzgrz/public_html/wp-content/plugins/wp-marketing-automations-pro/rules/class-bwfan-rules.php
+            [line] => 175
+        )
+
+)
+

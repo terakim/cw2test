@@ -1,0 +1,28 @@
+2022-11-22T05:59:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php:468
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template()
+#1 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func()
+#2 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request()
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}()
+#4 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#5 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#6 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-admin/admin-ajax.php(188): do_action()
+#9 {main}
+  thrown(/home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php, 줄 468)
+
+2022-11-22T06:00:06+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php:468
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template()
+#1 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func()
+#2 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request()
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}()
+#4 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#5 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#6 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-admin/admin-ajax.php(188): do_action()
+#9 {main}
+  thrown(/home/710379.cloudwaysapps.com/cgkadpkgvh/public_html/wp-content/plugins/elementor/includes/template-library/manager.php, 줄 468)
+

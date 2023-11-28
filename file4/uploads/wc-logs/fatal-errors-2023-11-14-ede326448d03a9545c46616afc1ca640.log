@@ -1,0 +1,4 @@
+2023-11-14T07:57:55+00:00 CRITICAL Cannot redeclare wp_cache_init() (previously declared in /home/.code/redis-cache-pro/api.php:42)(/home/830128.cloudwaysapps.com/dyktspzgrz/public_html/wp-includes/cache.php, 줄 21)
+
+2023-11-14T08:16:56+00:00 CRITICAL Cannot redeclare wp_cache_init() (previously declared in /home/.code/redis-cache-pro/api.php:42)(/home/830128.cloudwaysapps.com/dyktspzgrz/public_html/wp-includes/cache.php, 줄 21)
+

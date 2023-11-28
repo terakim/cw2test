@@ -1,0 +1,15 @@
+04-18-2023 @ 10:21:43 - Process Payment Response : fail
+04-18-2023 @ 10:21:43 - [오류] [PAFW-ERR-V813] 결제가능시간(30분) 초과로 인한 자동 취소
+Array
+(
+    [type] => fail
+    [res_cd] => V813
+    [res_msg] => 결제가능시간(30분) 초과로 인한 자동 취소
+    [transaction_id] => TINICIS20230418005058da2cfcfb7b86d5ca76ae
+    [order_id] => 10161
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+    [woocommerce-reset-password-nonce] => 
+)
+
+04-18-2023 @ 10:21:46 - Redirect : Checkout
