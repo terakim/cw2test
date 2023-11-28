@@ -1,0 +1,112 @@
+.region-selector-wrapper {
+    color : black;
+
+    .required.field.error & {
+        color : red;
+    }
+
+    .region-selector {
+        display: flex;
+        font-size: 12px;
+        height: 200px;
+        border: 1px solid lightgray;
+
+        .sido-wrapper {
+            width: 30%;
+            padding: 5px;
+            border-right: 1px solid lightgray;
+            overflow: scroll;
+
+            .sido {
+                width: calc(100% / 2 - 4px);
+                border: 1px solid lightgray;
+                text-align: center;
+                cursor: pointer;
+                height: 35px;
+                margin: 2px;
+                float: left;
+
+                @media ( max-width: 768px ) {
+                    width: calc(100% - 4px);
+                }
+
+                &.selected {
+                    border: 1px solid #868686;
+                    font-weight: bold;
+                }
+
+                &.disabled {
+                    background-color: whitesmoke;
+                    touch-action: none;
+                    pointer-events: none;
+                    opacity: 0.5;
+                }
+
+                > span {
+                    line-height: 35px;
+                }
+            }
+        }
+
+        .sigungu-wrapper {
+            flex: 1;
+            overflow: scroll;
+
+            .sigungu {
+                width: calc(100% / 5 - 10px);
+                border: 1px solid lightgray;
+                text-align: center;
+                margin: 5px;
+                cursor: pointer;
+                height: 35px;
+                float: left;
+
+                @media ( max-width: 768px ) {
+                    width: calc(100% / 2 - 10px);
+                }
+
+                &.selected {
+                    border: 1px solid #868686;
+                    font-weight: bold;
+                }
+
+                &.disabled {
+                    background-color: whitesmoke;
+                    touch-action: none;
+                    pointer-events: none;
+                    opacity: 0.5;
+                }
+
+                > span {
+                    line-height: 35px;
+                }
+            }
+        }
+    }
+
+    .selected-region-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid lightgray;
+        min-height: 41px;
+
+        .region {
+            font-size: 12px;
+            width: calc(100% / 5 - 10px);
+            min-width: 145px;
+            border: 1px solid lightgray;
+            text-align: center;
+            padding: 5px;
+            margin: 5px;
+            cursor: pointer;
+
+            .delete {
+                float: right;
+                border: 1px solid gray;
+                padding: 0 5px;
+                font-size: 10px;
+                cursor: pointer;
+            }
+        }
+    }
+}

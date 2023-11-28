@@ -1,0 +1,238 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+
+a.kboard-worldmap-franchise-button-small,
+input.kboard-worldmap-franchise-button-small,
+button.kboard-worldmap-franchise-button-small { position: relative; display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 10px; height: 28px; line-height: 28px; font-size: 13px; font-weight: normal; letter-spacing: normal; color: white !important; background: #000000 !important; border: none; border-radius: 0; text-decoration: none !important; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; transition-duration: 0.3s; box-sizing: content-box; }
+a.kboard-worldmap-franchise-button-small:hover,
+a.kboard-worldmap-franchise-button-small:focus,
+a.kboard-worldmap-franchise-button-small:active,
+input.kboard-worldmap-franchise-button-small:hover,
+input.kboard-worldmap-franchise-button-small:focus,
+input.kboard-worldmap-franchise-button-small:active,
+button.kboard-worldmap-franchise-button-small:hover,
+button.kboard-worldmap-franchise-button-small:focus,
+button.kboard-worldmap-franchise-button-small:active { opacity: 0.7; }
+
+.kboard-worldmap-franchise-poweredby { padding-bottom: 20px; font-size: 13px; }
+.kboard-worldmap-franchise-new-notify { display: inline-block; *display: inline; zoom: 1; padding: 2px 2px; line-height: 10px; vertical-align: middle; font-size: 10px; color: white; background-color: #f61b5d; font-weight: normal; }
+.kboard-worldmap-franchise-cut-strings { width: auto; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal; }
+
+#kboard-worldmap-franchise-list { overflow: hidden; }
+/* 지도 표시 시작 */
+#kboard-worldmap-franchise-list .kboard-header { margin: 0 0 15px 0; }
+#kboard-worldmap-franchise-list .kboard-header form { margin: 0; padding: 0; }
+#kboard-worldmap-franchise-list .kboard-header-title { margin: 0 0 10px 0; padding-left: 24px; font-size: 13px; line-height: 20px; text-align: left; font-weight: normal; background: url(./images/icon-title.png) left 2px no-repeat; }
+#kboard-worldmap-franchise-list .kboard-category { }
+#kboard-worldmap-franchise-list .kboard-category.category-mobile { display: none; }
+#kboard-worldmap-franchise-list .kboard-category.category-pc { display: block; }
+#kboard-worldmap-franchise-list .kboard-category select { display: inline; margin: 0; padding: 0; width: 100%; min-width: 100%; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list { margin: 0; padding: 0; list-style: none; border: 0; background-color: #f9f9f9; overflow: hidden; }
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 5px; border: 0; list-style: none; }
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list li::before,
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list li::after { display: none; }
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list li a { display: block; padding: 10px 10px 8px 10px; font-size: 13px; border: 0; border-bottom: 2px solid transparent; text-decoration: none; text-shadow: none; box-shadow: none; color: #515151; }
+#kboard-worldmap-franchise-list .kboard-category .kboard-category-list li.kboard-category-selected a { font-weight: bold; border-bottom: 2px solid #545861; color: #545861; }
+#kboard-worldmap-franchise-list #kboard-worldmap-franchise-canvas.active { height: 500px; }
+#kboard-worldmap-franchise-list .kboard-search { padding: 10px; text-align: right; background-color: #f9f9f9; overflow: hidden; }
+#kboard-worldmap-franchise-list .kboard-search select { display: inline; margin: 0; padding: 0 5px; width: 100px; min-width: 0; max-width: 100px; height: 26px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 26px; vertical-align: middle; box-shadow: none; box-sizing: content-box; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-worldmap-franchise-list .kboard-search input { display: inline; margin: 0; padding: 0 5px; width: 200px; min-width: 0; max-width: 200px; height: 26px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 26px; vertical-align: middle; box-shadow: none; box-sizing: content-box; }
+/* 지도 표시 끝 */
+#kboard-worldmap-franchise-list .kboard-list { margin: 0 !important; padding: 0 !important; list-style:none; border: 0; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item { position: relative; margin: 0; padding: 15px 0; overflow: hidden; border: 0; border-top: 1px solid #e8eaec; background: none; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item:last-child { border-bottom: 1px solid #e8eaec; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item a { font-size: 16px; text-decoration: none; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-thumbnail { position: relative; float: left; margin-right: 20px; width: 30%; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-thumbnail img { width: 100%; max-width: 100%; vertical-align: middle; box-shadow: none; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-no-image { float: left; margin-right: 40px; padding-top: 80%; width: 100%; background-color: #d9dbdb; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap { float: left; width: 60%; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title { margin-bottom: 10px; font-size: 20px; color: #000000; text-decoration: none; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title img { display: inline; margin: 0; width: auto; height: auto; vertical-align: middle; max-width: 100%; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-franchise-attr-wrap .kboard-franchise-attr { float: left; margin-right: 5px; vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-franchise-attr-wrap .kboard-franchise-value { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-selected .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title { font-weight: bold; }
+#kboard-worldmap-franchise-list .kboard-pagination { padding: 20px 0; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages { margin: 0; padding: 0 0 1px 0; list-style: none; text-align: center; border: 0; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 1px; background: none; border: 0; list-style: none; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li a { color: black; padding: 5px 10px; border: 1px solid #e0e0e0; text-decoration: none; font-size: 12px; line-height: 27px; background-color: white; box-shadow: none; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.active a { font-weight: bold; border: 1px solid #a9a9a9; color: black; text-decoration: none; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li:before { display: none; }
+#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li:after { display: none; }
+#kboard-worldmap-franchise-list .kboard-control { padding-bottom: 20px; text-align: right; }
+
+#kboard-worldmap-franchise-editor { overflow: hidden; }
+#kboard-worldmap-franchise-editor select { display: inline; margin: 0; padding: 0 5px; font-size: 13px; width: 100%; *width: 30%; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-worldmap-franchise-editor input[type=text],
+#kboard-worldmap-franchise-editor input[type=email],
+#kboard-worldmap-franchise-editor input[type=number],
+#kboard-worldmap-franchise-editor input[type=date],
+#kboard-worldmap-franchise-editor input[type=password] { display: inline; margin: 0; padding: 0 5px; width: 100%; *width: 30%; height: 28px; line-height: 28px; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-worldmap-franchise-editor select:hover,
+#kboard-worldmap-franchise-editor input[type=text]:hover,
+#kboard-worldmap-franchise-editor input[type=email]:hover,
+#kboard-worldmap-franchise-editor input[type=number]:hover,
+#kboard-worldmap-franchise-editor input[type=date]:hover,
+#kboard-worldmap-franchise-editor input[type=password]:hover,
+#kboard-worldmap-franchise-editor textarea:hover,
+#kboard-worldmap-franchise-editor select:focus,
+#kboard-worldmap-franchise-editor input[type=text]:focus,
+#kboard-worldmap-franchise-editor input[type=email]:focus,
+#kboard-worldmap-franchise-editor input[type=number]:focus,
+#kboard-worldmap-franchise-editor input[type=date]:focus,
+#kboard-worldmap-franchise-editor input[type=password]:focus
+#kboard-worldmap-franchise-editor textarea:focus { border: 1px solid #9e9e9e; }
+#kboard-worldmap-franchise-editor input[type=file] { display: inline; margin: 0; padding: 0; width: 100%; *width: 30%; font-size: 12px; color: #666666; border-radius: 0; border: 0; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-worldmap-franchise-editor .kboard-attr-wrap { overflow: hidden; }
+#kboard-worldmap-franchise-editor .kboard-attr-wrap-title { margin: 10px 0; padding: 5px 10px; width: 100%; line-height: 40px; border-top: 1px solid #e5e5e5; color: #545861; font-size: 16px; font-weight: bold; background-color: #f7f7f7; text-transform: capitalize; }
+#kboard-worldmap-franchise-editor .kboard-attr-row { float: left; margin: 0; width: 100%; }
+#kboard-worldmap-franchise-editor .kboard-attr-row-half { float: left; width: 50%; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-name { float: left; display: block; box-sizing: content-box; margin: 0; padding: 5px 10px; width: 140px; line-height: 30px; color: #545861; font-size: 13px; font-weight: bold; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-name img { display: inline; margin: 0; padding: 0; width: auto; max-width: 100%; vertical-align: middle; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-name .attr-required-text { color: red; font-weight: normal; font-size: 12px; }
+#kboard-worldmap-franchise-editor .kboard-attr-row.kboard-attr-content .attr-name { display: none; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value { margin-left: 160px; padding: 5px 10px; line-height: 30px; text-align: left; font-size: 13px; background-color: white; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value .attr-value-option { display: inline; padding-right: 20px; width: auto; cursor: pointer; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value .attr-value-option input[type=checkbox] { cursor: pointer; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value .description { margin: 0; color: #666666; }
+#kboard-worldmap-franchise-editor .kboard-attr-row .attr-checkbox { color: #545861; font-size: 14px; cursor: pointer; }
+#kboard-worldmap-franchise-editor .kboard-attr-title input { width: 100%; *width: 70%; }
+#kboard-worldmap-franchise-editor .kboard-confirm-row { padding: 100px 0; }
+#kboard-worldmap-franchise-editor .kboard-content { float: left; margin: 0; padding: 9px 0; width: 100%; background-color: white; }
+#kboard-worldmap-franchise-editor .kboard-content .editor-textarea { { display: inline; margin: 0; padding: 5px; width: 100%; min-width: 100%; max-width: 100%; height: 250px; min-height: 0; font-size: 14px; border: 1px solid #dcdcdc; box-shadow: none; background: none; background-color: transparent; box-sizing: border-box; text-indent: 0; } }
+#kboard-worldmap-franchise-editor .kboard-control { float: left; padding: 15px 0; width: 100%; }
+#kboard-worldmap-franchise-editor .kboard-control .left { position: static; float: left; }
+#kboard-worldmap-franchise-editor .kboard-control .right { position: static; float: right; width: 50%; text-align: right; }
+#kboard-worldmap-franchise-editor .kboard-control .center { position: static; float: left; width: 100%; text-align: center; }
+#kboard-worldmap-franchise-editor.confirm { margin: 100px auto; max-width: 590px; }
+#kboard-worldmap-franchise-editor.confirm input[type=password] { width: 100%; box-sizing: border-box; }
+
+#kboard-worldmap-franchise-document { overflow: hidden; }
+/* 지도 표시 시작 */
+#kboard-worldmap-franchise-document .kboard-header { margin: 0 0 15px 0; }
+#kboard-worldmap-franchise-document .kboard-header form { margin: 0; padding: 0; }
+#kboard-worldmap-franchise-document .kboard-header-title { margin: 0 0 10px 0; padding-left: 24px; font-size: 13px; line-height: 20px; text-align: left; font-weight: normal; background: url(./images/icon-title.png) left 2px no-repeat; }
+#kboard-worldmap-franchise-document .kboard-category { }
+#kboard-worldmap-franchise-document .kboard-category.category-mobile { display: none; }
+#kboard-worldmap-franchise-document .kboard-category.category-pc { display: block; }
+#kboard-worldmap-franchise-document .kboard-category select { display: inline; margin: 0; padding: 0; width: 100%; min-width: 100%; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list { margin: 0; padding: 0; list-style: none; border: 0; background-color: #f9f9f9; overflow: hidden; }
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 5px; border: 0; list-style: none; }
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list li::before,
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list li::after { display: none; }
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list li a { display: block; padding: 10px 10px 8px 10px; font-size: 13px; border: 0; border-bottom: 2px solid transparent; text-decoration: none; text-shadow: none; box-shadow: none; color: #515151; }
+#kboard-worldmap-franchise-document .kboard-category .kboard-category-list li.kboard-category-selected a { font-weight: bold; border-bottom: 2px solid #545861; color: #545861; }
+#kboard-worldmap-franchise-document #kboard-worldmap-franchise-canvas.active { height: 500px; }
+#kboard-worldmap-franchise-document .kboard-search { padding: 10px; text-align: right; background-color: #f9f9f9; overflow: hidden; }
+#kboard-worldmap-franchise-document .kboard-search select { display: inline; margin: 0; padding: 0 5px; width: 100px; min-width: 0; max-width: 100px; height: 26px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 26px; vertical-align: middle; box-shadow: none; box-sizing: content-box; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-worldmap-franchise-document .kboard-search input { display: inline; margin: 0; padding: 0 5px; width: 200px; min-width: 0; max-width: 200px; height: 26px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 26px; vertical-align: middle; box-shadow: none; box-sizing: content-box; }
+/* 지도 표시 끝 */
+#kboard-worldmap-franchise-document .kboard-document-wrap { float: left; width: 100%; background-color: white; }
+#kboard-worldmap-franchise-document .kboard-detail { height: 46px; line-height: 46px; border: 0; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc; background: url(./images/document-header-background.png) left top repeat-x; font-size: 12px; }
+#kboard-worldmap-franchise-document .kboard-detail .detail-attr { display: inline-block; *display: inline; zoom: 1; float: left; margin: 0; padding: 0 35px 0 22px; }
+#kboard-worldmap-franchise-document .kboard-detail .detail-attr.detail-view { float: right; }
+#kboard-worldmap-franchise-document .kboard-detail .detail-attr .detail-name { float: left; font-weight: bold; color: black; text-align: right; }
+#kboard-worldmap-franchise-document .kboard-detail .detail-attr .detail-value { float: left; padding-left: 20px; color: black; }
+#kboard-worldmap-franchise-document .kboard-detail .detail-attr .detail-value img { vertical-align: middle; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info { margin: 0; padding: 22px; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-worldmap-franchise-info-wrap { overflow: hidden;}
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-thumbnail { display: none; float: left; padding-right: 20px; width: 200px; vertical-align: middle; text-align: center; box-sizing: content-box; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-thumbnail img { width: 200px; height: 200px; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-attr-wrap { overflow: hidden }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-title { margin: 0 0 10px 0; clear: none; font-size: 20px; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-attr { float: left; margin-right: 5px; width: 80px; color: black; text-align: right; vertical-align: top; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-value { color: black; vertical-align: top; word-break: break-all; }
+#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-value a { text-decoration: none; text-shadow: none; box-shadow: none; }
+#kboard-worldmap-franchise-document .add-franchise-thumbnail .kboard-franchise-thumbnail { display: block; }
+#kboard-worldmap-franchise-document .add-franchise-thumbnail .kboard-franchise-attr-wrap { margin-left: 220px; }
+#kboard-worldmap-franchise-document .mobile-thumbnail { display: none; padding: 10px 0; }
+#kboard-worldmap-franchise-document .mobile-thumbnail img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-worldmap-franchise-document .kboard-content { min-height: 200px; }
+#kboard-worldmap-franchise-document .kboard-content .content-view { margin: 0; padding: 22px; word-break: break-all; }
+#kboard-worldmap-franchise-document .kboard-content .content-view iframe { max-width: 100%; }
+#kboard-worldmap-franchise-document .kboard-content .content-view img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-worldmap-franchise-document .kboard-content .content-view p { margin: 0 0 0.75em; }
+#kboard-worldmap-franchise-document .kboard-content .content-view p:last-child { margin: 0; }
+#kboard-worldmap-franchise-document .kboard-content .content-view .thumbnail-area { text-align: center; }
+#kboard-worldmap-franchise-document .kboard-content .content-view .aligncenter { display: block; margin-right: auto; margin-left: auto; }
+#kboard-worldmap-franchise-document .kboard-content .content-view .alignright { float:right; }
+#kboard-worldmap-franchise-document .kboard-content .content-view .alignleft { float: left; }
+#kboard-worldmap-franchise-document .kboard-attach { padding: 0 0 5px 22px; font-size: 12px; }
+#kboard-worldmap-franchise-document .kboard-attach .kboard-button-download { display: inline; margin: 0; padding: 0; width: auto; height: 22px; line-height: 22px; border: none; background: none; background-color: transparent; font-size: 12px; font-weight: normal; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-align: center; text-shadow: none; box-shadow: none; }
+#kboard-worldmap-franchise-document .kboard-comments-area { float: left; width: 100%; }
+#kboard-worldmap-franchise-document .kboard-control { float: left; padding: 20px 0;  width: 100%; }
+#kboard-worldmap-franchise-document .kboard-control .left { position: static; float: left; }
+#kboard-worldmap-franchise-document .kboard-control .right { position: static; float: right; text-align: right; }
+
+#kboard-worldmap-franchise-latest .kboard-list { margin: 0 !important; padding: 0 !important; list-style:none; border: 0; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item { position: relative; margin: 0; padding: 15px 0; overflow: hidden; border: 0; border-top: 1px solid #e8eaec; background: none; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item:last-child { border-bottom: 1px solid #e8eaec; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item a { font-size: 16px; text-decoration: none; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item .kboard-worldmap-franchise-thumbnail { position: relative; float: left; margin-right: 20px; width: 30%; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item .kboard-worldmap-franchise-thumbnail img { width: 100%; max-width: 100%; vertical-align: middle; box-shadow: none; }
+#kboard-worldmap-franchise-latest .kboard-list .kboard-list-item .kboard-worldmap-franchise-no-image { float: left; margin-right: 40px; padding-top: 80%; width: 100%; background-color: #d9dbdb; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap { float: left; width: 60%; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title { margin-bottom: 10px; font-size: 20px; color: #000000; text-decoration: none; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title img { display: inline; margin: 0; width: auto; height: auto; vertical-align: middle; max-width: 100%; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-area { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-branch { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-address { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-tel { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-item .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-homepage { vertical-align: middle; font-size: 16px; color: black; word-break: break-all; }
+#kboard-worldmap-franchise-list .kboard-list .kboard-list-selected .kboard-worldmap-franchise-wrap .kboard-worldmap-franchise-title { font-weight: bold; }
+
+@media screen and (max-width: 600px) {
+	/* 지도 표시 시작 */
+	#kboard-worldmap-franchise-list .kboard-category { padding: 10px; text-align: center; background-color: #f9f9f9; }
+	#kboard-worldmap-franchise-list .kboard-category.category-mobile { display: block; }
+	#kboard-worldmap-franchise-list .kboard-category.category-pc { display: none; }
+	#kboard-worldmap-franchise-list .kboard-category select { margin: 0; }
+	#kboard-worldmap-franchise-list #kboard-worldmap-franchise-canvas.active { height: 400px; }
+	#kboard-worldmap-franchise-list .kboard-search { text-align: center; }
+	#kboard-worldmap-franchise-list .kboard-search select { float: left; margin-right: 1%; padding: 0; width: 29%; min-width: 29%; height: 28px; line-height: 28px; box-sizing: border-box; }
+	#kboard-worldmap-franchise-list .kboard-search input { float: left; margin-right: 1%; width: 49%; min-width: 49%; height: 28px; line-height: 28px; box-sizing: border-box; }
+	#kboard-worldmap-franchise-list .kboard-search button { float: left; width: 20%; min-width: 20%; box-sizing: border-box; }
+	/* 지도 표시 끝 */
+	#kboard-worldmap-franchise-list .kboard-list td.kboard-list-uid,
+	#kboard-worldmap-franchise-list .kboard-list td.kboard-list-area { display: none; }
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li { display: none; }
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.first-page,
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.last-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.prev-page,
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.next-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.prev-page a,
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.next-page a { padding: 6px 18px; }
+	#kboard-worldmap-franchise-list .kboard-pagination .kboard-pagination-pages li.active { display: inline-block; *display: inline; zoom: 1; }
+	
+	#kboard-worldmap-franchise-editor select,
+	#kboard-worldmap-franchise-editor input[type=text],
+	#kboard-worldmap-franchise-editor input[type=email],
+	#kboard-worldmap-franchise-editor input[type=number],
+	#kboard-worldmap-franchise-editor input[type=date],
+	#kboard-worldmap-franchise-editor input[type=password],
+	#kboard-worldmap-franchise-editor input[type=file] { width: 100%; box-sizing: border-box; }
+	#kboard-worldmap-franchise-editor .kboard-attr-row { padding: 10px 0; }
+	#kboard-worldmap-franchise-editor .kboard-attr-row .attr-name { padding: 0; width: 100%; font-size: 14px; }
+	#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value { margin: 0; padding: 0; }
+	#kboard-worldmap-franchise-editor .kboard-attr-row .attr-value .kboard-tree-category-wrap select { margin-bottom: 10px; width: 100%; }
+	
+	/* 지도 표시 시작 */
+	#kboard-worldmap-franchise-document .kboard-category { padding: 10px; text-align: center; background-color: #f9f9f9; }
+	#kboard-worldmap-franchise-document .kboard-category.category-mobile { display: block; }
+	#kboard-worldmap-franchise-document .kboard-category.category-pc { display: none; }
+	#kboard-worldmap-franchise-document .kboard-category select { margin: 0; }
+	#kboard-worldmap-franchise-document #kboard-worldmap-franchise-canvas.active { height: 400px; }
+	#kboard-worldmap-franchise-document .kboard-search { text-align: center; }
+	#kboard-worldmap-franchise-document .kboard-search select { float: left; margin-right: 1%; padding: 0; width: 29%; min-width: 29%; height: 28px; line-height: 28px; box-sizing: border-box; }
+	#kboard-worldmap-franchise-document .kboard-search input { float: left; margin-right: 1%; width: 49%; min-width: 49%; height: 28px; line-height: 28px; box-sizing: border-box; }
+	#kboard-worldmap-franchise-document .kboard-search button { float: left; width: 20%; min-width: 20%; box-sizing: border-box; }
+	/* 지도 표시 끝 */
+	#kboard-worldmap-franchise-document .kboard-detail .detail-view { display: none; }
+	#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info { padding: 10px 5px; }
+	#kboard-worldmap-franchise-document .kboard-worldmap-franchise-info .kboard-franchise-thumbnail { display: none; }
+	#kboard-worldmap-franchise-document .add-franchise-thumbnail .kboard-franchise-thumbnail { display: none; }
+	#kboard-worldmap-franchise-document .add-franchise-thumbnail .kboard-franchise-attr-wrap { margin-left: 0; }
+	#kboard-worldmap-franchise-document .mobile-thumbnail { display: block; }
+	#kboard-worldmap-franchise-document .kboard-content .content-view { padding: 10px 5px; }
+}

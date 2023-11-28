@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'pafw-icon';
+    src: url('../fonts/pafw-icon.eot');
+    src: url('../fonts/pafw-icon.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/pafw-icon.woff2') format('woff2'),
+    url('../fonts/pafw-icon.woff') format('woff'),
+    url('../fonts/pafw-icon.ttf') format('truetype'),
+    url('../fonts/pafw-icon.svg#pafw-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*='pafw-icon']::before{
+    display: inline-block;
+    font-family: 'pafw-icon';
+    font-style: normal;
+    font-weight: normal;
+    font-size : 28px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.pafw-icon.cart::before{content:'\0071';}
+.pafw-icon.billing-fields::before{content:'\0079';}
+.pafw-icon.shipping-fields::before{content:'\0077';}
+.pafw-icon.order-fields::before{content:'\0075';}
+.pafw-icon.order-total::before{content:'\0065';}
+.pafw-icon.payment-methods::before{content:'\0064';}
+.pafw-icon.payment-button::before{content:'\0072';}
+.pafw-icon.coupons::before{content:'\0074';}
+.pafw-icon.login::before{content:'\0069';}
+.pafw-icon.review::before{content:'\0042';}
+
+.pafw-icon.pafw-bacs::before{content:'\0069';}
+.pafw-icon.pafw-bank::before{content:'\006a';}
+
+.pafw-icon.bacs::before{content:'\006f';}
+.pafw-icon.bank::before{content:'\0070';}
+.pafw-icon.vbank::before{content:'\002c';}
+.pafw-icon.vbank_010::before{content:'\0041';}
+.pafw-icon.card::before{content:'\006a';}
+.pafw-icon.phone::before{content:'\0073';}
+.pafw-icon.escrow::before{content:'\002f';}
+.pafw-icon.samsung::before{content:'\0076';}
+.pafw-icon.kakaopay::before{content:'\0062';}
+.pafw-icon.payco::before{content:'\006e';}
+.pafw-icon.npay::before{content:'\0063';}
+.pafw-icon.toss::before{content:'\006d';}

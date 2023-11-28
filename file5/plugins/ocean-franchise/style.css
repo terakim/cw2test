@@ -1,0 +1,183 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+
+img { border: 0; }
+
+a.kboard-ocean-franchise-button-small,
+input.kboard-ocean-franchise-button-small,
+button.kboard-ocean-franchise-button-small { position: relative; display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 10px; height: 28px; line-height: 28px; font-size: 13px; font-weight: normal; letter-spacing: normal; color: white !important; background: #000000 !important; border: none; border-radius: 0; text-decoration: none !important; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; transition-duration: 0.3s; box-sizing: content-box; }
+a.kboard-ocean-franchise-button-small:hover,
+a.kboard-ocean-franchise-button-small:focus,
+a.kboard-ocean-franchise-button-small:active,
+input.kboard-ocean-franchise-button-small:hover,
+input.kboard-ocean-franchise-button-small:focus,
+input.kboard-ocean-franchise-button-small:active,
+button.kboard-ocean-franchise-button-small:hover,
+button.kboard-ocean-franchise-button-small:focus,
+button.kboard-ocean-franchise-button-small:active { opacity: 0.7; }
+
+.kboard-ocean-franchise-poweredby { float: left; padding-bottom: 15px; width: 100%; font-size: 12px; }
+.kboard-ocean-franchise-cut-strings { width: auto; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal; }
+
+#kboard-ocean-franchise-list { overflow: hidden; }
+#kboard-ocean-franchise-list .kboard-header { float: left; margin: 0 0 10px 0; width: 100%; }
+#kboard-ocean-franchise-list .kboard-header form { margin: 0; padding: 0; }
+#kboard-ocean-franchise-list .kboard-header-title { margin: 0 0 10px 0; padding-left: 24px; font-size: 13px; line-height: 20px; text-align: left; font-weight: normal; background: url(./images/icon-title.png) left 2px no-repeat; }
+#kboard-ocean-franchise-list .kboard-map { float: left; padding-bottom: 5px; width: 50%; text-align: left; }
+#kboard-ocean-franchise-list .kboard-map area { outline: 0; }
+#kboard-ocean-franchise-list .kboard-map-v2 { float: left; position: relative; margin: 0 0 10px 0; width: 300px; }
+#kboard-ocean-franchise-list .kboard-map-v2 img { display: inline; width: 300px; min-width: 0; max-width: 300px; border: 0; }
+#kboard-ocean-franchise-list .kboard-map-v2 .map-area { position: absolute; height: 25px; line-height: 25px; background-color: RGBA(255, 255, 255, 0.5); }
+#kboard-ocean-franchise-list .kboard-map-v2 .map-area a { padding: 0 5px; font-size: 13px; color: #50afdd; font-weight: bold; text-decoration: none; }
+#kboard-ocean-franchise-list .kboard-map-v2 .map-area a:hover { text-decoration: underline; }
+#kboard-ocean-franchise-list .kboard-search { float: right; margin: 0 0 10px 0; width: 50%; }
+#kboard-ocean-franchise-list .kboard-search .kboard-target { overflow: hidden; }
+#kboard-ocean-franchise-list .kboard-search select { display: inline; float: left; margin-right: 1%; padding: 0 5px; width: 19%; min-width: 0; max-width: 19%; height: 28px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 28px; vertical-align: middle; box-shadow: none; box-sizing: border-box; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-ocean-franchise-list .kboard-search input { display: inline; float: left; margin-right: 1%; padding: 0 5px; width: 64%; min-width: 0; max-width: 69%; height: 28px; min-height: 0; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: none; background-color: white; line-height: 28px; vertical-align: middle; box-shadow: none; box-sizing: border-box; }
+#kboard-ocean-franchise-list .kboard-search button { display: inline; float: left; padding: 0; width: 15%; min-width: 0; max-width: 15%; height: 28px; min-height: 0; font-size: 13px; border-radius: 0; line-height: 28px; vertical-align: middle; box-shadow: none; box-sizing: border-box; }
+#kboard-ocean-franchise-list .kboard-branch { float: right; margin: 0 0 10px 0; width: 50%; }
+#kboard-ocean-franchise-list .kboard-branch .kboard-branch-button { display: inline-block; *display: inline; zoom: 1; margin: 0 10px 10px 0; width: 78px; height: 28px; line-height: 28px; text-align: center; text-decoration: none; background-color: #faf7f7; border: 1px solid #dbdada; color: black; font-size: 13px; }
+#kboard-ocean-franchise-list .kboard-branch .kboard-branch-button.active,
+#kboard-ocean-franchise-list .kboard-branch .kboard-branch-button:hover { background-color: #50afdd; border: 1px solid #50afdd; color: white; }
+#kboard-ocean-franchise-list .kboard-list { float: left; width: 100%; background-color: white; }
+#kboard-ocean-franchise-list .kboard-list table { table-layout: fixed; width: 100%; border: 0; border-top: 1px solid #e8eaec; font-size: 12px; border-collapse: collapse; }
+#kboard-ocean-franchise-list .kboard-list table a { color: black; text-decoration: none; border: 0; }
+#kboard-ocean-franchise-list .kboard-list table tr { border: 0; }
+#kboard-ocean-franchise-list .kboard-list table td { padding: 0; line-height: 38px; text-align: center; vertical-align: middle; }
+#kboard-ocean-franchise-list .kboard-list table td.kboard-list-uid { width: 72px; }
+#kboard-ocean-franchise-list .kboard-list table td.kboard-list-branch { width: 120px; }
+#kboard-ocean-franchise-list .kboard-list table td.kboard-list-title { width: auto; }
+#kboard-ocean-franchise-list .kboard-list table td.kboard-list-title img { display: inline; margin: 0; width: 16px; height: 16px; vertical-align: middle; }
+#kboard-ocean-franchise-list .kboard-list table td.kboard-list-tel { width: 100px; }
+#kboard-ocean-franchise-list .kboard-list thead tr td { padding: 0; line-height: 38px; font-weight: bold; color: black; border: 0; border-bottom: 1px solid #dbdada; background: url(./images/list-header-background.png) left top repeat-x; }
+#kboard-ocean-franchise-list .kboard-list tbody tr td { word-break: break-all; border: 0; border-bottom: 1px solid #dbdada; }
+#kboard-ocean-franchise-list .kboard-list tbody tr:nth-child(even) { background-color: #faf8f8; }
+#kboard-ocean-franchise-list .kboard-list tbody tr:hover { background-color: #faf8f8; }
+#kboard-ocean-franchise-list .kboard-list tbody tr.kboard-list-notice { background-color: #f4f4f4; }
+#kboard-ocean-franchise-list .kboard-list tbody tr.kboard-list-notice td.kboard-list-uid { font-weight: bold; color: #515151; }
+#kboard-ocean-franchise-list .kboard-list tbody td.kboard-list-title { text-align: left; }
+#kboard-ocean-franchise-list .kboard-list tbody td.kboard-list-title img { display: inline; vertical-align: text-bottom; }
+#kboard-ocean-franchise-list .kboard-pagination { float: left; padding: 15px 0; width: 100%; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages { float: left; margin: 0; padding: 0 0 1px 0; width: 100%; list-style: none; text-align: center; border: 0; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 1px; background: none; border: 0; list-style: none; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li a { color: black; padding: 5px 10px; border: 1px solid #e0e0e0; text-decoration: none; font-size: 12px; line-height: 27px; background-color: white; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.active a { font-weight: bold; border: 1px solid #a9a9a9; color: black; text-decoration: none; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li:before { display: none; }
+#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li:after { display: none; }
+#kboard-ocean-franchise-list .kboard-control { float: left; padding: 15px 0 1px 0; width: 100%; text-align: right; }
+
+#kboard-ocean-franchise-editor { overflow: hidden; }
+#kboard-ocean-franchise-editor select { display: inline; margin: 0; padding: 0 5px; font-size: 13px; width: 100%; *width: 30%; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-ocean-franchise-editor input[type=text],
+#kboard-ocean-franchise-editor input[type=email],
+#kboard-ocean-franchise-editor input[type=number],
+#kboard-ocean-franchise-editor input[type=date],
+#kboard-ocean-franchise-editor input[type=password],
+#kboard-ocean-franchise-editor .editor-textarea { display: inline; margin: 0; padding: 0 5px; width: 100%; *width: 30%; height: 28px; line-height: 28px; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-ocean-franchise-editor select:hover,
+#kboard-ocean-franchise-editor input[type=text]:hover,
+#kboard-ocean-franchise-editor input[type=email]:hover,
+#kboard-ocean-franchise-editor input[type=number]:hover,
+#kboard-ocean-franchise-editor input[type=date]:hover,
+#kboard-ocean-franchise-editor input[type=password]:hover,
+#kboard-ocean-franchise-editor textarea:hover,
+#kboard-ocean-franchise-editor select:focus,
+#kboard-ocean-franchise-editor input[type=text]:focus,
+#kboard-ocean-franchise-editor input[type=email]:focus,
+#kboard-ocean-franchise-editor input[type=number]:focus,
+#kboard-ocean-franchise-editor input[type=date]:focus,
+#kboard-ocean-franchise-editor input[type=password]:focus
+#kboard-ocean-franchise-editor textarea:focus { border: 1px solid #9e9e9e; }
+#kboard-ocean-franchise-editor input[type=file] { display: inline; margin: 0; padding: 0; width: 100%; *width: 30%; font-size: 12px; color: #666666; border-radius: 0; border: 0; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-ocean-franchise-editor .kboard-attr-wrap { overflow: hidden; }
+#kboard-ocean-franchise-editor .kboard-attr-wrap-title { margin: 10px 0; padding: 5px 10px; width: 100%; line-height: 40px; border-top: 1px solid #e5e5e5; color: #545861; font-size: 16px; font-weight: bold; background-color: #f7f7f7; text-transform: capitalize; }
+#kboard-ocean-franchise-editor .kboard-attr-row { float: left; margin: 0; width: 100%; }
+#kboard-ocean-franchise-editor .kboard-attr-row-half { float: left; width: 50%; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-name { float: left; display: block; box-sizing: content-box; margin: 0; padding: 5px 10px; width: 130px; line-height: 30px; color: #545861; font-size: 13px; font-weight: bold; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-name img { display: inline; margin: 0; padding: 0; width: auto; max-width: 100%; vertical-align: middle; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-name .attr-required-text { color: red; font-weight: normal; font-size: 12px; }
+#kboard-ocean-franchise-editor .kboard-attr-row.kboard-attr-content .attr-name { display: none; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-value { margin-left: 150px; padding: 5px 10px; line-height: 30px; text-align: left; font-size: 13px; background-color: white; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-value .attr-value-option { display: inline; padding-right: 20px; width: auto; cursor: pointer; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-value .attr-value-option input[type=checkbox] { cursor: pointer; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-value .description { margin: 0; color: #666666; }
+#kboard-ocean-franchise-editor .kboard-attr-row .attr-checkbox { color: #545861; font-size: 14px; cursor: pointer; }
+#kboard-ocean-franchise-editor .kboard-attr-title input { width: 100%; *width: 70%; }
+#kboard-ocean-franchise-editor .kboard-content { padding: 15px 0; overflow: hidden; }
+#kboard-ocean-franchise-editor .kboard-content .editor-textarea { height: 250px; line-height: normal; }
+#kboard-ocean-franchise-editor .kboard-control { padding: 15px 0; float: left; width: 100%; }
+#kboard-ocean-franchise-editor .kboard-control .left { position: static; float: left; }
+#kboard-ocean-franchise-editor .kboard-control .right { position: static; float: right; width: 50%; text-align: right; }
+#kboard-ocean-franchise-editor .kboard-control .center { position: static; float: left; width: 100%; text-align: center; }
+#kboard-ocean-franchise-editor.confirm { margin: 100px auto; max-width: 590px; }
+#kboard-ocean-franchise-editor.confirm input[type=password] { width: 100%; box-sizing: border-box; }
+
+#kboard-ocean-franchise-document { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-ocean-franchise-document .kboard-document-wrap { float: left; width: 100%; background-color: white; }
+#kboard-ocean-franchise-document .kboard-detail { clear: both; float: left; width: 100%; border: 0; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc; background: url(./images/document-header-background.png) left top repeat-x; font-size: 12px; }
+#kboard-ocean-franchise-document .kboard-detail .detail-attr { display: inline-block; *display: inline; zoom: 1; float: left; margin: 0; padding: 12px 35px 12px 22px; }
+#kboard-ocean-franchise-document .kboard-detail .detail-attr.detail-view { float: right; }
+#kboard-ocean-franchise-document .kboard-detail .detail-attr .detail-name { float: left; font-weight: bold; color: black; text-align: right; }
+#kboard-ocean-franchise-document .kboard-detail .detail-attr .detail-value { float: left; padding-left: 20px; color: black; }
+#kboard-ocean-franchise-document .kboard-detail .detail-attr .detail-value img { vertical-align: middle; }
+#kboard-ocean-franchise-document .kboard-map.active { width: 100%; height: 300px; }
+#kboard-ocean-franchise-document .kboard-franchise-info { float: left; margin: 0; padding: 21px 0; width: 100%; }
+#kboard-ocean-franchise-document .kboard-franchise-info table { margin: 0; padding: 0; border: 0; width: 100%; }
+#kboard-ocean-franchise-document .kboard-franchise-info table tr {}
+#kboard-ocean-franchise-document .kboard-franchise-info table td { margin: 0; padding: 0; height: 27px; line-height: 27px; border: 0; border-width: 0; font-size: 12px; }
+#kboard-ocean-franchise-document .kboard-franchise-info table td.kboard-franchise-thumbnail { padding-right: 21px; width: 200px; height: 150px; vertical-align: middle; text-align: center; }
+#kboard-ocean-franchise-document .kboard-franchise-info table td.kboard-franchise-thumbnail p { display: block; margin: 0; padding: 0; width: 200px; height: 150px; line-height: 150px; background-color: #faf8f8; font-size: 14px; font-weight: bold; }
+#kboard-ocean-franchise-document .kboard-franchise-info table td.kboard-franchise-attr { width: 74px; text-align: right; border-bottom: 1px solid #dbdada; }
+#kboard-ocean-franchise-document .kboard-franchise-info table td.kboard-franchise-value { padding-left: 5px; border-bottom: 1px solid #dbdada; }
+#kboard-ocean-franchise-document .kboard-franchise-info table tr:nth-child(1) td.kboard-franchise-attr,
+#kboard-ocean-franchise-document .kboard-franchise-info table tr:nth-child(1) td.kboard-franchise-value { border-top: 1px solid #dbdada; }
+#kboard-ocean-franchise-document .kboard-content { clear: both; float: left; width: 100%; min-height: 200px; }
+#kboard-ocean-franchise-document .kboard-content .content-view { margin: 0; padding: 22px; word-break: break-all; }
+#kboard-ocean-franchise-document .kboard-content .content-view iframe { max-width: 100%; }
+#kboard-ocean-franchise-document .kboard-content .content-view img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-ocean-franchise-document .kboard-content .content-view hr { margin: 10px 0; padding: 0; height: 1px; border: 0; background-color: #f1f1f1; }
+#kboard-ocean-franchise-document .kboard-content .content-view p { margin: 0 0 0.75em; }
+#kboard-ocean-franchise-document .kboard-content .content-view p:last-child { margin: 0; }
+#kboard-ocean-franchise-document .kboard-content .content-view .thumbnail-area { text-align: center; }
+#kboard-ocean-franchise-document .kboard-content .content-view .aligncenter { display: block; margin-right: auto; margin-left: auto; }
+#kboard-ocean-franchise-document .kboard-content .content-view .alignright { float:right; }
+#kboard-ocean-franchise-document .kboard-content .content-view .alignleft { float: left; }
+#kboard-ocean-franchise-document .kboard-attach { padding: 0 0 5px 22px; font-size: 12px; }
+#kboard-ocean-franchise-document .kboard-attach .kboard-button-download { display: inline; margin: 0; padding: 0; width: auto; height: 22px; line-height: 22px; border: none; background: none; background-color: transparent; font-size: 12px; font-weight: normal; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-align: center; text-shadow: none; box-shadow: none; }
+#kboard-ocean-franchise-document .kboard-comments-area { float: left; width: 100%; }
+#kboard-ocean-franchise-document .kboard-control { float: left; padding: 15px 0;  width: 100%; }
+#kboard-ocean-franchise-document .kboard-control .left { position: static; float: left; }
+#kboard-ocean-franchise-document .kboard-control .right { position: static; float: right; text-align: right; }
+
+#kboard-ocean-franchise-latest table { width: 100%; table-layout: fixed; border: 0; border-bottom: 1px solid #e3e3e3; }
+#kboard-ocean-franchise-latest table tr { padding: 0; border: 0; }
+#kboard-ocean-franchise-latest table th { padding: 5px 0; border: 0; text-align: center; }
+#kboard-ocean-franchise-latest table td { padding: 5px 0; border: 0; border-top: 1px solid #e3e3e3; }
+#kboard-ocean-franchise-latest table .kboard-latest-title { padding-left: 5px; }
+#kboard-ocean-franchise-latest table .kboard-latest-date { width: 80px; text-align: center; }
+
+@media screen and (max-width: 600px) {
+	#kboard-ocean-franchise-list .kboard-map { width: 100%; text-align: center; }
+	#kboard-ocean-franchise-list .kboard-map-v2 { float: none; margin: 0 auto; }
+	#kboard-ocean-franchise-list .kboard-search { float: none; width: auto; text-align: center; }
+	#kboard-ocean-franchise-list .kboard-branch { float: none; width: auto; text-align: center; }
+	#kboard-ocean-franchise-list .kboard-branch .kboard-branch-button { margin: 5px; }
+	#kboard-ocean-franchise-list .kboard-list td.kboard-list-uid { display: none; }
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li { display: none; }
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.first-page,
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.last-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.prev-page,
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.next-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.prev-page a,
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.next-page a { padding: 6px 18px; }
+	#kboard-ocean-franchise-list .kboard-pagination .kboard-pagination-pages li.active { display: inline-block; *display: inline; zoom: 1; }
+	
+	#kboard-ocean-franchise-editor .kboard-attr-row input[type=text],
+	#kboard-ocean-franchise-editor .kboard-attr-row input[type=file],
+	#kboard-ocean-franchise-editor .kboard-attr-row input[type=password] { width: 50%; }
+	
+	#kboard-ocean-franchise-document .kboard-detail .detail-view { display: none; }
+	#kboard-ocean-franchise-document .kboard-franchise-info .kboard-franchise-thumbnail { display: none; }
+}

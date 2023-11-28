@@ -1,0 +1,671 @@
+# Copyright (C) 2023 CodeMShop
+# This file is distributed under the Commercial License.
+msgid ""
+msgstr ""
+"Project-Id-Version: mshop-address-ex 7.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mshop-address\n"
+"POT-Creation-Date: 2023-01-20 13:17+0900\n"
+"PO-Revision-Date: 2023-01-20 13:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: CodeM\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"Poedit: \n"
+
+#: includes/admin/settings/class-msaddr-settings.php:292
+msgid "3"
+msgstr ""
+
+#: includes/admin/class-msaddr-admin-post-types.php:40
+msgid "삭제"
+msgstr ""
+
+#: includes/admin/class-msaddr-admin-post-types.php:56
+#: templates/myaccount/address-book.php:32
+msgid "배송지목록"
+msgstr ""
+
+#: includes/admin/class-msaddr-admin.php:20
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:734
+#: includes/admin/settings/class-msaddr-settings.php:315
+msgid "매뉴얼"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:53
+msgid "커스텀 필드"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:87
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:104
+#: includes/class-msaddr-fields.php:91 includes/class-msaddr-fields.php:161
+msgid "Address"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:129
+#: includes/admin/settings/class-msaddr-settings.php:210
+#: includes/admin/settings/class-msaddr-settings.php:211
+msgid "우편번호"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:130
+#: includes/admin/settings/class-msaddr-settings.php:130
+msgid "주소 검색"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:133
+#: includes/admin/settings/class-msaddr-settings.php:217
+#: includes/admin/settings/class-msaddr-settings.php:218
+msgid "기본주소"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:136
+#: includes/admin/settings/class-msaddr-settings.php:224
+#: includes/admin/settings/class-msaddr-settings.php:225
+msgid "상세주소"
+msgstr ""
+
+#: includes/admin/setting-manager/mshop-setting-helper.php:53
+msgid "비회원"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:211
+msgid "텍스트"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:212
+msgid "TextArea"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:213
+msgid "셀렉트"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:214
+#: includes/admin/settings/class-msaddr-settings.php:231
+#: includes/admin/settings/class-msaddr-settings.php:232
+#: includes/class-msaddr-fields.php:97
+msgid "이메일"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:215
+#: includes/admin/settings/class-msaddr-settings.php:238
+#: includes/admin/settings/class-msaddr-settings.php:239
+#: includes/class-msaddr-fields.php:105
+msgid "전화번호"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:216
+msgid "국가"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:217
+msgid "주/군"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:218
+msgid "대한민국 주소"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:219
+msgid "파일업로드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:243
+msgid "체크아웃 필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:256
+msgid "<div class=\"desc2\">체크아웃 필드 에디터 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:271
+msgid ""
+"<div class=\"desc2\">청구지(Billing) 필드 편집 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:279
+msgid ""
+"<div class=\"desc2\">배송지(Shipping) 필드 편집 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:287
+msgid "<div class=\"desc2\">주문(Order) 필드 편집 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:296
+msgid ""
+"<div class=\"desc2\">다음 주문을 위해 주문 필드의 입력값을 저장합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:306
+msgid "체크아웃 필드 설정을 초기화하시겠습니까?"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:310
+msgid "<div class=\"desc2\">체크아웃 필드 설정을 초기화합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:321
+msgid "청구지 필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:330
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:372
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:414
+msgid "필드 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:363
+msgid "배송지 필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:405
+msgid "주문 필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:453
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:597
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:672
+#: includes/admin/settings/class-msaddr-settings.php:263
+msgid "활성화"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:460
+msgid "필수입력"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:471
+msgid "아이디"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:477
+msgid "종류"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:481
+msgid "필드 타입"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:486
+msgid "제목"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:492
+msgid "안내문구"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:506
+msgid "클래스"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:512
+msgid "위치"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:516
+msgid "Left"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:517
+msgid "Right"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:518
+msgid "Full-Width"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:524
+msgid "국가옵션"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:528
+msgid "국가 옵션"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:529
+msgid "한국일때 숨김"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:530
+msgid "한국일때 표시"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:531
+msgid "항상표시"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:550
+msgid "키"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:557
+msgid "값"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:573
+msgid "필드 표시 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:578
+msgid "상품별 노출 제어"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:604
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:679
+msgid "청구지필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:611
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:622
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:633
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:686
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:697
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:708
+msgid "결제수단을 선택하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:615
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:690
+msgid "배송지필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:626
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:701
+msgid "주문필드"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:637
+msgid "상품"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:645
+msgid "상품을 선택하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:653
+msgid "카테고리별 노출 제어"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:712
+msgid "상품 카테고리"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings-checkout-fields.php:720
+msgid "카테고리를 선택하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:95
+msgid "기본 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:108
+msgid ""
+"<div class=\"desc2\">엠샵 대한민국 주소 & 체크아웃 필드 에디터 기능을 사용합"
+"니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:119
+msgid "사용자정의 CSS"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:127
+msgid "주소 검색 버튼 텍스트"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:131
+msgid ""
+"<div class=\"desc2\">주소 입력 화면에서 주소 검색 버튼의 텍스트를 지정합니"
+"다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:135
+msgid "주소 레이블 텍스트"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:138
+#: includes/class-msaddr-fields.php:89 includes/class-msaddr-fields.php:159
+msgid "주소"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:139
+msgid ""
+"<div class=\"desc2\">주소 입력 화면에서 주소 레이블(Label)의 텍스트를 지정합"
+"니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:143
+msgid "사용자 입력 허용"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:146
+msgid ""
+"<div class=\"desc2\">사용자가 주소를 직접 입력 할 수 있도록 합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:150
+msgid "스크립트 Footer 사용"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:153
+msgid ""
+"<div class=\"desc2\">스크립트를 Footer 영역에서 읽도록 설정 할 수 있습니다. "
+"타 플러그인과의 스크립트 충돌로 기능이 정상 동작되지 않는 경우에만 활성화를 "
+"해 주세요.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:157
+msgid "상세주소 필수입력"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:160
+msgid "<div class=\"desc2\">상세주소 필드를 필수입력 필드로 지정합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:164
+msgid "전화번호 형식 고정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:167
+msgid ""
+"<div class=\"desc2\">전화번호 필드에 숫자만 입력 가능하도록 합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:178
+msgid "주소 형식"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:182
+msgid "도로명 주소"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:183
+msgid "지번 주소"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:185
+msgid "<div class=\"desc2\">사이트에서 이용할 주소 형식을 지정합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:189
+msgid "다른 형식도 함께 표시"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:192
+msgid ""
+"<div class=\"desc2\">주소 검색 결과에 다른 형식의 주소도 함께 표시합니다.</"
+"div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:203
+#: includes/admin/settings/class-msaddr-settings.php:204
+#: includes/class-msaddr-fields.php:81 includes/class-msaddr-fields.php:151
+msgid "이름"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:252
+msgid "배송지 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:258
+msgid "배송지 관리 기능"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:267
+msgid "<div class=\"desc2\">최근 배송지 목록 관리 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:271
+msgid "배송지 수정"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:276
+msgid "<div class=\"desc2\">등록된 배송지를 수정할 수 있습니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:281
+msgid "배송지 삭제"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:285
+msgid "<div class=\"desc2\">등록된 배송지를 삭제할 수 있습니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:290
+msgid "최근 배송지 목록 개수"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:291
+msgid ""
+"<div class=\"desc2\">최근 배송지 목록을 몇개까지 유지할지를 지정합니다.</"
+"div>"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:298
+msgid "배송지 변경 가능 주문상태"
+msgstr ""
+
+#: includes/admin/settings/class-msaddr-settings.php:299
+msgid ""
+"<div class=\"desc2\">배송지를 변경할 수 있는 주문상태를 지정합니다.</div>"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:24
+msgid "View details"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:47
+msgid "More information about %s"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:85
+msgid "Check for updates"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:163
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Vcs/PluginUpdateChecker.php:80
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/class-msaddr-address-book.php:243
+msgid "Order Notes"
+msgstr ""
+
+#: includes/class-msaddr-ajax.php:45
+msgid "체크아웃 필드 설정이 초기화되었습니다."
+msgstr ""
+
+#: includes/class-msaddr-ajax.php:54
+msgid "잘못된 요청입니다."
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:65
+msgid "<strong>청구지 기본주소</strong> "
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:66 includes/class-msaddr-checkout.php:71
+#: includes/class-msaddr-checkout.php:76 includes/class-msaddr-checkout.php:81
+#: includes/class-msaddr-checkout.php:86 includes/class-msaddr-checkout.php:91
+msgid "%s is a required field."
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:70
+msgid "<strong>청구지 상세주소</strong> "
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:75
+msgid "<strong>배송지 기본주소</strong> "
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:80
+msgid "<strong>배송지 상세주소</strong> "
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:85
+msgid "<strong>청구지 우편번호</strong>"
+msgstr ""
+
+#: includes/class-msaddr-checkout.php:90
+msgid "<strong>배송지 우편번호</strong>"
+msgstr ""
+
+#: includes/class-msaddr-endpoint.php:45
+msgid "배송지 관리"
+msgstr ""
+
+#: includes/class-msaddr-fields.php:166
+msgid "Email Address"
+msgstr ""
+
+#: includes/class-msaddr-fields.php:175 includes/class-msaddr-fields.php:208
+#: includes/class-msaddr-fields.php:236 includes/class-msaddr-fields.php:245
+msgid "Phone"
+msgstr ""
+
+#: includes/class-msaddr-fields.php:201 includes/class-msaddr-fields.php:229
+msgid "First Name"
+msgstr ""
+
+#: includes/class-msaddr-fields.php:205 includes/class-msaddr-fields.php:233
+#: includes/class-msaddr-fields.php:242
+msgid "Email"
+msgstr ""
+
+#: includes/class-msaddr-fields.php:285
+msgid "required"
+msgstr ""
+
+#: includes/class-msaddr-file.php:321
+msgid "파일 업로드중 오류가 발생했습니다."
+msgstr ""
+
+#: includes/class-msaddr-members.php:20
+msgid "주소를 입력하세요."
+msgstr ""
+
+#: includes/class-msaddr-members.php:21 includes/class-msaddr-members.php:25
+msgid "주소검색"
+msgstr ""
+
+#: includes/class-msaddr-members.php:41
+msgid "주소를 입력해주세요."
+msgstr ""
+
+#: includes/class-msaddr-members.php:51
+msgid "상세주소를 입력해주세요."
+msgstr ""
+
+#: includes/class-msaddr-myaccount.php:48
+msgid "배송지"
+msgstr ""
+
+#: templates/checkout/form-msaddr-shipping.php:19
+msgid "선택하신 배송지를 삭제하시겠습니까?"
+msgstr ""
+
+#: templates/checkout/form-msaddr-shipping.php:28
+#: templates/myaccount/address-book.php:27
+msgid "배송지 정보"
+msgstr ""
+
+#: templates/checkout/form-msaddr-shipping.php:57
+msgid "새로운 주소로 배송"
+msgstr ""
+
+#: templates/checkout/form-msaddr-shipping.php:87
+msgid "Additional information"
+msgstr ""
+
+#: templates/mshop-address/edit-address-popup.php:15
+#: templates/mshop-address/edit-address-popup.php:21
+msgid "배송지 변경"
+msgstr ""
+
+#: templates/mshop-address/split-phone-field.php:35
+msgid "전화번호 "
+msgstr ""
+
+#: templates/mshop-address/split-phone-field.php:35
+msgid "필수"
+msgstr ""
+
+#: templates/myaccount/address-book.php:36
+msgid "신규배송지"
+msgstr ""
+
+#: templates/order/order-details-customer.php:7
+msgid "Customer Details"
+msgstr ""
+
+#: templates/order/order-details-customer.php:12
+msgid "Note:"
+msgstr ""
+
+#: templates/order/order-details-customer.php:19
+msgid "Email:"
+msgstr ""
+
+#: templates/order/order-details-customer.php:26
+msgid "Telephone:"
+msgstr ""
+
+#: templates/order/order-details-customer.php:42
+msgid "Billing Address"
+msgstr ""
+
+#: templates/order/order-details-customer.php:45
+#: templates/order/order-details-customer.php:57
+msgid "N/A"
+msgstr ""
+
+#: templates/order/order-details-customer.php:53
+msgid "Shipping Address"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "엠샵 주소 체크아웃"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.codemshop.com/shop/zipcode/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"대한민국 우편번호, 주소, 이름을 지원하며, 배송지 관리 및 결제 페이지의 필드"
+"를 제어하는 에디터 기능을 제공 합니다."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeMShop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.codemshop.com/"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:153
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:155
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:157
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: includes/class-msaddr-address-book.php:244
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr ""

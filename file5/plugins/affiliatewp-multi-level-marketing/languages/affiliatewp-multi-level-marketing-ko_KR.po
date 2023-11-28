@@ -1,0 +1,952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP MLM\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2023-11-07 01:21+0000\n"
+"Last-Translator: 관리자\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: affiliatewp-multi-level-marketing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"POT-Creation-Date: 2023-11-07 01:20+0000"
+
+#: am-license-menu.php:114
+msgid " Activation"
+msgstr ""
+
+#: am-license-menu.php:115
+msgid " API Key Activation"
+msgstr ""
+
+#: am-license-menu.php:399
+#, php-format
+msgid "%s activated. "
+msgstr ""
+
+#: am-license-menu.php:967
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s이 활성화되지 않았습니다. 설정 페이지로 이동 %s을 (를) 활성화 할 수있는 라이센스 키 및 라이센스 이메일을 입력합니다."
+
+#: includes/class-activation.php:80
+#, php-format
+msgid "%s requires %s. Please activate it to continue."
+msgstr ""
+
+#: includes/class-activation.php:83
+#, php-format
+msgid "%s requires %s. Please install it to continue."
+msgstr ""
+
+#: am-license-menu.php:270
+#, php-format
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr "<b> 경고! </b> 외부 요청을 차단하고 있습니다. 즉, %s 업데이트를 가져올 수 없습니다. %s을 %s에 추가하십시오."
+
+#: am-license-menu.php:955
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 라이센스 키를 찾을 수 없습니다. %s을 (를) 설정, 또는 키가 귀하의 계정에서 비활성화 될 때 라이센스 키를 입력하는 "
+"것을 잊었을 지도 모릅니다. 당신은 활성화 또는 계정에서 라이센스 키를 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">대시 보드를</a> ."
+
+#: am-license-menu.php:949
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s의 구독을 찾을 수 없습니다. 당신의 계정에서 구독상품을 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+#: includes/admin/class-settings.php:532
+msgid ""
+"Add a custom label for the referrer field on the affiliate registration form."
+msgstr ""
+
+#: includes/admin/class-settings.php:839 integrations/class-woocommerce.php:419
+msgid "Add New Rate"
+msgstr ""
+
+#: includes/admin/class-settings.php:844 integrations/class-woocommerce.php:424
+msgid "Add rates from low to high"
+msgstr ""
+
+#: includes/admin/class-settings.php:629
+msgid "Affiliate Data"
+msgstr "마케터 데이터"
+
+#. Plugin Name of the plugin/theme
+#: integrations/class-woocommerce.php:437
+msgid "AffiliateWP MLM"
+msgstr ""
+
+#: integrations/class-formidablepro.php:143
+#, php-format
+msgid "AffiliateWP: Indirect Referral #%d for %s recorded for %s"
+msgstr ""
+
+#: integrations/class-formidablepro.php:177
+#, php-format
+msgid "AffiliateWP: Referral #%d for %s for %s rejected"
+msgstr "AffiliateWP: %s의 %s에 대 한 조회 #%d가 거부 됨"
+
+#: includes/display-functions.php:686
+msgid "Amount"
+msgstr "금액"
+
+#: am-license-menu.php:335
+msgid "API Deactivation"
+msgstr ""
+
+#: am-license-menu.php:329
+msgid "API Email"
+msgstr ""
+
+#: am-license-menu.php:325
+msgid "API Key"
+msgstr "API 키"
+
+#: am-license-menu.php:116 am-license-menu.php:317
+msgid "API Key Activation"
+msgstr ""
+
+#: am-license-menu.php:522
+msgid "API Key deactivated. "
+msgstr ""
+
+#: am-license-menu.php:117
+msgid "API Key Deactivation"
+msgstr ""
+
+#: am-license-menu.php:321
+msgid "API Key Status"
+msgstr ""
+
+#: affiliatewp-multi-level-marketing.php:116
+#: affiliatewp-multi-level-marketing.php:128
+msgid "Cheatin&#8217; huh?"
+msgstr "잘못된 접근입니다."
+
+#: includes/admin/class-settings.php:476
+msgid "Choose the integrations that should have MLM enabled."
+msgstr ""
+
+#: includes/admin/class-settings.php:630
+msgid "Choose which sections should NOT be displayed for each affiliate."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Christian Freeman"
+msgstr ""
+
+#: includes/admin/class-settings.php:276
+msgid ""
+"Click this button to fix issues with customer emails being linked to all "
+"upline affiliates."
+msgstr ""
+
+#: includes/admin/class-settings.php:162
+msgid "Click this button to sync all affiliates with their Lifetime Affiliate."
+msgstr ""
+
+#: includes/admin/class-settings.php:538
+msgid "Click to allow commissions for referring new Sub Affiliates."
+msgstr ""
+
+#: includes/admin/class-settings.php:598
+msgid "Click to apply the depth setting to the total matrix."
+msgstr ""
+
+#: includes/admin/class-settings.php:565
+msgid "Click to enable fixed width and depth matrix settings."
+msgstr ""
+
+#: includes/admin/class-settings.php:517
+msgid ""
+"Click to force referral commissions for purchases made by non-referred "
+"customers who became affiliates."
+msgstr ""
+
+#: includes/admin/class-settings.php:776 integrations/class-woocommerce.php:360
+msgid "Commission Rate"
+msgstr "수수료율"
+
+#: includes/admin/class-settings.php:366
+msgid "Congratulations {name}!"
+msgstr "축하합니다 {이름}!"
+
+#: includes/admin/class-settings.php:354
+msgid "Congratulations {parent_affiliate_name}!"
+msgstr ""
+
+#: am-license-menu.php:404
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "연결 라이센스 키 API 서버에 실패했습니다. 나중에 다시 시도하십시오."
+
+#: includes/compatibility.php:70
+msgid "Cycle Complete"
+msgstr ""
+
+#: includes/admin/class-settings.php:590
+msgid "Cycles"
+msgstr "사이클"
+
+#: includes/display-functions.php:689
+msgid "Date"
+msgstr "날짜"
+
+#: am-license-menu.php:339
+msgid "Deactivate API Key"
+msgstr ""
+
+#: am-license-menu.php:589
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr ""
+
+#: includes/admin/class-settings.php:500
+msgid "Default Affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:542
+msgid "Default Sub Affiliate Referral Status"
+msgstr ""
+
+#: includes/admin/class-settings.php:777 integrations/class-woocommerce.php:361
+msgid "Delete"
+msgstr "삭제"
+
+#: includes/admin/class-settings.php:576
+msgid "Depth"
+msgstr "깊이"
+
+#: includes/display-functions.php:687
+msgid "Description"
+msgstr "설명"
+
+#: includes/admin/class-settings.php:912
+msgid "Direct Affiliate"
+msgstr ""
+
+#: includes/display-functions.php:735
+msgid "Direct Referrals"
+msgstr ""
+
+#: includes/admin/class-settings.php:65 includes/admin/class-settings.php:525
+msgid "Disabled"
+msgstr "비활성"
+
+#: includes/admin/class-settings.php:1085
+msgid "Display Sub Affiliates in a Tree or a List?"
+msgstr ""
+
+#: am-license-menu.php:961
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"라이센스키나, 구독기간이 갱신이 되지 않아 %s 대 한 다운로드를 할수 없을때, 당신은 계정 <a href=\"%s\" "
+"target=\"_blank\">대시보드</a>에서 구독을 다시 활성화할 수 있습니다."
+
+#: includes/display-functions.php:220 includes/display-functions.php:542
+msgid "Earnings"
+msgstr "수익"
+
+#: integrations/class-woocommerce.php:463
+msgid "Earnings can be based on either a percentage or a flat rate amount."
+msgstr "수익은 백분율 또는 고정 요금 금액을 기준으로 할 수 있습니다."
+
+#: includes/email-actions.php:85
+msgid "Enable New Sub Affiliate Notifications"
+msgstr ""
+
+#: includes/admin/class-settings.php:501
+msgid ""
+"Enter an Affiliate ID to assign sub affiliates to a particular affiliate "
+"when no referral is found."
+msgstr ""
+
+#: includes/admin/class-settings.php:553
+msgid "Enter the commission amount for Sub Affiliate referrals."
+msgstr ""
+
+#: includes/admin/class-settings.php:415
+msgid ""
+"Enter the email to send on new indirect referrals. HTML is accepted. "
+"Available template tags:"
+msgstr ""
+
+#: includes/admin/class-settings.php:396
+msgid ""
+"Enter the email to send when an affiliate refers a new sub affiliate. HTML "
+"is accepted. Available template tags:"
+msgstr ""
+
+#: includes/admin/class-settings.php:656
+msgid ""
+"Enter the Indirect Referral Rate Amount. A percentage if the Indirect "
+"Referral Rate Type is Percentage, a flat amount otherwise. Rates can also be "
+"set for each affiliate individually."
+msgstr ""
+
+#: includes/admin/class-settings.php:904 includes/admin/class-settings.php:991
+msgid "Enter the name of the affiliate to perform a search."
+msgstr ""
+
+#: includes/admin/class-settings.php:584
+msgid ""
+"Enter the number of additional \"branches\" an affiliate can have after "
+"their entire matrix is filled."
+msgstr ""
+
+#: includes/admin/class-settings.php:577
+msgid "Enter the number of sub affiliate levels that you want to allow."
+msgstr ""
+
+#: includes/admin/class-settings.php:570
+msgid ""
+"Enter the number of Sub Affiliates to allow before \"spilling over\" to the "
+"next level."
+msgstr ""
+
+#: includes/admin/class-settings.php:591
+msgid "Enter the number of times an affiliate can fill their entire matrix."
+msgstr ""
+
+#: includes/admin/class-settings.php:409
+msgid "Enter the subject line for new indirect referral emails."
+msgstr ""
+
+#: includes/admin/class-settings.php:390
+msgid "Enter the subject line for new sub affiliate emails."
+msgstr ""
+
+#: includes/admin/class-settings.php:583
+msgid "Extra Branches"
+msgstr ""
+
+#: includes/admin/class-settings.php:317 includes/admin/class-settings.php:339
+#: includes/admin/class-settings.php:650
+#, php-format
+msgid "Flat %s"
+msgstr "고정 %s"
+
+#: includes/admin/class-settings.php:516
+msgid "Force Default Referrals"
+msgstr ""
+
+#: includes/admin/class-settings.php:564
+msgid "Forced Matrix"
+msgstr ""
+
+#: includes/admin/class-settings.php:471
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: affiliatewp-multi-level-marketing.php:280
+msgid "Get add-ons"
+msgstr ""
+
+#: affiliatewp-multi-level-marketing.php:280
+msgid "Get more add-ons for AffiliateWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://theperfectplugin.com"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://theperfectplugin.com/downloads/affiliatewp-mlm"
+msgstr ""
+
+#: integrations/class-woocommerce.php:460
+msgid "Indirect Product Rate Type"
+msgstr ""
+
+#: integrations/class-lifterlms.php:132
+#, php-format
+msgid "Indirect referral #%d created successfully."
+msgstr ""
+
+#: integrations/class-edd.php:77 integrations/class-gravityforms.php:157
+#: integrations/class-jigoshop.php:83 integrations/class-lifterlms.php:257
+#: integrations/class-pmp.php:150 integrations/class-shopp.php:91
+#: integrations/class-woocommerce.php:101
+#, php-format
+msgid "Indirect Referral #%d for %s recorded for %s"
+msgstr ""
+
+#: includes/admin/class-settings.php:411 includes/email-actions.php:56
+msgid "Indirect Referral Awarded!"
+msgstr ""
+
+#: includes/admin/class-settings.php:333
+msgid "Indirect Referral Rank Rate Type"
+msgstr ""
+
+#: includes/admin/class-settings.php:654
+msgid "Indirect Referral Rate"
+msgstr ""
+
+#: includes/admin/class-settings.php:644
+msgid "Indirect Referral Rate Type"
+msgstr ""
+
+#: includes/admin/class-settings.php:311
+msgid "Indirect Referral Variable Rate Type"
+msgstr ""
+
+#: includes/display-functions.php:662
+msgid "Indirect Referrals"
+msgstr ""
+
+#: includes/display-functions.php:181
+msgid "Info"
+msgstr "정보"
+
+#: includes/admin/class-settings.php:569
+msgid "Initial Width"
+msgstr ""
+
+#: includes/admin/class-settings.php:475
+msgid "Integrations"
+msgstr "통합"
+
+#: includes/display-functions.php:526
+msgid "Joined"
+msgstr "가입일"
+
+#: includes/admin/class-settings.php:775 includes/display-functions.php:518
+#: integrations/class-woocommerce.php:359
+msgid "Level"
+msgstr "레벨"
+
+#: includes/admin/class-settings.php:66
+msgid "Lifetime Affiliate as Referrer"
+msgstr ""
+
+#: includes/admin/class-settings.php:611 includes/admin/class-settings.php:620
+#: includes/admin/class-settings.php:1077
+msgid "List"
+msgstr "목록"
+
+#: includes/admin/class-settings.php:366
+msgid ""
+"Log into your affiliate area to view your earnings or disable these "
+"notifications:"
+msgstr "귀하의 추천인 영역에 로그인 하여 수익을 확인 하거나 다음 알림을 비활성화 하십시오."
+
+#: includes/admin/class-settings.php:354
+msgid ""
+"Log into your affiliate area to view your sub affiliates or disable these "
+"notifications:"
+msgstr ""
+
+#: includes/admin/class-settings.php:930
+msgid "Matrix Level"
+msgstr ""
+
+#: includes/admin/class-settings.php:560
+msgid "Matrix Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:455
+msgid "MLM"
+msgstr "그룹"
+
+#: includes/admin/class-settings.php:56
+msgid "MLM & Lifetime Commissions"
+msgstr ""
+
+#: includes/admin/class-settings.php:97
+msgid "Multi-Level Marketing:<br/><br/> Clear ALL Affiliate Connections?"
+msgstr ""
+
+#: includes/display-functions.php:519
+msgid "Name"
+msgstr "이름"
+
+#: includes/display-functions.php:246
+msgid "Network"
+msgstr "네트워크"
+
+#: includes/admin/class-settings.php:414
+msgid "New Indirect Referral Email Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:403
+msgid "New Indirect Referral Email Options"
+msgstr ""
+
+#: includes/admin/class-settings.php:408
+msgid "New Indirect Referral Email Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:392 includes/email-functions.php:189
+msgid "New Sub Affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:395
+msgid "New Sub Affiliate Email Content"
+msgstr ""
+
+#: includes/admin/class-settings.php:384
+msgid "New Sub Affiliate Email Options"
+msgstr ""
+
+#: includes/admin/class-settings.php:389
+msgid "New Sub Affiliate Email Subject"
+msgstr ""
+
+#: includes/admin/class-settings.php:809 integrations/class-woocommerce.php:393
+msgid "No level rates created yet"
+msgstr ""
+
+#: includes/display-functions.php:479 includes/display-functions.php:608
+msgid "No Sub Affiliates yet."
+msgstr ""
+
+#: includes/admin/class-settings.php:439
+msgid "Notify parent affiliate when they earn a new indirect referral"
+msgstr ""
+
+#: includes/admin/class-settings.php:438
+msgid "Notify upline parent affiliates of a new sub affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:366
+#, php-format
+msgid "on %s!"
+msgstr "안녕하세요, %s 님,"
+
+#: includes/admin/class-settings.php:511 includes/display-functions.php:530
+msgid "Parent"
+msgstr "상위"
+
+#: includes/admin/class-settings.php:894 includes/admin/class-settings.php:981
+msgid "Parent Affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:67
+msgid "Parent as Lifetime Affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:547
+msgid "Pending"
+msgstr "대기 중"
+
+#: includes/admin/class-settings.php:680
+msgid "Per Level Rates"
+msgstr ""
+
+#: includes/admin/class-settings.php:316 includes/admin/class-settings.php:338
+#: includes/admin/class-settings.php:649
+msgid "Percentage (%)"
+msgstr "퍼센트 (%)"
+
+#: includes/admin/class-settings.php:1055
+msgid "Please enter the ID of the person that referred you"
+msgstr ""
+
+#: includes/display-functions.php:51 includes/display-functions.php:381
+#: includes/display-functions.php:422
+#, php-format
+msgid "Profile picture of %s"
+msgstr "%s의 프로필 사진"
+
+#: includes/admin/class-settings.php:640
+msgid "Rate Settings"
+msgstr ""
+
+#: integrations/class-gravityforms.php:190
+#, php-format
+msgid "Referral #%d for %s for %s rejected"
+msgstr "%s의 %s에 대 한 추천 #%d가 거부 됨"
+
+#: includes/display-functions.php:200 includes/display-functions.php:538
+msgid "Referrals"
+msgstr "추천"
+
+#: includes/admin/class-settings.php:512
+msgid "Referrer"
+msgstr "추천인"
+
+#: includes/admin/class-settings.php:68
+msgid "Referrer as Lifetime Affiliate"
+msgstr ""
+
+#: includes/admin/class-settings.php:521
+msgid "Referrer Field"
+msgstr ""
+
+#: includes/admin/class-settings.php:531
+msgid "Referrer Field Label"
+msgstr ""
+
+#: includes/admin/class-settings.php:79
+msgid "Remove Customer Emails from Upline?"
+msgstr ""
+
+#: includes/admin/class-settings.php:527
+msgid "Require Field"
+msgstr ""
+
+#: am-license-menu.php:301 am-license-menu.php:305
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: integrations/class-woocommerce.php:456
+msgid "Setup mlm settings for this product"
+msgstr ""
+
+#: includes/admin/class-settings.php:508
+msgid "Should Indirect Referrals be awarded to the Referrer or the Parent?"
+msgstr ""
+
+#: includes/admin/class-settings.php:312 includes/admin/class-settings.php:334
+#: includes/admin/class-settings.php:645
+msgid ""
+"Should referrals made by Sub Affiliates be based on a percentage or flat "
+"rate amounts?"
+msgstr ""
+
+#: includes/admin/class-settings.php:543
+msgid ""
+"Should Sub Affiliate referrals be marked as Unpaid or Pending by default?"
+msgstr ""
+
+#: includes/admin/class-settings.php:607
+msgid "Should Sub Affiliates be viewed in a Tree or a List?"
+msgstr ""
+
+#: includes/admin/class-settings.php:616
+msgid ""
+"Should Sub Affiliates on the Edit Affiliate screen be viewed in a Tree or a "
+"List?"
+msgstr ""
+
+#: includes/admin/class-settings.php:625
+msgid "Should the Parent Affiliate be shown in the Tree?"
+msgstr ""
+
+#: includes/admin/class-settings.php:522
+msgid ""
+"Should the referrer field be required, or just displayed on the affiliate "
+"registration form?"
+msgstr ""
+
+#: includes/admin/class-settings.php:526
+msgid "Show Field"
+msgstr ""
+
+#: includes/admin/class-settings.php:315 includes/admin/class-settings.php:337
+#: includes/admin/class-settings.php:648 integrations/class-woocommerce.php:461
+msgid "Site Default"
+msgstr "사이트 기본값"
+
+#: includes/display-functions.php:522 includes/display-functions.php:688
+msgid "Status"
+msgstr "상태"
+
+#: includes/compatibility.php:52
+msgid "Sub Affiliate"
+msgstr ""
+
+#: includes/actions.php:375
+msgid "Sub Affiliate Referral"
+msgstr ""
+
+#: includes/admin/class-settings.php:552
+msgid "Sub Affiliate Referral Amount"
+msgstr ""
+
+#: includes/admin/class-settings.php:537
+msgid "Sub Affiliate Referrals"
+msgstr ""
+
+#: includes/admin/class-settings.php:606
+msgid "Sub Affiliate View"
+msgstr ""
+
+#: includes/admin/class-settings.php:615
+msgid "Sub Affiliate View (Admin)"
+msgstr ""
+
+#: affiliatewp-multi-level-marketing.php:317
+#: affiliatewp-multi-level-marketing.php:336 includes/display-functions.php:336
+#: includes/display-functions.php:507 includes/display-functions.php:534
+msgid "Sub Affiliates"
+msgstr ""
+
+#: includes/admin/class-settings.php:73
+msgid "Sync ALL Lifetime Affiliates?"
+msgstr ""
+
+#: includes/admin/class-settings.php:61
+msgid "Sync Lifetime Affiliate"
+msgstr ""
+
+#: am-license-menu.php:255
+#, php-format
+msgid ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"inactive! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+#: includes/admin/class-settings.php:922
+msgid "The affiliate that referred this affiliate."
+msgstr ""
+
+#: includes/admin/class-settings.php:935
+msgid "The affiliate's level in the matrix. This cannot be changed."
+msgstr ""
+
+#: includes/filters.php:98
+msgid "The amount of the order's direct referral."
+msgstr ""
+
+#: am-license-menu.php:494
+msgid ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key."
+msgstr ""
+
+#: includes/filters.php:88
+msgid "The email address of the affiliate that directly referred the sale."
+msgstr ""
+
+#: includes/filters.php:66
+msgid "The email address of the affiliate's direct affiliate."
+msgstr ""
+
+#: includes/filters.php:44
+msgid "The email address of the affiliate's parent affiliate."
+msgstr ""
+
+#: includes/filters.php:93
+msgid "The ID of the affiliate that directly referred the sale."
+msgstr ""
+
+#: includes/filters.php:71
+msgid "The ID of the affiliate's direct affiliate."
+msgstr ""
+
+#: includes/filters.php:49
+msgid "The ID of the affiliate's parent affiliate."
+msgstr ""
+
+#: am-license-menu.php:907
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 라이센스 키가 만료되었습니다. 활성화를 하거나 계정에서 라이센스 키를 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+#: includes/filters.php:78
+msgid "The name of the affiliate that directly referred the sale."
+msgstr ""
+
+#: includes/filters.php:56
+msgid "The name of the affiliate's direct affiliate."
+msgstr ""
+
+#: includes/filters.php:34
+msgid "The name of the affiliate's parent affiliate."
+msgstr ""
+
+#: am-license-menu.php:919
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"%s 대 한 구독 취소 되었습니다. 계정 <a href=\"%s\" target=\"_blank\">대시보드</a>에서 구독을 갱신할 수 "
+"있습니다. 주문이 완료 된 후 새로운 라이센스 키를 당신에 게 이메일로 될 것 이다."
+
+#: am-license-menu.php:943
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 구독이 휴지통에 배치되어 곧 삭제됩니다. 당신의 계정에서 새롭게 구독 상품을 구입할 수 있습니다<a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+#: am-license-menu.php:931
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"%s 에 대한 구독이 중단되었습니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+#: am-license-menu.php:925
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s 에 대한 구독이 만료되었습니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+#: am-license-menu.php:913
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s 에 대한 등록은 대기중 입니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+#: am-license-menu.php:937
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"%s 대한 등록은 아직 보류 중입니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독 "
+"상태에서 확인할 수 있습니다."
+
+#: includes/filters.php:83
+msgid "The user name of the affiliate that directly referred the sale."
+msgstr ""
+
+#: includes/filters.php:61
+msgid "The user name of the affiliate's direct affiliate."
+msgstr ""
+
+#: includes/filters.php:39
+msgid "The user name of the affiliate's parent affiliate."
+msgstr ""
+
+#: includes/display-functions.php:680
+msgid ""
+"These referrals were awarded to you due to the efforts of your Sub "
+"Affiliates."
+msgstr ""
+
+#: includes/display-functions.php:713
+msgid ""
+"This affiliate has not made any referrals from their sub affiliates yet."
+msgstr ""
+
+#: includes/class-activation.php:45
+msgid "This plugin"
+msgstr "플러그인이 삭제 될 때 AffiliateWP에 대 한 모든 저장 된 데이터를 제거 합니다"
+
+#: includes/admin/class-settings.php:597
+msgid "Total Depth"
+msgstr ""
+
+#: includes/admin/class-settings.php:610 includes/admin/class-settings.php:619
+#: includes/admin/class-settings.php:1076
+msgid "Tree"
+msgstr "나무"
+
+#. Description of the plugin/theme
+msgid ""
+"Turn your Affiliate Network into a full blown Multi-Level Marketing system, "
+"where your Affiliates can earn commissions on the referrals made by their "
+"Sub Affiliates on multiple levels."
+msgstr ""
+
+#: includes/actions.php:18 includes/actions.php:33
+msgid "Unknown referrer. Please try again"
+msgstr ""
+
+#: includes/admin/class-settings.php:546
+msgid "Unpaid"
+msgstr "미결제"
+
+#: includes/admin/class-settings.php:507
+msgid "Upline Basis"
+msgstr ""
+
+#: includes/admin/class-settings.php:62
+msgid ""
+"Use the Lifetime Affiliate as the Referring Affiliate, or the "
+"Parent/Referring Affiliate as the Lifetime Affiliate."
+msgstr ""
+
+#: includes/admin/class-settings.php:624
+msgid "View Parent?"
+msgstr ""
+
+#: includes/admin/class-settings.php:602
+msgid "View Settings"
+msgstr ""
+
+#: includes/admin/class-settings.php:122
+msgid ""
+"WARNING: DO NOT click this button unless you want to disconnect ALL parent "
+"and sub affiliates."
+msgstr ""
+
+#: includes/display-functions.php:482 includes/display-functions.php:611
+msgid ""
+"When a user registers as an affiliate using your referral URL they will "
+"become your sub-affiliate."
+msgstr ""
+
+#: am-license-menu.php:973
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"당신은 %s 위하여 구독을 변경하였기 때문에 설정페이지에 새로운 API 라이센스키를 입력해야 하며, 주문이 완료 된 후 새로운 라이센스 "
+"키가 이메일로 발송될 것입니다. 혹 찾지 못하면, 당신의 계정 <a href=\"%s\" target=\"_blank\"> 대시보드</a>"
+"에서 찾을 수 있습니다."
+
+#: includes/actions.php:276
+msgid "You do not have permission to manage affiliates"
+msgstr ""
+
+#: includes/display-functions.php:711
+msgid "You have not made any referrals from your sub affiliates yet."
+msgstr ""
+
+#: includes/admin/class-settings.php:366
+msgid ""
+"{direct_referral_affiliate_name}, one of your sub affiliates, just referred "
+"a sale earning {direct_referral_amount}. As a result, you have been awarded "
+"a new indirect referral of"
+msgstr ""
+
+#: includes/admin/class-settings.php:354
+msgid "{name} has just become one of your sub affiliates! "
+msgstr ""

@@ -1,0 +1,303 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+ 
+img { border: 0; }
+
+#ui-datepicker-div table > thead > tr > th { font-size: 14px; }
+
+a.kboard-cross-calendar-button-small,
+input.kboard-cross-calendar-button-small,
+button.kboard-cross-calendar-button-small { position: relative; display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 10px; height: 28px; line-height: 28px; font-size: 13px; font-weight: normal !important; letter-spacing: normal; color: white !important; background: #C8AF81 !important; border: none; border-radius: 0; text-decoration: none !important; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; transition-duration: 0.3s; box-sizing: content-box; }
+a.kboard-cross-calendar-button-small:hover,
+a.kboard-cross-calendar-button-small:focus,
+a.kboard-cross-calendar-button-small:active,
+input.kboard-cross-calendar-button-small:hover,
+input.kboard-cross-calendar-button-small:focus,
+input.kboard-cross-calendar-button-small:active,
+button.kboard-cross-calendar-button-small:hover,
+button.kboard-cross-calendar-button-small:focus,
+button.kboard-cross-calendar-button-small:active { opacity: 0.7; }
+
+.kboard-cross-calendar-poweredby { float: left; padding-bottom: 15px; width: 100%; font-size: 13px; }
+.kboard-cross-calendar-new-notify { display: inline-block; *display: inline; zoom: 1; padding: 2px 2px; line-height: 10px !important; vertical-align: middle; font-size: 10px !important; color: white !important; background-color: #f61b5d; font-weight: normal !important; }
+.kboard-cross-calendar-cut-strings { width: auto; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal; }
+.kboard-cross-calendar-cut-strings img { display: inline !important; vertical-align: middle; }
+
+.kboard-cross-calendar-list { overflow: hidden; visibility: hidden; }
+.kboard-cross-calendar-list form { margin: 0; padding: 0; }
+.kboard-cross-calendar-list .kboard-header { margin: 15px 0; text-align: center; }
+.kboard-cross-calendar-list .kboard-header button { margin: 0; padding: 0; background: none; border: none; } 
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form { margin: 0 auto; padding: 0; width: 100%; min-width: 0; max-width: 280px; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form select { display: inline; margin: 0; padding: 0; width: auto; -webkit-appearance: none; -moz-appearance: none; appearance: none; border: none; background: none; box-shadow: none; box-sizing: border-box; text-indent: 0; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form select option { font-size: 15px; color: black; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow { display: block; margin: 12.5px 0 0 0; padding: 0; width: 30px; height: 30px; line-height: 0; border: none; background: none; vertical-align: middle; cursor: pointer; box-shadow: none; transition-duration: 0.3s; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow:hover { opacity: 0.8; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow.arrow-left { float: left; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow.arrow-right { float: right; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow img { display: inline; margin: 0; width: 100%; height: 100%; border: 0; vertical-align: middle; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-search-year { display: inline !important; margin: 0 !important; padding: 0 !important; width: auto !important; height: 40px; line-height: 40px !important; background: none !important; border: 0 !important; font-size: 30px !important; font-weight: normal; color: black !important; cursor: pointer; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-cross-calendar-sep { line-height: 40px; font-size: 30px; background: none; font-weight: normal; }
+.kboard-cross-calendar-list .kboard-header .kboard-search-day-form .kboard-search-month { display: inline !important; margin: 0 !important; padding: 0 !important; width: auto !important; height: 55px; line-height: 55px !important; background: none !important; border: 0 !important; font-size: 50px !important; font-weight: normal; color: #C8AF81 !important; cursor: pointer; }
+.kboard-cross-calendar-list .kboard-change-button-group { margin-bottom: 15px; overflow: hidden; }
+.kboard-cross-calendar-list .kboard-change-button-group .kboard-change-button-align { float: right; }
+.kboard-cross-calendar-list .kboard-change-button-group .kboard-change-button { float: left; display: block; margin: 0 0 0 10px; padding: 0; width: 15px; height: 15px; line-height: 0; border: none; background: none; vertical-align: middle; cursor: pointer; box-shadow: none; opacity: 0.2; transition-duration: 0.3s; }
+.kboard-cross-calendar-list .kboard-change-button-group .kboard-change-button:hover { opacity: 0.8; transition-duration: 0.3s; }
+.kboard-cross-calendar-list .kboard-change-button-group .kboard-change-button img { display: inline; margin: 0; width: 100%; height: 100%; border: 0; vertical-align: middle; }
+.kboard-cross-calendar-list .kboard-change-button-group .kboard-change-button.active { opacity: 0.8; }
+.kboard-cross-calendar-list .kboard-category { padding-bottom: 15px; overflow: hidden; }
+.kboard-cross-calendar-list .kboard-category.category-mobile { display: none; }
+.kboard-cross-calendar-list .kboard-category.category-pc { display: block; }
+.kboard-cross-calendar-list .kboard-category select { display: inline; margin: 0 0 5px 0; padding: 0; width: 100%; min-width: 0; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+.kboard-cross-calendar-list .kboard-category .kboard-category-list { margin: 0 0 5px 0; padding: 0; list-style: none; border: 0; background-color: #f9f9f9; overflow: hidden; }
+.kboard-cross-calendar-list .kboard-category .kboard-category-list li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 5px; border: 0; list-style: none; }
+.kboard-cross-calendar-list .kboard-category .kboard-category-list li::before,
+.kboard-cross-calendar-list .kboard-category .kboard-category-list li::after { display: none; }
+.kboard-cross-calendar-list .kboard-category .kboard-category-list li a { display: block; padding: 10px 10px 8px 10px; font-size: 13px; border: 0; border-bottom: 2px solid transparent; text-decoration: none; text-shadow: none; box-shadow: none; color: #515151; }
+.kboard-cross-calendar-list .kboard-category .kboard-category-list li.kboard-category-selected a { font-weight: bold; border-bottom: 2px solid #545861; color: #545861; }
+.kboard-cross-calendar-list .kboard-tree-category-wrap { float: left; padding-bottom: 15px; width: 100%; }
+.kboard-cross-calendar-list .kboard-tree-category-wrap select { display: inline; margin: 0 0 5px 0; padding: 0; width: 100%; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+.kboard-cross-calendar-list .kboard-tree-category-search .kboard-search-option-wrap.type-select { width: auto; }
+.kboard-cross-calendar-list .kboard-tree-category-search .kboard-search-option-wrap.type-tab { width: 100%; }
+.kboard-cross-calendar-list .kboard-tree-category { float: left; margin: 0 0 5px 0; padding: 0; width: 100%; list-style: none; border: 0; background-color: #f9f9f9; overflow: hidden; }
+.kboard-cross-calendar-list .kboard-tree-category li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 5px; border: 0; list-style: none; }
+.kboard-cross-calendar-list .kboard-tree-category li::before,
+.kboard-cross-calendar-list .kboard-tree-category li::after { display: none; }
+.kboard-cross-calendar-list .kboard-tree-category li a { display: block; padding: 10px 10px 8px 10px; font-size: 13px; border: 0; border-bottom: 2px solid transparent; text-decoration: none; text-shadow: none; box-shadow: none; color: #515151; }
+.kboard-cross-calendar-list .kboard-tree-category li.kboard-category-selected a { font-weight: bold; border-bottom: 2px solid #545861; color: #545861; }
+.kboard-cross-calendar-list .kboard-tree-category-search { overflow: hidden; }
+.kboard-cross-calendar-list .kboard-tree-category-search .kboard-search-option-wrap { margin-right: 5px; float: left; }
+.kboard-cross-calendar-list .kboard-calendar-table { display: table; table-layout: fixed; margin-bottom: 20px; width: 100%; background-color: white; border-collapse: collapse; border-left: hidden; border-right: hidden; font-size: 16px; }
+.kboard-cross-calendar-list .kboard-calendar-table .kboard-week-title { background: #F4F4F4; border-top: 3px solid #C8AF81; text-transform:uppercase; }
+.kboard-cross-calendar-list .kboard-calendar-table .kboard-week-title th { margin: 0; padding: 0; width: 14.2%; height: 35px; text-align: center; font-size: 13px; font-weight: bold; border: 1px solid #E2E1E1; vertical-align: middle; }
+.kboard-cross-calendar-list .kboard-calendar-table tr td { padding: 2px; vertical-align: top; text-align: left; border: 1px solid #E2E1E1; vertical-align: top; }
+.kboard-cross-calendar-list .kboard-calendar-table tr td a { text-decoration: none; font-weight: normal; box-shadow: none; }
+.kboard-cross-calendar-list .kboard-calendar-table tr td a:hover { text-decoration: underline; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-sunday .calendar-icon-day,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-saturday .calendar-icon-day,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-day .calendar-icon-day,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-pre-next-day .calendar-icon-day { margin-bottom: 5px; font-size: 13px; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-icon-day { width: 25px; height: 25px; line-height: 25px; text-align: center; border-radius: 50%; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-today .calendar-icon-day { background-color: #C8AF81; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-today .calendar-icon-day a { color: #ffffff; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-sunday,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-sunday a { color: #C52687; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-saturday,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-saturday a { color: #4EAFD8; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-day,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-day a { color: black; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-event { margin-bottom: 5px; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-event a { color: black; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-event .calendar-event-time { padding: 0; height: 12px; line-height: 12px; font-size: 11px; white-space:nowrap; overflow:hidden; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-event .calendar-event-name { padding: 0; height: 18px; line-height: 18px; font-size: 13px; white-space: nowrap; overflow: hidden; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-empty-time { height: 37px; }
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-pre-next-day,
+.kboard-cross-calendar-list .kboard-calendar-table .calendar-column-pre-next-day a { color: gray; opacity: 0.8; }
+.kboard-cross-calendar-list .kboard-search { float: left; padding-bottom: 15px; width: 100%; text-align: center; }
+.kboard-cross-calendar-list .kboard-search select { display: inline !important; margin: 0 !important; padding: 0 5px !important; width: 100px !important; height: 26px; min-height: 0; font-size: 13px !important; color: #666666 !important; border-radius: 0 !important; border: 1px solid #f1f1f1 !important; background: white !important; line-height: 26px !important; vertical-align: middle; box-shadow: none; box-sizing: content-box; -webkit-appearance: menulist !important; -moz-appearance: menulist !important; appearance: menulist !important; }
+.kboard-cross-calendar-list .kboard-search input { display: inline !important; margin: 0 !important; padding: 0 5px !important; width: 200px !important; height: 26px; font-size: 13px !important; color: #666666 !important; border-radius: 0 !important; border: 1px solid #f1f1f1 !important; background: white !important; line-height: 26px !important; vertical-align: middle; box-shadow: none; box-sizing: content-box; }
+.kboard-cross-calendar-list .kboard-search button { width: auto; }
+.kboard-cross-calendar-list .kboard-control { float: left; padding: 15px 0 1px 0; width: 100%; text-align: right; }
+.kboard-cross-calendar-list.pc .kboard-calendar-table .calendar-event .calendar-event-time { display: block; margin-bottom: 2px; }
+.kboard-cross-calendar-list.mobile .kboard-header .kboard-search-day-form .kboard-cross-calendar-arrow { margin: 10px 0 0 0; width: 25px; height: 25px; }
+.kboard-cross-calendar-list.mobile .kboard-header .kboard-search-day-form .kboard-search-year { font-size: 20px; }
+.kboard-cross-calendar-list.mobile .kboard-header .kboard-search-day-form .kboard-search-month { height: 45px; line-height: 45px; font-size: 30px; }
+.kboard-cross-calendar-list.mobile .kboard-category.category-mobile { display: block; }
+.kboard-cross-calendar-list.mobile .kboard-category.category-pc { display: none; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .kboard-week-title th { padding: 0; height: 30px; font-weight: lighter; font-size: 11px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table tr td { padding: 1px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-icon-day { margin-bottom: 2px; width: 20px; height: 20px; line-height: 20px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-event { margin-bottom: 2px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-event .calendar-event-time { display: none; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-event .calendar-event-name { height: 13px; line-height: 13px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-empty-time { height: 15px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-today { width: 20px; }
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-today,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-pre-next-day .calendar-icon-day,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-sunday .calendar-icon-day,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-saturday .calendar-icon-day,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-column-day .calendar-icon-day,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-event .calendar-event-name,
+.kboard-cross-calendar-list.mobile .kboard-calendar-table .calendar-event .calendar-event-time { font-size: 11px; }
+.kboard-cross-calendar-list.mobile .kboard-search select { float: left; margin-right: 1%; width: 29% !important; min-width: 29%; height: 28px; line-height: 28px; box-sizing: border-box; }
+.kboard-cross-calendar-list.mobile .kboard-search input { float: left; margin-right: 1%; width: 49% !important; min-width: 49%; height: 28px; line-height: 28px; box-sizing: border-box; }
+.kboard-cross-calendar-list.mobile .kboard-search button { float: left; width: 20%; min-width: 20%; text-align: center; box-sizing: border-box; }
+
+#kboard-mobile-calendar-list { margin-bottom: 15px; line-height: normal; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header { background-color: #363c4a; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header,
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-list { position: relative; background-color: #363c4a; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header-left { position: absolute; left: 0; top: 0; bottom: 0; padding: 10px 0 5px 0; width: 60px; text-align: center; border-top: 1px solid #515660; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header-left .kboard-mobile-calendar-header-month { line-height: 20px; font-size: 20px; color: white; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header-left .kboard-mobile-calendar-header-year { line-height: 15px; font-size: 15px; color: #C8AF81; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-header-right { margin-left: 60px; padding: 15px 0; background-color: black; text-align: center; font-size: 20px; color: white; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-date { position: absolute; padding: 15px 0 5px 0; left: 0; top: 0; bottom: 0; width: 60px; text-align: center; border-top: 1px solid #515660; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-day-num { height: 20px; line-height: 20px; font-size: 20px; color: #999999; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-day-eng { height: 15px; line-height: 15px; font-size: 13px; color: #999999; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-name { margin-left: 60px; padding: 15px 15px; background-color: #f9f9f9; border-top: 1px solid #e6e6e6; font-size: 15px; font-weight: normal; word-wrap: break-word; color: #636161; transition-duration: 0.3s; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-name .event-time { height: 15px; line-height: 15px; font-size: 13px; color: #999999; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-name:hover { background-color: #e2e2ab; transition-duration: 0.3s; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-thumbnail { float: left; margin-right: 20px; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-list a { color: black; text-decoration: none; box-shadow: none; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-list a img { display: inline !important; vertical-align: middle; }
+#kboard-mobile-calendar-list .kboard-mobile-calendar-event-list .kboard-comments-count { color: #00a8e7; }
+#kboard-mobile-calendar-list .kboard-today { background-color: #C8AF81; color: white; }
+#kboard-mobile-calendar-list .kboard-today .kboard-mobile-calendar-event-day-num { color: white; }
+#kboard-mobile-calendar-list .kboard-today .kboard-mobile-calendar-event-day-eng { color: white; }
+/*
+#kboard-mobile-calendar-list .kboard-today .kboard-mobile-calendar-event-name { background-color: #d2d2c6; color: #636161; }
+#kboard-mobile-calendar-list .kboard-today .kboard-mobile-calendar-event-name a { color: #7a786e; }
+#kboard-mobile-calendar-list .kboard-today .kboard-mobile-calendar-event-name:hover { background-color: #e2e2ab; transition-duration: 0.3s; }
+*/
+#kboard-mobile-calendar-list .kboard-mobile-calendar-empty-event { padding: 30px 0; font-size: 16px; text-align: center; }
+
+#kboard-cross-calendar-editor { overflow: hidden; }
+#kboard-cross-calendar-editor form { margin: 0; padding: 0; }
+#kboard-cross-calendar-editor select { display: inline; margin: 0; padding: 0 5px; font-size: 13px; width: 100%; *width: 30%; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-cross-calendar-editor input[type=text],
+#kboard-cross-calendar-editor input[type=email],
+#kboard-cross-calendar-editor input[type=number],
+#kboard-cross-calendar-editor input[type=date],
+#kboard-cross-calendar-editor input[type=password] { display: inline; margin: 0; padding: 0 5px; width: 100%; *width: 30%; height: 28px; line-height: 28px; font-size: 13px; color: #666666; border-radius: 0; border: 1px solid #dcdcdc; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-cross-calendar-editor select:hover,
+#kboard-cross-calendar-editor input[type=text]:hover,
+#kboard-cross-calendar-editor input[type=email]:hover,
+#kboard-cross-calendar-editor input[type=number]:hover,
+#kboard-cross-calendar-editor input[type=date]:hover,
+#kboard-cross-calendar-editor input[type=password]:hover,
+#kboard-cross-calendar-editor .kboard-attr-row textarea:hover,
+#kboard-cross-calendar-editor select:focus,
+#kboard-cross-calendar-editor input[type=text]:focus,
+#kboard-cross-calendar-editor input[type=email]:focus,
+#kboard-cross-calendar-editor input[type=number]:focus,
+#kboard-cross-calendar-editor input[type=date]:focus,
+#kboard-cross-calendar-editor input[type=password]:focus,
+#kboard-cross-calendar-editor .kboard-attr-row textarea:focus { border: 1px solid #9e9e9e; }
+#kboard-cross-calendar-editor input[type=file] { display: inline; margin: 0; padding: 0; width: 100%; *width: 30%; font-size: 12px; color: #666666; border-radius: 0; border: 0; box-shadow: none; background-color: transparent; box-sizing: border-box; vertical-align: top; }
+#kboard-cross-calendar-editor .kboard-attr-wrap-title { margin: 10px 0; padding: 5px 10px; width: 100%; line-height: 40px; border-top: 1px solid #e5e5e5; color: #545861; font-size: 16px; font-weight: bold; background-color: #f7f7f7; text-transform: capitalize; }
+#kboard-cross-calendar-editor .kboard-attr-row { float: left; margin: 0; padding: 0; width: 100%; }
+#kboard-cross-calendar-editor .kboard-attr-row-half { float: left; width: 50%; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-name { float: left; display: block; box-sizing: content-box; margin: 0; padding: 5px 10px; width: 130px; line-height: 30px; color: #545861; font-size: 13px; font-weight: bold; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-name img { display: inline; margin: 0; padding: 0; width: auto; max-width: 100%; vertical-align: middle; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value { margin: 0 0 0 150px; padding: 5px 10px; line-height: 30px; text-align: left; font-size: 13px; background-color: white; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .attr-value-option { display: inline; padding-right: 20px; width: auto; cursor: pointer; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .attr-value-option input[type=checkbox] { cursor: pointer; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .description { margin: 0; color: #666666; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .calendar-event-start-date-set,
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .calendar-event-end-date-set { display: inline; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .calendar-event-start-date-set input,
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .calendar-event-end-date-set input { width: 30%; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .event-name-color { float: left; margin: 0 5px 5px 0; width: 25px; height: 25px; border: 1px solid white; box-sizing: content-box; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-value .event-name-color.active { border: 1px solid black; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-checkbox { color: #545861; font-size: 14px; cursor: pointer; }
+#kboard-cross-calendar-editor .kboard-attr-row .attr-name .attr-required-text { color: red; font-weight: normal; font-size: 12px; }
+#kboard-cross-calendar-editor .kboard-attr-row.kboard-attr-content .attr-name { display: none; }
+#kboard-cross-calendar-editor .kboard-attr-title input { width: 100%; *width: 70%; }
+#kboard-cross-calendar-editor .kboard-content { float: left; margin: 0; padding: 9px 0; width: 100%; background-color: white; }
+#kboard-cross-calendar-editor .kboard-content .editor-textarea { display: inline; margin: 0; padding: 5px; width: 100%; min-width: 100%; max-width: 100%; height: 250px; min-height: 0; font-size: 13px; border: 1px solid #dcdcdc; box-shadow: none; background: none; background-color: transparent; box-sizing: border-box; text-indent: 0; }
+#kboard-cross-calendar-editor .kboard-control { float: left; padding: 15px 0; width: 100%; }
+#kboard-cross-calendar-editor .kboard-control .left { position: static; float: left; }
+#kboard-cross-calendar-editor .kboard-control .right { position: static; float: right; width: 50%; text-align: right; }
+#kboard-cross-calendar-editor .kboard-control .right button { width: auto; }
+#kboard-cross-calendar-editor.confirm { margin: 100px auto; max-width: 590px; }
+#kboard-cross-calendar-editor.confirm input[type=password] { width: 100%; box-sizing: border-box; }
+
+#kboard-cross-calendar-document { overflow: hidden; }
+#kboard-cross-calendar-document .kboard-detail-top-wrap { margin: 30px 0 20px 0; }
+#kboard-cross-calendar-document .kboard-detail-top-wrap .kboard-detail-top-schedule { font-size: 50px; color: #C8AF81; }
+#kboard-cross-calendar-document .kboard-detail-top-hr { display: block; margin: 0; padding: 0; height: 5px; border: 0; background-color: #C8AF81; }
+#kboard-cross-calendar-document .kboard-detail-event { display: inline-block; padding: 15px 15px; text-align: center; font-size: 17px; background-color: #C8AF81; color: white; }
+#kboard-cross-calendar-document .kboard-detail-event-content { margin: 30px 0; overflow: hidden; }
+#kboard-cross-calendar-document .kboard-detail-event-content .kboard-right-wrap .kboard-detail-title { margin: 0 0 15px 0; padding: 0; clear: none; color: #636161; font-size: 30px; line-height: 40px; }
+#kboard-cross-calendar-document .kboard-detail-event-content .kboard-right-wrap .kboard-mobile-detail-event { display: none; }
+#kboard-cross-calendar-document .kboard-detail-event-content .kboard-right-wrap .kboard-detail-item { margin-top: 12px; font-weight: bold; font-size: 13px; color: #636161; line-height: normal; }
+#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-thumbnail-wrap { float: left; width: 50%; }
+#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-thumbnail-wrap .kboard-thumbnail { position: relative; padding-bottom: 70%; height: 0; overflow: hidden; background-size: cover; background-position: center; }
+#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-right-wrap { margin-left: 50%; padding-left: 30px; }
+#kboard-cross-calendar-document .kboard-detail-summary-wrap { display: table; margin-bottom: 20px; width: 100%; border-bottom: 1px solid #C8AF81; }
+#kboard-cross-calendar-document .kboard-detail-summary-wrap .kboard-detail-summary { display: table-cell; padding: 15px; background-color: #C8AF81; width: 120px; text-align: center; font-size: 18px; color: white; vertical-align: middle; }
+#kboard-cross-calendar-document .kboard-detail-summary-wrap .kboard-detail-summary-top { display: table-cell; padding: 0 15px; background-color: white; vertical-align: middle; font-size: 14px; font-weight: bold; color: #636161; }
+#kboard-cross-calendar-document .kboard-detail-summary-content-wrap { margin-bottom: 30px; }
+#kboard-cross-calendar-document .kboard-detail-summary-content-wrap .kboard-detail-summary-item-wrap { width: 100%; margin-bottom: 10px; }
+#kboard-cross-calendar-document .kboard-detail-summary-content-wrap .kboard-detail-summary-item-wrap .kboard-detail-summary-item { display: inline-block; position: absolute; width: 100px; text-align: center; font-weight: bold; color: #636161; font-size: 14px; border-bottom: 1px solid #C8AF81; border-right: 1px solid #C8AF81; }
+#kboard-cross-calendar-document .kboard-detail-summary-content-wrap .kboard-detail-summary-item-wrap .kboard-detail-summary-content { position: relative; padding-top: 3px; padding-bottom: 3px; padding-left: 120px; color: #3c3c3c; font-size: 13px; }
+#kboard-cross-calendar-document .kboard-content { margin-bottom: 20px; clear: both; float: left; width: 100%; }
+#kboard-cross-calendar-document .kboard-content .content-view { margin: 0; padding: 0; word-break: break-all; }
+#kboard-cross-calendar-document .kboard-content .content-view iframe { max-width: 100%; }
+#kboard-cross-calendar-document .kboard-content .content-view img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-cross-calendar-document .kboard-content .content-view p { margin: 0 0 0.75em; }
+#kboard-cross-calendar-document .kboard-content .content-view p:last-child { margin: 0; }
+#kboard-cross-calendar-document .kboard-content .content-view .thumbnail-area { text-align: center; }
+#kboard-cross-calendar-document .kboard-content .content-view .aligncenter { display: block; margin-right: auto; margin-left: auto; }
+#kboard-cross-calendar-document .kboard-content .content-view .alignright { float:right; }
+#kboard-cross-calendar-document .kboard-content .content-view .alignleft { float: left; }
+#kboard-cross-calendar-document .kboard-detail { padding: 10px 1px; font-size: 14px; color: #999999; overflow: hidden; }
+#kboard-cross-calendar-document .kboard-detail a { color: #636161; text-decoration: none; text-shadow: none; box-shadow: none; border: 0; }
+#kboard-cross-calendar-document .kboard-detail a:hover { color: #636161; }
+#kboard-cross-calendar-document .kboard-detail a img { float: left; display: inline; margin: 0 5px 0 0; width: 20px; height: 20px; vertical-align: middle; max-width: 100%; border-radius: 50%; }
+#kboard-cross-calendar-document .kboard-document-action { padding: 0 1px 10px 1px; overflow: hidden; line-height: 1; }
+#kboard-cross-calendar-document .kboard-document-action .left { position: static; float: left; }
+#kboard-cross-calendar-document .kboard-document-action .right { position: static; float: right; text-align: right; }
+#kboard-cross-calendar-document .kboard-attach { clear: both; margin: 0 22px; padding: 10px 0 5px 0; font-size: 12px; overflow: hidden; line-height: 1; border-top: 1px dashed #ededed; }
+#kboard-cross-calendar-document .kboard-button-action { margin: 0 0 5px 0; padding: 4px 5px; font-size: 12px; font-weight: normal; line-height: 12px; text-align: left; border: 1px solid #ededed; background: none; background-color: transparent; border-radius: 2px; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; }
+#kboard-cross-calendar-document .kboard-button-action span { position: static; display: inline; margin: 0; padding: 0; font-size: 12px; }
+#kboard-cross-calendar-document .kboard-button-like { color: #ff5959; }
+#kboard-cross-calendar-document .kboard-button-unlike { color: #3d62aa; }
+#kboard-cross-calendar-document .kboard-button-print { color: gray; }
+#kboard-cross-calendar-document .kboard-attach { clear: both; margin: 0; padding: 10px 0 5px 0; font-size: 12px; overflow: hidden; line-height: 1; border-top: 1px dashed #ededed; }
+#kboard-cross-calendar-document .kboard-button-download { color: gray; }
+#kboard-cross-calendar-document .kboard-button-action { margin: 0 0 5px 0; padding: 4px 5px; font-size: 12px; font-weight: normal; line-height: 12px; text-align: left; border: 1px solid #ededed; background: none; background-color: transparent; border-radius: 2px; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; }
+#kboard-cross-calendar-document .kboard-control { padding: 15px 0; overflow: hidden; }
+#kboard-cross-calendar-document .kboard-control .left { position: static; float: left; }
+#kboard-cross-calendar-document .kboard-control .right { position: static; float: right; text-align: right; }
+
+#kboard-cross-calendar-latest .kboard-calendar-table2 { display: table; table-layout: fixed; width: 100%; border: 0; border-bottom: 1px solid #f1f1f1; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 thead tr { padding: 5px 0; height: auto; background-color: #C8AF81; color: white; border: 0; text-align: center; font-weight: normal; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 tr { padding: 0; border: 0; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 th { padding: 5px 0; height: auto; border: 0; text-align: center; font-weight: normal; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 td { padding: 5px 0; height: auto; border: 0; border-top: 1px solid #f1f1f1; vertical-align: middle; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 td.kboard-latest-title { text-align: left; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 .kboard-latest-title { padding-left: 15px; font-size: 13px; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 .kboard-latest-title a { text-decoration: none; box-shadow: none; color: black; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 .kboard-latest-title img { display: inline; margin: 0; width: auto; height: auto; vertical-align: middle; max-width: 100%; }
+#kboard-cross-calendar-latest .kboard-calendar-table2 .kboard-latest-title .kboard-comments-count { }
+#kboard-cross-calendar-latest .kboard-calendar-table2 .kboard-latest-date { width: 80px; text-align: center; font-size: 13px; }
+
+@media screen and (max-width: 600px) {
+	#kboard-cross-calendar-editor select,
+	#kboard-cross-calendar-editor input[type=text],
+	#kboard-cross-calendar-editor input[type=email],
+	#kboard-cross-calendar-editor input[type=number],
+	#kboard-cross-calendar-editor input[type=date],
+	#kboard-cross-calendar-editor input[type=password],
+	#kboard-cross-calendar-editor input[type=file] { width: 100%; box-sizing: border-box; }
+	#kboard-cross-calendar-editor .kboard-attr-wrap-title { text-align: center; }
+	#kboard-cross-calendar-editor .kboard-attr-row { margin: 0 0 10px 0; padding: 0; }
+	#kboard-cross-calendar-editor .kboard-attr-row .attr-name { padding: 0; width: 100%; font-size: 14px; }
+	#kboard-cross-calendar-editor .kboard-attr-row .attr-name.mobile-hide { display: none; }
+	#kboard-cross-calendar-editor .kboard-attr-row .attr-value { float: left; margin: 0; padding: 5px 0; width: 100%; }
+	
+	#kboard-cross-calendar-document .kboard-detail-top-wrap,
+	#kboard-cross-calendar-document .kboard-detail-top-hr,
+	#kboard-cross-calendar-document .kboard-detail-event { display: none; }
+	#kboard-cross-calendar-document .kboard-detail-event-content { margin-top: 0; }
+	#kboard-cross-calendar-document .kboard-detail-event-content .kboard-mobile-detail-right { text-align: left; }
+	#kboard-cross-calendar-document .kboard-detail-event-content .kboard-mobile-detail-right .kboard-detail-title { margin-bottom: 0; line-height: normal; }
+	#kboard-cross-calendar-document .kboard-detail-event-content .kboard-mobile-detail-right .kboard-mobile-detail-event { display: block; line-height: normal; font-size: 20px; color: #C8AF81; }
+	#kboard-cross-calendar-document .kboard-detail-event-content .kboard-detail-content-right-wrap { margin-right: 20px; width: 100%; font-size: 12px; }
+	#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-thumbnail-wrap { float: none; margin-bottom: 15px; width: auto; }
+	#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-thumbnail-wrap .kboard-thumbnail { padding-bottom: 56.25%; }
+	#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-right-wrap { margin: 0; padding: 0; }
+	#kboard-cross-calendar-document .kboard-detail-event-content.kboard-thumbnail .kboard-mobile-detail-right { text-align: right; }
+	#kboard-cross-calendar-document .kboard-detail-summary-wrap { margin: 20px 0; }
+	#kboard-cross-calendar-document .kboard-detail-summary-wrap .kboard-detail-summary { padding: 10px; width: 100px; font-size: 15px; }
+	#kboard-cross-calendar-document .kboard-detail-summary-wrap .kboard-detail-summary-top { font-size: 12px; }
+	#kboard-cross-calendar-document .kboard-detail-summary-content-wrap { margin: 20px 0; font-size: 12px; }
+	#kboard-cross-calendar-document .kboard-detail-summary-content-wrap .kboard-detail-summary-item-wrap .kboard-detail-summary-item { padding: 0 0 5px 0; width: 80px; font-size: 12px }
+	#kboard-cross-calendar-document .kboard-detail-summary-content-wrap .kboard-detail-summary-item-wrap .kboard-detail-summary-content { padding-left: 90px; }
+	#kboard-mobile-calendar-list .kboard-mobile-calendar-event-thumbnail{ float: unset; margin-right: 20px; width: 163px; height: 103px; }
+	#kboard-mobile-calendar-list .kboard-mobile-calendar-event-list a img{ width: 180px; height: 100px; }
+	#kboard-mobile-calendar-list .kboard-mobile-calendar-event-name { margin-left: 60px; padding: 15px 15px; background-color: #f9f9f9; border-top: 1px solid #e6e6e6; font-size: 15px; font-weight: normal; word-wrap: break-word; color: #636161; transition-duration: 0.3s; }
+	#kboard-mobile-calendar-list .kboard-mobile-calendar-textbox { word-break: break-all; }
+}

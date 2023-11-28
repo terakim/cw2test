@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kboard-play-video\n"
+"POT-Creation-Date: 2020-11-05 15:45+0900\n"
+"PO-Revision-Date: 2020-11-05 15:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: confirm.php:4 confirm.php:6 editor-fields.php:29 editor-fields.php:30
+#: editor-fields.php:141 editor-fields.php:142
+msgid "Password"
+msgstr ""
+
+#: confirm.php:8
+msgid "※ Your password is incorrect."
+msgstr ""
+
+#: confirm.php:15
+msgid "Document"
+msgstr ""
+
+#: confirm.php:17 document.php:147 editor.php:13
+msgid "List"
+msgstr ""
+
+#: confirm.php:20
+msgid "Password confirm"
+msgstr ""
+
+#: document.php:47
+msgid "Date"
+msgstr ""
+
+#: document.php:52 latest.php:26 latest.php:70 list.php:44 list.php:89
+msgid "Views"
+msgstr ""
+
+#: document.php:63 document.php:70 editor-fields.php:71 editor-fields.php:88
+msgid "Category"
+msgstr ""
+
+#: document.php:82 document.php:83
+msgid "Like"
+msgstr ""
+
+#: document.php:98
+msgid "Print"
+msgstr ""
+
+#: document.php:105
+#, php-format
+msgid "Download %s"
+msgstr ""
+
+#: document.php:151
+msgid "Edit"
+msgstr ""
+
+#: document.php:152 editor-fields.php:56 editor-fields.php:158
+#: editor-fields.php:261
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: document.php:152
+msgid "Delete"
+msgstr ""
+
+#: document.php:159 list.php:149
+msgid "KBoard is the best community software available for WordPress"
+msgstr ""
+
+#: editor-fields.php:44
+msgid "CAPTCHA"
+msgstr ""
+
+#: editor-fields.php:56 editor-fields.php:158 editor-fields.php:261
+msgid "Delete file"
+msgstr ""
+
+#: editor-fields.php:71 editor-fields.php:88 editor-fields.php:196
+msgid "Select"
+msgstr ""
+
+#: editor-fields.php:125 latest.php:18 latest.php:62 list.php:36 list.php:81
+msgid "Secret"
+msgstr ""
+
+#: editor-fields.php:128
+msgid "Notice"
+msgstr ""
+
+#: editor-fields.php:150
+msgid "KBoard Add Media"
+msgstr ""
+
+#: editor-fields.php:171
+msgid "Public"
+msgstr ""
+
+#: editor-fields.php:172
+msgid "Only title (secret document)"
+msgstr ""
+
+#: editor-fields.php:173
+msgid "Exclusion"
+msgstr ""
+
+#: editor-fields.php:225
+msgid "Reset"
+msgstr ""
+
+#: editor.php:12 editor.php:15
+msgid "Back"
+msgstr ""
+
+#: editor.php:20
+msgid "Save"
+msgstr ""
+
+#: functions.php:11
+msgid ""
+"The thumbnail could not be loaded automatically. Do you want to upload the "
+"thumbnail directly?"
+msgstr ""
+"썸네일을 자동으로 불러올 수 없습니다. 썸네일을 직접 업로드하시겠습니까?"
+
+#: functions.php:23 functions.php:24
+msgid "YouTube ID"
+msgstr "유튜브 ID"
+
+#: functions.php:30
+msgid "YouTube Video ID"
+msgstr "유튜브 동영상 ID"
+
+#: functions.php:40 functions.php:41
+msgid "Vimeo ID"
+msgstr "비메오 ID"
+
+#: functions.php:47
+msgid "Vimeo Video ID"
+msgstr "비메오 동영상 ID"
+
+#: functions.php:57 functions.php:58 functions.php:64
+msgid "Video URL"
+msgstr "동영상 URL"
+
+#: functions.php:74 functions.php:75
+msgid "Screen Ratio"
+msgstr "화면비율"
+
+#: functions.php:79 functions.php:165
+msgid "Wide Screen (16:9)"
+msgstr "와이드 스크린 (16:9)"
+
+#: functions.php:80 functions.php:166
+msgid "Standard (4:3)"
+msgstr "표준 (4:3)"
+
+#: functions.php:94 functions.php:95
+msgid "Auto Play"
+msgstr "자동재생"
+
+#: functions.php:124 functions.php:140
+msgid "※ Please enter only the ID value at the end of the url."
+msgstr "※ 주소 끝에 있는 ID값만 입력해주세요."
+
+#: functions.php:124 functions.php:140
+msgid "ex"
+msgstr "예"
+
+#: functions.php:204
+msgid "※ Not applicable in all environments, such as mobile."
+msgstr "※ 모바일 등 일부 환경에서는 적용되지 않습니다."
+
+#: latest.php:32 latest.php:76 list.php:50 list.php:95
+msgid "Votes"
+msgstr ""
+
+#: latest.php:38 latest.php:39 latest.php:82 latest.php:83 list.php:56
+#: list.php:57 list.php:101 list.php:102
+msgid "Play"
+msgstr ""
+
+#: list-category-default.php:8 list-category-default.php:16
+#: list-category-tree-select.php:11 list-category-tree-select.php:25
+#: list-category-tree-tab.php:11 list-category-tree-tab.php:25 list.php:128
+msgid "All"
+msgstr ""
+
+#: list.php:129
+msgid "Title"
+msgstr ""
+
+#: list.php:130
+msgid "Content"
+msgstr ""
+
+#: list.php:131
+msgid "Author"
+msgstr ""
+
+#: list.php:133 list.php:134
+msgid "Search"
+msgstr ""
+
+#: list.php:142
+msgid "New"
+msgstr ""
+
+#~ msgid "Ex"
+#~ msgstr "예"

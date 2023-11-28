@@ -1,0 +1,4854 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress & WooCommerce Affiliate Program 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-13 13:29+0530\n"
+"PO-Revision-Date: 2023-10-25 14:22+0900\n"
+"Last-Translator: 관리자\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr__;esc_attr_e;__;_e\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:106
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:638
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1364
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1435
+#: wp-wc-affiliate-program.php:193
+#, fuzzy
+msgid "WordPress & WooCommerce Affiliate Program"
+msgstr "워드프레스 및 우커머스 제휴 프로그램"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:106
+#, fuzzy
+msgid "Remove Purchase Code"
+msgstr "구매 코드 제거"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:110
+#, fuzzy
+msgid "Dashboard Overview"
+msgstr "대시보드 개요"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:114
+msgid "Traffic"
+msgstr "트래픽 Traffic"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:126
+#, fuzzy
+msgid "Customize Email"
+msgstr "이메일 사용자 지정"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:133
+msgid "Affiliates"
+msgstr "제휴사"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:137
+#, fuzzy
+msgid "Commission Setting"
+msgstr "수수료 설정"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:141
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:29
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:19
+msgid "Levels"
+msgstr "레벨"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:147
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:157
+#: public/templates/rtwwwap_affiliate_body.php:67
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:60
+msgid "Referrals"
+msgstr "추천"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:158
+msgid "Payouts"
+msgstr "정산"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:162
+msgid "Extra Features"
+msgstr "추가 기능"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:166
+msgid "MLM"
+msgstr "MLM"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:170
+#, fuzzy
+msgid "Custom Banner"
+msgstr "맞춤 배너"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:174
+msgid "Add-ons"
+msgstr "애드온"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:178
+msgid "Help"
+msgstr "도움말"
+
+#: admin/partials/rtwwwap-wp-wc-affiliate-program-admin-display.php:261
+msgid "Save changes"
+msgstr "변경 사항 저장"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:12
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:10
+#, fuzzy
+msgid "Choose Register Template"
+msgstr "등록 템플릿 선택"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:19
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:17
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:144
+msgid "Template 1"
+msgstr "템플릿 1"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:22
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:20
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:147
+msgid "Template 2"
+msgstr "템플릿 2"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:25
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:23
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:150
+msgid "Template 3"
+msgstr "템플릿 3"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:28
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:26
+msgid "Template 4"
+msgstr "템플릿 4"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:32
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:30
+#, fuzzy
+msgid ""
+"Use the following shortcode on the page where you want to show the Register "
+"Form"
+msgstr "등록 양식을 표시할 페이지에 다음 단축 코드를 사용합니다"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:32
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:30
+#, fuzzy
+msgid ""
+"Note: You need to activate Register setting from WordPress Settings->General-"
+">Membership"
+msgstr "참고: 워드프레스 설정->일반->멤버십에서 등록 설정을 활성화해야 합니다"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:37
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:36
+msgid "Form Title"
+msgstr "폼 제목"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:41
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:39
+#, fuzzy
+msgid "Enter Form Title"
+msgstr "양식 제목 입력"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:46
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:181
+#, fuzzy
+msgid "Use default colors for template"
+msgstr "템플릿에 기본 색상 사용"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:53
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:98
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:160
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:188
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:363
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:388
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:411
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:444
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:467
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:59
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:84
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:169
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:546
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:252
+msgid "Yes"
+msgstr "예"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:59
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:97
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:159
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:194
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:369
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:394
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:425
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:450
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:481
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:65
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:90
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:175
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:552
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:258
+msgid "No"
+msgstr "아니오"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:63
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:198
+#, fuzzy
+msgid "Activate to show Default template colors given with our plugin"
+msgstr "플러그인과 함께 제공되는 기본 템플릿 색상을 표시하려면 활성화하세요"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:68
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:204
+#, fuzzy
+msgid "Main Background Color"
+msgstr "기본 배경색"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:77
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:214
+msgid "Form Background Color"
+msgstr "양식 배경 색"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:86
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:224
+#, fuzzy
+msgid "Form Header Color"
+msgstr "양식 헤더 색상"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:95
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:234
+msgid "Button Color"
+msgstr "버튼 색상"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:104
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:243
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:369
+#, fuzzy
+msgid "Custom css"
+msgstr "사용자 정의 CSS"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_login_template.php:108
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:247
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:373
+#, fuzzy
+msgid "Write custom css for frontend"
+msgstr "프론트엔드를 위한 사용자 정의 CSS 작성"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:45
+#, fuzzy
+msgid "Custom Form Fields"
+msgstr "사용자 지정 양식 필드"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:63
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:125
+msgid "Label"
+msgstr "라벨"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:67
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:129
+#, fuzzy
+msgid "Input Type"
+msgstr "입력 유형"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:69
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:131
+#, fuzzy
+msgid "Select Input Type"
+msgstr "입력 유형 선택"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:70
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:132
+msgid "Text"
+msgstr "텍스트"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:71
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:133
+msgid "Number"
+msgstr "숫자"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:72
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:134
+msgid "CheckBox"
+msgstr "체크박스"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:73
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:135
+msgid "Radio"
+msgstr "라디오"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:74
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:136
+msgid "TextArea"
+msgstr "텍스트영역"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:75
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:137
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:252
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:296
+msgid "Select"
+msgstr "Select"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:80
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:142
+msgid "Class"
+msgstr "클래스"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:85
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:147
+msgid "Id"
+msgstr "ID"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:90
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:152
+msgid "Placeholder"
+msgstr "플레이스홀더"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:95
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:157
+msgid "Required"
+msgstr "필수 항목"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:106
+msgid "Remove"
+msgstr "삭제"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:115
+msgid "Options"
+msgstr "옵션"
+
+#: admin/partials/rtwwwap_addons/rtwwwap_register_template.php:172
+msgid "Add More"
+msgstr "더 추가하기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap-wp-wc-affiliate-program-admin.php:5
+#, fuzzy
+msgid "Enter Purchase Code : "
+msgstr "구매 코드를 입력합니다 :"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap-wp-wc-affiliate-program-admin.php:9
+#, fuzzy
+msgid "Where is my purchase code?"
+msgstr "구매 코드는 어디에 있나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap-wp-wc-affiliate-program-admin.php:11
+msgid "Submit"
+msgstr "제출하기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_addons.php:9
+#, fuzzy
+msgid "Register/Login Templates"
+msgstr "등록/로그인 템플릿"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_addons.php:14
+#, fuzzy
+msgid "Login Shortcode"
+msgstr "로그인 쇼트코드"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_addons.php:20
+#, fuzzy
+msgid "Register Shrotcode"
+msgstr "슈로트 코드 등록"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_addons.php:55
+#: admin/partials/rtwwwap_tabs/rtwwwap_addons.php:61
+msgid "Social Media Share"
+msgstr "소셜 미디어 공유"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:36
+msgid "Add New Affiliate"
+msgstr "마케터 등록하기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:42
+#, fuzzy
+msgid "Approve all marked Affiliates"
+msgstr "표시된 모든 제휴사 승인"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:57
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:247
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:112
+msgid "ID"
+msgstr "ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:58
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:248
+#: public/templates/rtwwwap_aff_reg_page.php:232
+#: public/templates/rtwwwap_aff_reg_page.php:300
+#: public/templates/rtwwwap_aff_reg_page.php:361
+#: public/templates/rtwwwap_aff_reg_page.php:362
+#: public/templates/rtwwwap_aff_reg_page.php:434
+#: public/templates/rtwwwap_aff_reg_page.php:435
+#: public/templates/rtwwwap_affiliate_body.php:1213
+#: public/templates/rtwwwap_affiliate_body.php:1214
+msgid "Username"
+msgstr "사용자 명"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:59
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:249
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:47
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:128
+msgid "Name"
+msgstr "이름"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:61
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:251
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:46
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:127
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:17
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:114
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:150
+#: public/templates/rtwwwap_affiliate_body.php:1385
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1293
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2190
+msgid "Level"
+msgstr "레벨"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:63
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:253
+#: public/templates/rtwwwap_affiliate_body.php:1216
+#: public/templates/rtwwwap_affiliate_body.php:1217
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1908
+msgid "Email"
+msgstr "이메일"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:64
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:254
+msgid "Phone"
+msgstr "전화번호"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:66
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:255
+msgid "Parent Id"
+msgstr "부모 ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:67
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:256
+msgid "Parent Name"
+msgstr "조상 요소 이름"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:68
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:257
+#, fuzzy
+msgid "MLM Earning"
+msgstr "MLM 수익"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:70
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:259
+msgid "Paid Amount"
+msgstr "결제금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:71
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:260
+msgid "Unpaid Amount"
+msgstr "미결제 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:72
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:261
+msgid "WP Role"
+msgstr "WP역할"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:74
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:263
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:21
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:58
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:50
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:131
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:43
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:235
+msgid "Actions"
+msgstr "액션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates.php:237
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:103
+#, fuzzy
+msgid "No Data Found"
+msgstr "데이터를 찾을 수 없음"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:25
+#, fuzzy
+msgid "Sn"
+msgstr "Sn"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:26
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:113
+msgid "IP"
+msgstr "IP"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:27
+msgid "URL"
+msgstr "URL"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:28
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:115
+msgid "Visits"
+msgstr "방문"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:29
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:116
+msgid "Browser"
+msgstr "브라우저"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:30
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:117
+msgid "Device"
+msgstr "장치"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:31
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:118
+msgid "Platform"
+msgstr "플랫폼"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:32
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:119
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:41
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:233
+#: public/templates/rtwwwap_affiliate_body.php:81
+#: public/templates/rtwwwap_affiliate_body.php:951
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:74
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:889
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:596
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1174
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1433
+msgid "Date"
+msgstr "날짜"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_affiliates_traffic.php:114
+#, fuzzy
+msgid "Visitors URL"
+msgstr "방문자 URL"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:12
+#, fuzzy
+msgid "Commission Based "
+msgstr "커미션 기반"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:22
+msgid "Products"
+msgstr "상품"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:29
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:19
+msgid "Users"
+msgstr "사용자"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:29
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:19
+#, fuzzy
+msgid "To set commission for users goto"
+msgstr "사용자에 대한 커미션을 설정하려면 다음으로 이동합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:38
+#, fuzzy
+msgid "Commission for All Products"
+msgstr "모든 제품에 대한 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:44
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:153
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3129
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3203
+#: public/templates/rtwwwap_affiliate_body.php:1389
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1297
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2191
+msgid "Commission Type"
+msgstr "수수료 타입"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:47
+msgid "Commission amount"
+msgstr "수수료 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:58
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:79
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:107
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:250
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:46
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:139
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:127
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:168
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:196
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:223
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3134
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3206
+#: public/templates/rtwwwap_affiliate_body.php:1406
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1314
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2206
+msgid "Percentage"
+msgstr "백분율"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:61
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:49
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:142
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:130
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:171
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:199
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:226
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3133
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3205
+#: public/templates/rtwwwap_affiliate_body.php:1410
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1318
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2210
+msgid "Fixed"
+msgstr "고정"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:67
+#, fuzzy
+msgid "Enter Commission (By default 0)"
+msgstr "커미션 입력(기본값 0)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:75
+#, fuzzy
+msgid "Commission per Product"
+msgstr "제품당 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:85
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:110
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:253
+msgid "Fixed Price"
+msgstr "고정 가격 "
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:91
+#, fuzzy
+msgid "Percentage + Fixed Price"
+msgstr "백분율 + 고정 가격"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:95
+#, fuzzy
+msgid "You need to add commission from product page"
+msgstr "제품 페이지에서 커미션을 추가해야 합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:99
+#, fuzzy
+msgid "Commission per Category"
+msgstr "카테고리별 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:104
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:247
+msgid "Categories"
+msgstr "카테고리"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:113
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:608
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:684
+#, fuzzy
+msgid "Add/Remove row"
+msgstr "행 추가/제거"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:147
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:218
+#: public/templates/rtwwwap_affiliate_body.php:769
+#: public/templates/rtwwwap_affiliate_body.php:817
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:713
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:763
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1312
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2056
+msgid "No Category"
+msgstr "카테고리 없음"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:242
+#, fuzzy
+msgid "Special offers for affiliate"
+msgstr "제휴사를 위한 특별 혜택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:256
+msgid "Date Range"
+msgstr "날짜 범위"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:312
+#, fuzzy
+msgid "(Start date)"
+msgstr "시작일"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:319
+#, fuzzy
+msgid "(End date)"
+msgstr "가격 할인 종료 날짜(GMT 기준)."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:333
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:27
+#, fuzzy
+msgid "Maximum commission to an Affiliate in a month"
+msgstr "한 달에 제휴사에 지급하는 최대 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:338
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:32
+#, fuzzy
+msgid "Enter Max. Commission (By default 0, that means unlimited commission)"
+msgstr "최대를 입력합니다. 커미션(기본값은 0으로 무제한 커미션을 의미합니다)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:344
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:39
+#, fuzzy
+msgid "Withdrawal Fees"
+msgstr "출금 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:349
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:44
+#, fuzzy
+msgid "Enter Fees to be deducted while payouts (By default 0)"
+msgstr "지급 시 공제할 수수료를 입력합니다(기본값 0)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:355
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:51
+#, fuzzy
+msgid "Unlimited / Lifetime Commission"
+msgstr "무제한 / 평생 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:374
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:70
+#, fuzzy
+msgid ""
+"When Unlimited commission is set then commission will be generated every "
+"time a referee made a purchase. No matter if a cookie is set or not."
+msgstr "무제한 커미션을 설정하면 심판이 구매할 때마다 커미션이 생성됩니다. 쿠키 설정 여부와 관계없이."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:380
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:76
+#, fuzzy
+msgid "Override Referrer in Unlimited Commission"
+msgstr "무제한 커미션에서 리퍼러 재정의"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:399
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:95
+#, fuzzy
+msgid ""
+"When not selected then first referrer will get commission every time a "
+"purchase is done by referee. No matter who's referral link is being opened."
+msgstr ""
+"선택하지 않은 경우 첫 번째 추천인은 추천인에 의해 구매가 이루어질 때마다 수수료를 받습니다. 누구의 추천 링크가 열리든 상관없습니다."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:405
+#, fuzzy
+msgid "Commission for only the URL opened?"
+msgstr "URL이 열린 것에 대해서만 수수료를 받나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:430
+#, fuzzy
+msgid ""
+"It will only work with Referral Links and when Unlimited/Lifetime is not set."
+" That means if you are using Referral Code than this functionality will not "
+"work."
+msgstr ""
+"이 기능은 추천 링크와 무제한/평생이 설정되지 않은 경우에만 작동합니다. 즉, 추천 코드를 사용하는 경우 이 기능은 작동하지 않습니다."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:436
+#, fuzzy
+msgid "Enable Two Way Commission"
+msgstr "양방향 커미션 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:455
+#, fuzzy
+msgid ""
+"After Enabling this, you can give commission to users which is referred by "
+"affiliate. Commission for user can set from product edit page. Only Product "
+"Wise Commission is Availiable. "
+msgstr ""
+"이 기능을 활성화하면 제휴사가 추천한 사용자에게 커미션을 지급할 수 있습니다. 사용자에 대한 커미션은 제품 편집 페이지에서 설정할 수 "
+"있습니다. 프로덕트 와이즈 커미션만 사용할 수 있습니다."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:461
+#, fuzzy
+msgid "Activate Generation of Coupons"
+msgstr "쿠폰 생성 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:486
+#, fuzzy
+msgid ""
+"After Activating this , you can generate Coupons of amount that you have in "
+"your wallet .This option is currently available for WooCommerce only "
+msgstr "이를 활성화하면 지갑에있는 금액의 쿠폰을 생성 할 수 있습니다 .이 옵션은 현재 WooCommerce에서만 사용할 수 있습니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:492
+#, fuzzy
+msgid "Minimum amount for Coupon generation"
+msgstr "쿠폰 생성을 위한 최소 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:498
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:509
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:379
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:382
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:446
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:449
+msgid "Enter Amount"
+msgstr "금액을 입력하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:503
+#, fuzzy
+msgid "Minimum amount affiliate need to Withdrawal their money"
+msgstr "제휴사가 자금을 인출하는 데 필요한 최소 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:514
+#, fuzzy
+msgid "Affiliate Referral automation"
+msgstr "제휴사 추천 자동화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:522
+msgid "Select option"
+msgstr "옵션 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:525
+#, fuzzy
+msgid "completed\t"
+msgstr "완료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:528
+msgid "Processing"
+msgstr "처리중"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission.php:532
+#, fuzzy
+msgid ""
+"Select option to automate your referral in which status afilliate referral "
+"will automatically approve"
+msgstr "추천을 자동화하려면 추천 상태가 자동으로 승인되는 추천 자동화 옵션을 선택하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_commission_no_woo.php:10
+#, fuzzy
+msgid "Commission Based on"
+msgstr "수수료 기준"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:7
+#, fuzzy
+msgid "Add new Banner"
+msgstr "새 배너 추가"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:18
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:55
+msgid "Banner Image"
+msgstr "배너 이미지"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:19
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:56
+msgid "Target Link"
+msgstr "링크 대상"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:20
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:57
+msgid "Image Size"
+msgstr "이미지 크기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:67
+#, fuzzy
+msgid "Upload Custom Banner"
+msgstr "맞춤 배너 업로드"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:79
+#, fuzzy
+msgid "Enter Target URL"
+msgstr "대상 URL 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:82
+#, fuzzy
+msgid "Select Image Width x Height "
+msgstr "이미지 너비 x 높이 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:84
+#, fuzzy
+msgid "Select Image Dimention"
+msgstr "이미지 크기 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:85
+#, fuzzy
+msgid "Square – 250 x 250"
+msgstr "정사각형 - 250 x 250"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:86
+#, fuzzy
+msgid "Small Square – 200 x 200"
+msgstr "작은 정사각형 - 200 x 200"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:87
+#, fuzzy
+msgid "Banner – 468 x 60"
+msgstr "배너 - 468 x 60"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:88
+#, fuzzy
+msgid "Leaderboard – 728 x 90"
+msgstr "리더보드 - 728 x 90"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:89
+#, fuzzy
+msgid "Inline Rectangle – 300 x 250"
+msgstr "인라인 직사각형 - 300 x 250"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:90
+#, fuzzy
+msgid "Large Rectangle – 336 x 280"
+msgstr "대형 직사각형 - 336 x 280"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:91
+#, fuzzy
+msgid "Skyscraper – 120 x 600"
+msgstr "초고층 빌딩 - 120 x 600"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:92
+#, fuzzy
+msgid "Wide Skyscraper – 160 x 600"
+msgstr "와이드 마천루 - 160 x 600"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:93
+#, fuzzy
+msgid "Half-Page Ad – 300 x 600"
+msgstr "반 페이지 광고 - 300 x 600"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:94
+#, fuzzy
+msgid "Large Leaderboard – 970 x 90"
+msgstr "대형 리더보드 - 970 x 90"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:97
+#, fuzzy
+msgid "Selected Image Width  :: "
+msgstr "선택한 이미지 너비 ::"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:101
+#, fuzzy
+msgid "Selected Image Height :: "
+msgstr "선택한 이미지 높이 ::"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:109
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:102
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1072
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1182
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:304
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:318
+#: public/templates/rtwwwap_affiliate_body.php:1265
+msgid "Save"
+msgstr "저장하기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_custom_banner.php:110
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1183
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:305
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:319
+msgid "Cancel"
+msgstr "취소"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:22
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:110
+msgid "Email type"
+msgstr "이메일 타입"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:23
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:74
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:111
+msgid "Subject"
+msgstr "제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:24
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:112
+msgid "Content"
+msgstr "콘텐츠"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:25
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:113
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:67
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:191
+msgid "Action"
+msgstr "작업"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:37
+msgid "more"
+msgstr "더보기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:65
+#, fuzzy
+msgid "Customize your required Email from here"
+msgstr "여기에서 필요한 이메일을 사용자 지정하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:78
+msgid "Email content"
+msgstr "이메일 내용"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:81
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:412
+#: public/templates/rtwwwap_affiliate.php:119
+#, fuzzy
+msgid ""
+"Earn extra money just by marketing our products with our affiliate tools"
+msgstr "제휴 도구를 사용하여 제품을 마케팅하는 것만으로도 추가 수익을 얻을 수 있습니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:81
+#, fuzzy
+msgid "You can customize the email according to your requirement"
+msgstr "요구 사항에 따라 이메일을 사용자 지정할 수 있습니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_customize_email.php:81
+#, fuzzy
+msgid "Signup Bonus when someone signup dxvgvsx xvxffb from your shared link"
+msgstr "누군가 공유 링크를 통해 dxvgvsx xvxffb에 가입하면 가입 보너스 지급"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:35
+msgid "Total Affiliates"
+msgstr "전체 제휴사"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:40
+#, fuzzy
+msgid "Total no. of affiliates registered"
+msgstr "등록된 총 제휴사 수"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:48
+#: public/templates/rtwwwap_affiliate_body.php:37
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:36
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:174
+msgid "Total Referrals"
+msgstr "전체 리퍼러"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:53
+#, fuzzy
+msgid "Total no. of Referrals done"
+msgstr "완료된 총 추천 건수"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:60
+#: public/templates/rtwwwap_affiliate_body.php:40
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:39
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:189
+#, fuzzy
+msgid "Total Commission"
+msgstr "총 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:66
+#, fuzzy
+msgid "Total Commission generated from Referrals"
+msgstr "추천을 통해 생성된 총 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:73
+#: public/templates/rtwwwap_affiliate_body.php:48
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:45
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:221
+#, fuzzy
+msgid "Approved Commission"
+msgstr "승인된 위원회"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:80
+#, fuzzy
+msgid "Total Commission that needs to be paid"
+msgstr "지불해야 하는 총 수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:87
+#: public/templates/rtwwwap_affiliate_body.php:52
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:48
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:236
+#, fuzzy
+msgid "Pending Commission"
+msgstr "보류 중인 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:93
+#, fuzzy
+msgid "Total Commission that needs to be reviewed"
+msgstr "검토해야 하는 총 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:104
+msgid "Last 5 Referrals"
+msgstr "최근 레퍼럴 / 마지막 5개"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:126
+msgid "for"
+msgstr "에"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:126
+msgid "on"
+msgstr "켜기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:139
+#, fuzzy
+msgid "Top 5 affiliates"
+msgstr "상위 5개 제휴사"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_dashboard.php:157
+msgid "Total Amount"
+msgstr "총금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:22
+msgid "General"
+msgstr "일반"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:23
+msgid "Labels"
+msgstr "라벨"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:24
+msgid "Bonus"
+msgstr "보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:25
+msgid "Payment"
+msgstr "지불"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:26
+msgid "Notification"
+msgstr "알림"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:27
+msgid "Rank"
+msgstr "순위"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:40
+#, fuzzy
+msgid "Select Affiliate Page"
+msgstr "제휴 페이지 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:52
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:86
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:117
+msgid "Select a Page"
+msgstr "페이지 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:69
+#, fuzzy
+msgid "Use the following shortcode on the selected page"
+msgstr "선택한 페이지에서 다음 단축 코드를 사용합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:74
+#, fuzzy
+msgid "Affiliate Login page"
+msgstr "제휴사 로그인 페이지"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:100
+#, fuzzy
+msgid "Select page if your are using Login shortcode seprately"
+msgstr "로그인 단축코드를 별도로 사용하는 경우 페이지를 선택하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:105
+#, fuzzy
+msgid "Affiliate Signup page "
+msgstr "제휴사 가입 페이지"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:131
+#, fuzzy
+msgid "Select page if your are using Register shortcode seprately"
+msgstr "쇼트코드 개별 등록을 사용하는 경우 페이지 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:136
+#, fuzzy
+msgid "Affiliate Page Template "
+msgstr "제휴 페이지 템플릿"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:154
+#, fuzzy
+msgid "Select Template for Affiliate Page "
+msgstr "제휴 페이지용 템플릿 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:162
+#, fuzzy
+msgid "Show under My Account"
+msgstr "내 계정 아래에 표시"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:179
+#, fuzzy
+msgid "Activate to show under WooCommerce->My Account"
+msgstr "활성화하면 WooCommerce-> 내 계정 아래에 표시됩니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:188
+msgid "Select Currency"
+msgstr "통화 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:206
+#, fuzzy
+msgid "By Default USD will be used"
+msgstr "기본적으로 USD가 사용됩니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:220
+#, fuzzy
+msgid "Hide Login Form"
+msgstr "로그인 양식 숨기기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:227
+#, fuzzy
+msgid "Select this if you want to hide Login form on Affiliate Page"
+msgstr "제휴 페이지에서 로그인 양식을 숨기려면 이 옵션을 선택합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:232
+#, fuzzy
+msgid "Hide Registration Form"
+msgstr "등록 양식 숨기기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:239
+#, fuzzy
+msgid "Select this if you want to hide Registration form on Affiliate Page"
+msgstr "제휴 페이지에서 등록 양식을 숨기려면 이 옵션을 선택합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:244
+#, fuzzy
+msgid "Upto Decimal Places"
+msgstr "소수점 이하 자릿수까지"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:247
+#, fuzzy
+msgid "Enter Upto decimal places"
+msgstr "소수점 이하 자릿수까지 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:250
+#, fuzzy
+msgid ""
+"This decimal places will used for calculating commission and showing numbers"
+msgstr "이 소수점 이하 자릿수는 커미션을 계산하고 숫자를 표시하는 데 사용됩니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:255
+msgid "Decimal Separator"
+msgstr "소수 구분 기호"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:258
+#, fuzzy
+msgid "Enter decimal separator"
+msgstr "소수점 구분 기호 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:260
+#, fuzzy
+msgid "Enter decimal Separator"
+msgstr "소수점 구분 기호 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:265
+msgid "Thousand Separator"
+msgstr "천단위 구분 기호"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:268
+#, fuzzy
+msgid "Enter thousand separator"
+msgstr "천 단위 구분 기호 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:270
+#, fuzzy
+msgid "Enter Thousand Separator"
+msgstr "천 단위 구분 기호 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:274
+#, fuzzy
+msgid "Affiliate Verification"
+msgstr "제휴사 인증"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:278
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:312
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:346
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:28
+msgid "On"
+msgstr "켜기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:293
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:327
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:361
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:34
+msgid "Off"
+msgstr "끄기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:297
+#, fuzzy
+msgid ""
+"Activate this feature if you want to check whether this user can be "
+"affiliate or not"
+msgstr "이 사용자의 제휴 가능 여부를 확인하려면 이 기능을 활성화합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:301
+#, fuzzy
+msgid "Slug in Affiliate Link"
+msgstr "제휴사 링크의 슬러그"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:303
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:1225
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:1344
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4592
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4696
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4743
+#: public/templates/rtwwwap_affiliate_body.php:691
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:636
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:893
+#, fuzzy
+msgid "rtwwwap_aff"
+msgstr "rtwwwap_aff"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:304
+#, fuzzy
+msgid "Replace rtwwwap_aff slug from Affiliate link"
+msgstr "제휴 링크에서 rtwwwap_aff 슬러그 바꾸기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:308
+#, fuzzy
+msgid "Mail to Admin"
+msgstr "관리자에게 메일 보내기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:331
+#, fuzzy
+msgid ""
+"Activate this feature if you want to get mails when a commission is generated"
+msgstr "커미션이 생성될 때 메일을 받으려면 이 기능을 활성화합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:335
+msgid "Cookie Expiration"
+msgstr "쿠키 만료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:338
+#, fuzzy
+msgid ""
+"Enter Days after which referral cookie will expire ( Note: 0 days means "
+"cookie will expire when the browser will be closed )"
+msgstr "추천 쿠키가 만료되는 일수를 입력합니다(참고: 0일은 브라우저가 닫힐 때 쿠키가 만료됨을 의미합니다)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:342
+#, fuzzy
+msgid "QR code for referral links"
+msgstr "추천 링크용 QR 코드"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:384
+#, fuzzy
+msgid "Title for button \"Become an Affiliate\""
+msgstr "\"제휴사 되기\" 버튼의 제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:387
+#, fuzzy
+msgid "Enter Become an Affiliate button Title"
+msgstr "제휴사 되기 버튼 입력 제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:392
+#, fuzzy
+msgid "Title for Section \"Benefits for being an Affiliate\""
+msgstr "\"제휴사 혜택\" 섹션의 제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:395
+#, fuzzy
+msgid "Enter Benefits Section Title"
+msgstr "혜택 섹션 제목 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:400
+#, fuzzy
+msgid "Title for \"Successful Registered user\""
+msgstr "\"성공한 등록 사용자\"의 제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:403
+#, fuzzy
+msgid "Enter successful register message"
+msgstr "등록 성공 메시지 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:408
+#, fuzzy
+msgid "Benefits for being an Affiliate"
+msgstr "제휴사 혜택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:412
+#: public/templates/rtwwwap_affiliate.php:119
+#, fuzzy
+msgid "Earn wallet amount to buy products on our site"
+msgstr "당사 사이트에서 제품을 구매하기 위해 지갑 금액을 적립하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:412
+#: public/templates/rtwwwap_affiliate.php:119
+#, fuzzy
+msgid "Signup Bonus when someone signup from your shared link"
+msgstr "누군가 공유 링크를 통해 가입하면 가입 보너스 지급"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:428
+#, fuzzy
+msgid ""
+"These benefits will be shown to the users, so that they will become an "
+"Affiliate"
+msgstr "이러한 혜택은 사용자에게 표시되어 제휴사가 될 수 있습니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:433
+#, fuzzy
+msgid "Label for Tab \"Overview\""
+msgstr "\"개요\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:436
+#, fuzzy
+msgid "Enter Overview Label"
+msgstr "개요 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:437
+#, fuzzy
+msgid "Enter title for Tab Overview in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 개요의 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:442
+#, fuzzy
+msgid "Label for Tab \"Commissions\""
+msgstr "\"커미션\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:445
+#, fuzzy
+msgid "Enter Commission Label"
+msgstr "커미션 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:446
+#, fuzzy
+msgid "Enter title for Tab Commission in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 커미션의 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:451
+#, fuzzy
+msgid "Label for Tab \"Affiliate Tools\""
+msgstr "\"제휴 도구\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:454
+#, fuzzy
+msgid "Enter Affilate Tools Label"
+msgstr "제휴 도구 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:455
+#, fuzzy
+msgid "Enter title for Tab Affiliate Tools in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 제휴 도구의 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:460
+#, fuzzy
+msgid "Label for Tab \"Download\""
+msgstr "\"다운로드\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:463
+#, fuzzy
+msgid "Enter Download Label"
+msgstr "레이블 다운로드 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:464
+#, fuzzy
+msgid "Enter title for Tab Download in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 다운로드 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:469
+#, fuzzy
+msgid "Label for Tab \"Payout\""
+msgstr "\"지급액\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:472
+#, fuzzy
+msgid "Enter Payout Label"
+msgstr "지급액 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:473
+#, fuzzy
+msgid "Enter title for Tab Payout in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 지급액 제목 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:478
+#, fuzzy
+msgid "Label for Tab \"Profile\""
+msgstr "\"프로필\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:481
+#, fuzzy
+msgid "Enter Profile Label"
+msgstr "프로필 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:482
+#, fuzzy
+msgid "Enter title for Tab Profile in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 프로필의 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:487
+#, fuzzy
+msgid "Label for Tab \"Custom Banner\""
+msgstr "\"사용자 지정 배너\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:490
+#, fuzzy
+msgid "Enter Custom Banner Label"
+msgstr "사용자 지정 배너 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:491
+#, fuzzy
+msgid "Enter title for Tab Custom Banner in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 사용자 지정 배너의 제목 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:496
+#, fuzzy
+msgid "Label for Tab \"MLM\""
+msgstr "\"MLM\" 탭의 레이블"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:499
+#, fuzzy
+msgid "Enter MLM Label"
+msgstr "MLM 레이블 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:500
+#, fuzzy
+msgid "Enter title for Tab MLM in Affilate Dashboard Panel"
+msgstr "제휴 대시보드 패널에서 탭 MLM의 제목을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:511
+#, fuzzy
+msgid "Signup Bonus Type"
+msgstr "가입 보너스 유형"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:515
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5694
+#: public/templates/rtwwwap_aff_reg_page.php:244
+#: public/templates/rtwwwap_aff_reg_page.php:308
+#: public/templates/rtwwwap_aff_reg_page.php:374
+#: public/templates/rtwwwap_aff_reg_page.php:375
+#: public/templates/rtwwwap_aff_reg_page.php:447
+#: public/templates/rtwwwap_aff_reg_page.php:448
+#, fuzzy
+msgid "Referral Code"
+msgstr "추천 코드"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:531
+#, fuzzy
+msgid "Cookie ( Default )"
+msgstr "쿠키 (기본값)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:535
+#, fuzzy
+msgid ""
+"[ Note : When \"REFFERAL CODE\" is selected as Signup Bonus Type then "
+"Referral Link will not work for Singup Bonus, Social share bonus."
+msgstr ""
+"[참고 : 가입 보너스 유형으로 \"추천 코드\"를 선택한 경우, 싱업 보너스, 소셜 공유 보너스에는 추천 링크가 작동하지 않습니다."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:539
+#, fuzzy
+msgid "Active Membership Plan"
+msgstr "액티브 멤버십 플랜"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:556
+#, fuzzy
+msgid ""
+"By activating this option user have to pay some amount to be an Affiliate"
+msgstr "이 옵션을 활성화하면 사용자는 제휴사가 되기 위해 일정 금액을 지불해야 합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:562
+#, fuzzy
+msgid "Enter Membership Amount "
+msgstr "멤버십 금액 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:568
+#, fuzzy
+msgid "Enter Amount that Affiliate have to pay while becomeing an affiliate"
+msgstr "제휴사가 제휴사가 되는 동안 지불해야 하는 금액을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:573
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:79
+#: public/templates/rtwwwap_affiliate_body.php:94
+#: public/templates/rtwwwap_affiliate_body.php:617
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:87
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:560
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:628
+msgid "Signup Bonus"
+msgstr "가입 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:577
+#, fuzzy
+msgid "Enter Amount to be given for referral signup (By default 0)"
+msgstr "추천인 가입 시 지급할 금액 입력(기본값 0)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:583
+msgid "Pay Per Click"
+msgstr "PPC"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:587
+#, fuzzy
+msgid ""
+"Enter Amount to be given for clicking on link only for first time (By "
+"default 0)"
+msgstr "링크를 처음 클릭하는 경우에만 지급할 금액을 입력합니다(기본값 0)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:596
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:672
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:94
+#: public/templates/rtwwwap_affiliate_body.php:97
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:90
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:631
+#, fuzzy
+msgid "Performance Bonus"
+msgstr "성과 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:602
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:678
+#, fuzzy
+msgid "Total Sale amount to unlock achievement"
+msgstr "업적 잠금 해제에 필요한 총 판매 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:605
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:681
+#, fuzzy
+msgid "Incentive"
+msgstr "인센티브"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:745
+#, fuzzy
+msgid "Social Media Share Buttons"
+msgstr "소셜 미디어 공유 버튼"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:765
+#: public/templates/rtwwwap_affiliate_body.php:106
+#: public/templates/rtwwwap_affiliate_body.php:634
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:99
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:577
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:640
+#, fuzzy
+msgid "Sharing Bonus"
+msgstr "공유 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:769
+#, fuzzy
+msgid ""
+"Enter Amount to be given for Sharing a product on social media (By default 0)"
+msgstr "소셜 미디어에서 제품 공유 시 지급할 금액을 입력합니다(기본값 0)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:774
+#, fuzzy
+msgid "Sharing Bonus Limit"
+msgstr "공유 보너스 한도"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:780
+msgid "Time Limit"
+msgstr "시간 제한"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:783
+#, fuzzy
+msgid "Amount Limit"
+msgstr "금액 한도"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:794
+msgid "No Limit"
+msgstr "한도:"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:797
+#, fuzzy
+msgid "Daily Limit"
+msgstr "일일 한도"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:800
+#, fuzzy
+msgid "Weekly Limit"
+msgstr "주간 한도"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:803
+#, fuzzy
+msgid "Monthly Limit"
+msgstr "월별 한도"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:813
+#, fuzzy
+msgid ""
+"Enter Time and Amount after which Affiliate will not get the share bonus"
+msgstr "제휴사가 공유 보너스를 받지 못하는 시간 및 금액을 입력합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:822
+#, fuzzy
+msgid "Activate Paypal"
+msgstr "Paypal 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:832
+#, fuzzy
+msgid "Paypal Live"
+msgstr "페이팔 라이브"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:836
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:848
+msgid "Client ID"
+msgstr "클라이언트 ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:839
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:851
+msgid "Client Secret"
+msgstr "클라이언트 시크릿"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:844
+#, fuzzy
+msgid "Paypal Sandbox"
+msgstr "페이팔 샌드박스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:859
+#, fuzzy
+msgid "Activate Stripe"
+msgstr "스트라이프 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:869
+#, fuzzy
+msgid "Stripe Live"
+msgstr "스트라이프 라이브"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:873
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:885
+msgid "Publishable Key"
+msgstr "게시 가능 키"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:876
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:888
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:910
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:925
+msgid "Secret Key"
+msgstr "비밀 키"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:881
+#, fuzzy
+msgid "Stripe Sandbox"
+msgstr "스트라이프 샌드박스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:893
+#, fuzzy
+msgid "Activate Paystack"
+msgstr "페이스택 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:905
+#, fuzzy
+msgid "Paystack Live"
+msgstr "페이스택 라이브"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:913
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:928
+#, fuzzy
+msgid "public Key"
+msgstr "공개 키"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:920
+#, fuzzy
+msgid "Paystack Sandbox"
+msgstr "페이스택 샌드박스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:935
+#, fuzzy
+msgid "Receive Payment From Affiliates"
+msgstr "제휴사로부터 결제 받기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:939
+#, fuzzy
+msgid "Enter client Email Id"
+msgstr "클라이언트 이메일 ID 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:942
+#, fuzzy
+msgid "Client Email"
+msgstr "고객 이메일"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:954
+msgid "Add Notification"
+msgstr "알림 추가"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:961
+msgid "Title"
+msgstr "제목"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:964
+msgid "View / Edit"
+msgstr "보기/편집"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:967
+msgid "Remove "
+msgstr "제거"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1082
+#, fuzzy
+msgid "Add New Rank"
+msgstr "새 계급 추가"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1091
+#, fuzzy
+msgid "SN"
+msgstr "SN"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1094
+msgid "Rank Name"
+msgstr "등급 명"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1097
+#, fuzzy
+msgid "Rank Priority"
+msgstr "랭크 우선순위"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1101
+#, fuzzy
+msgid "Rank Commission"
+msgstr "계급 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1104
+#, fuzzy
+msgid "Actions "
+msgstr "액션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1107
+msgid "Date "
+msgstr "작성일자 "
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1140
+msgid "edit"
+msgstr "수정"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1141
+msgid "delete"
+msgstr "삭제"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1172
+#, fuzzy
+msgid "Notification Details"
+msgstr "알림 세부 정보"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1175
+#, fuzzy
+msgid "enter Notification title"
+msgstr "알림 제목 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1177
+#, fuzzy
+msgid "enter Notification message"
+msgstr "알림 메시지 입력"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_extra_features.php:1178
+#, fuzzy
+msgid "Enter your reason here within 100 words..."
+msgstr "여기에 100단어 이내로 이유를 입력하세요..."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_footer.php:4
+#, fuzzy
+msgid "WordPress & WooCommerce Affiliate Program By"
+msgstr "워드프레스 & 우커머스 제휴 프로그램 기준"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_footer.php:7
+#, fuzzy
+msgid "RedefiningTheWeb"
+msgstr "웹 재정의"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_footer.php:11
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:9
+msgid "Documentation"
+msgstr "문서"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_footer.php:14
+#, fuzzy
+msgid "5-Stars Rating"
+msgstr "별 5개 등급"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:3
+#, fuzzy
+msgid "Know How It Works"
+msgstr "작동 방식 알아보기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:17
+msgid "Video"
+msgstr "동영상"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:20
+#, fuzzy
+msgid "Contact Our Support Through"
+msgstr "다음을 통해 지원팀에 문의하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:26
+#, fuzzy
+msgid "Support Desk"
+msgstr "지원 데스크"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:34
+msgid "Skype"
+msgstr "스카이프"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:44
+#, fuzzy
+msgid "Difference Between Direct commission & MLM commission."
+msgstr "직접 커미션과 MLM 커미션의 차이점."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:48
+#, fuzzy
+msgid ""
+"Direct commission is provide to the Affiliates and MLM level commission "
+"provided to the parent of affiliate. Direct commission will set from "
+"commission tab and MLM commission will set from commission tab   "
+msgstr ""
+"직접 커미션은 제휴사에게 제공되고 MLM 레벨 커미션은 제휴사의 모회사에 제공됩니다. 직접 커미션은 커미션 탭에서 설정되고 MLM "
+"커미션은 커미션 탭에서 설정됩니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:51
+#, fuzzy
+msgid ""
+"What is difference between MLM Commission based on affiliate commission & "
+"MLM Commission based on Product Price?"
+msgstr "제휴 커미션을 기준으로 한 MLM 커미션과 제품 가격을 기준으로 한 MLM 커미션의 차이점은 무엇인가요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:53
+#, fuzzy
+msgid ""
+"The difference in these two option is when you choose \"MLM commission Based "
+"on product price \" then MLM commission generate on the basis of product "
+"price -> let suppose you have set MLM commission on level 1 is 10% and "
+"product price is 100% then parent will receive 10$ as MLM commission.\n"
+"                  And if you choose \"MLM commission Based on the amount "
+"earned by the affiliate as commission\" then commission generates on the "
+"amount generates for the affiliate as direct commission let suppose Direct "
+"commission was set 20%, MLM commission on level 1 is 10% and product price "
+"is 100$ then affiliate receive 20$ as commission and their parent will "
+"receive 10% of 20$(earned by affiliate as commission) on 1st level which is "
+"2$"
+msgstr ""
+"이 두 옵션의 차이점은 \"제품 가격 기준 MLM 커미션\"을 선택하면 제품 가격을 기준으로 MLM 커미션이 생성되고-> 레벨 1의 "
+"MLM 커미션을 10 % a으로 설정하고 제품 가격이 100 %라고 가정하면 부모는 MLM 커미션으로 10 $를 받게됩니다.\n"
+"                  그리고 \"제휴사가 커미션으로 벌어 들인 금액을 기준으로 MLM 커미션\"을 선택하면 직접 커미션으로 "
+"제휴사에 대해 발생하는 금액에 대해 커미션이 발생합니다. 직접 커미션이 20 %로 설정되고 레벨 1의 MLM 커미션이 10 % a이고 "
+"제품 가격이 100 $라고 가정하면 제휴사는 수수료로 20 $를 받고 부모는 10 % of 20 $ (제휴사가 수수료로 벌어 들인) 1 "
+"레벨 인 2 $를받습니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:58
+#, fuzzy
+msgid "How does binary MLM works?"
+msgstr "바이너리 MLM은 어떻게 작동하나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:60
+#, fuzzy
+msgid ""
+"In Binary MLM an affiliate can have maximum 2 children under them and "
+"affiliate start receiving MLM commission when then cycle is complete.\n"
+"                    A cycle is complete when an affiliate register 2 user "
+"under them if there is only one user then affiliate did not receive any MLM "
+"commission"
+msgstr ""
+"바이너리 MLM에서 제휴사는 최대 2 명의 자녀를 둘 수 있으며 주기가 완료되면 제휴사는 MLM 커미션을 받기 시작합니다.\n"
+"                    사용자가 한 명만 있는 경우 제휴사가 그 아래에 2명의 사용자를 등록하면 사이클이 완료되고 제휴사는 "
+"MLM 커미션을 받지 못합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:64
+#, fuzzy
+msgid "How does forced matrix works?"
+msgstr "강제 매트릭스는 어떻게 작동하나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:66
+#, fuzzy
+msgid ""
+"In forced matrix user have to register number of children under them enter "
+"by admin if admin set 5 number of maximum child then affiliate are forced to "
+"register 5 number of children under them to start earning MLM commission "
+msgstr ""
+"강제 매트릭스에서 사용자는 관리자가 입력 한 자녀 수를 등록해야합니다. 관리자가 최대 자녀 수를 5 명으로 설정하면 제휴사는 MLM "
+"커미션을 받기 위해 자녀 수를 5 명으로 등록해야합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:69
+#, fuzzy
+msgid "How to Deactivate/Activate plugin from one domain to another?"
+msgstr "한 도메인에서 다른 도메인으로 플러그인을 비활성화/활성화하려면 어떻게 해야 하나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:71
+#, fuzzy
+msgid ""
+"If you want to remove it from current domain then at top right corner you "
+"will find a button \"Remove purchase code\" So remove purchase code for "
+"there and provide it while installing it on another site"
+msgstr ""
+"현재 도메인에서 제거하려면 오른쪽 상단에 \"구매 코드 제거\"버튼이 있습니다. 따라서 여기에서 구매 코드를 제거하고 다른 사이트에 "
+"설치하는 동안 제공하십시오"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_help.php:75
+msgid "Read More"
+msgstr "더 보기"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:27
+#, fuzzy
+msgid "Please select \"Commission Based on = Users\" in Commission Setting Tab"
+msgstr "커미션 설정 탭에서 \"커미션 기준 = 사용자\"를 선택하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:33
+msgid "Add New Level"
+msgstr "새로운 레벨 추가"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:36
+msgid "Update Order"
+msgstr "주문을 업데이트합니다."
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:45
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:126
+msgid "Sort"
+msgstr "정렬"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:48
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:129
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:26
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:122
+msgid "Commission"
+msgstr "수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:49
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:130
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:63
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:156
+#: public/templates/rtwwwap_affiliate_body.php:537
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:480
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:508
+#, fuzzy
+msgid "To Reach"
+msgstr "도달 대상"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:97
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:83
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:173
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1367
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1438
+#: public/templates/rtwwwap_affiliate_body.php:568
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:511
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:539
+msgid "Become Affiliate"
+msgstr "제휴사 신청"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:101
+#: public/templates/rtwwwap_affiliate_body.php:572
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:515
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:543
+#, fuzzy
+msgid "No. of referrals"
+msgstr "추천 건수"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels.php:105
+#, fuzzy
+msgid "Total sale amount "
+msgstr "총 판매 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:32
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:128
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:113
+#: public/templates/rtwwwap_affiliate_body.php:75
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:68
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:594
+msgid "Type"
+msgstr "유형"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:35
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:131
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:116
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:64
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:188
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:207
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:246
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:40
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:232
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:284
+#: public/templates/rtwwwap_affiliate_body.php:78
+#: public/templates/rtwwwap_affiliate_body.php:225
+#: public/templates/rtwwwap_affiliate_body.php:948
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:71
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:210
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:886
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:595
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:848
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1430
+msgid "Amount"
+msgstr "금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:69
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:162
+msgid "Criteria"
+msgstr "표준"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:72
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:165
+msgid "Value"
+msgstr "값"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:86
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:176
+#, fuzzy
+msgid "No. of Referrals"
+msgstr "추천 건수"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:89
+#: admin/partials/rtwwwap_tabs/rtwwwap_levels_add_edit.php:179
+#: public/templates/rtwwwap_affiliate_body.php:576
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:519
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:547
+#, fuzzy
+msgid "Total sale amount"
+msgstr "총 판매 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:18
+#, fuzzy
+msgid "Activate MLM"
+msgstr "MLM 활성화"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:41
+#, fuzzy
+msgid "MLM Type"
+msgstr "MLM 유형"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:49
+#: public/templates/rtwwwap_affiliate_body.php:1340
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1255
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2095
+#, fuzzy
+msgid "Binary"
+msgstr "바이너리"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:52
+#: public/templates/rtwwwap_affiliate_body.php:1344
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1259
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2099
+#, fuzzy
+msgid "Forced Matrix"
+msgstr "강제 매트릭스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:55
+#: public/templates/rtwwwap_affiliate_body.php:1348
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1263
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2103
+#, fuzzy
+msgid "Unilevel"
+msgstr "유니레벨"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:58
+#: public/templates/rtwwwap_affiliate_body.php:1351
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1266
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2107
+msgid "Unlimited"
+msgstr "무제한"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:63
+#, fuzzy
+msgid ""
+"NOTE : If you change MLM Plan then you need to activate/deactivate members "
+"to make the chains according to your plan selected"
+msgstr "참고 : MLM 플랜을 변경하는 경우 선택한 플랜에 따라 멤버를 활성화 / 비활성화하여 체인을 만들어야합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:67
+#, fuzzy
+msgid "MLM commission Based"
+msgstr "MLM 수수료 기반"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:71
+#, fuzzy
+msgid "Based on product price"
+msgstr "제품 가격 기준"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:77
+#, fuzzy
+msgid " Based on the amount earned by the affiliate as commission "
+msgstr " 제휴사가 커미션으로 벌어들인 금액을 기준으로 합니다"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:84
+msgid "Depth"
+msgstr "깊이"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:87
+#, fuzzy
+msgid "How many levels does this MLM can have? ( Note: By Default 1 )"
+msgstr "이 MLM은 몇 개의 레벨을 가질 수 있나요? (참고: 기본값 1)"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:91
+msgid "Child"
+msgstr "어린이"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:102
+#, fuzzy
+msgid "How many childs a User can have?"
+msgstr "사용자는 몇 명의 자녀를 가질 수 있나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:107
+#, fuzzy
+msgid "Default Commission for a Level"
+msgstr "레벨의 기본 커미션"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:144
+#: public/templates/rtwwwap_affiliate_body.php:1377
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1285
+#, fuzzy
+msgid "MLM Levels"
+msgstr "MLM 레벨"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:156
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3143
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3213
+#: public/templates/rtwwwap_affiliate_body.php:1393
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1301
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2192
+msgid "Commission Amount"
+msgstr "수수료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_mlm.php:242
+#, fuzzy
+msgid "User can change status of members in his chain?"
+msgstr "사용자가 자신의 체인에 있는 멤버의 상태를 변경할 수 있나요?"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:31
+#, fuzzy
+msgid "Pay marked PayPal Affiliates"
+msgstr "페이팔 제휴사 표시 결제"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:33
+#, fuzzy
+msgid "Pay marked Stripe Affiliates"
+msgstr "표시된 스트라이프 제휴사 결제"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:41
+msgid "Withdrawal Request"
+msgstr "출금 요청"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:42
+#, fuzzy
+msgid "All Transaction"
+msgstr "모든 거래"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:62
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:186
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:205
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:244
+#, fuzzy
+msgid "Affiliate ID \t"
+msgstr "제휴사 ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:63
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:187
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:31
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:223
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1041
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:771
+msgid "Affiliate"
+msgstr "제휴사"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:65
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:189
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:208
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:247
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:42
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:234
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:292
+#: public/templates/rtwwwap_affiliate_body.php:84
+#: public/templates/rtwwwap_affiliate_body.php:954
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:77
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:892
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:597
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1436
+msgid "Status"
+msgstr "상태"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:66
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:190
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:209
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:248
+msgid "Request Date"
+msgstr "신청일"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:144
+#: public/templates/rtwwwap_affiliate_body.php:1062
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1009
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1590
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1641
+msgid "Paypal"
+msgstr "Paypal"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:148
+#: public/templates/rtwwwap_affiliate_body.php:1068
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1014
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1596
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1654
+msgid "Stripe"
+msgstr "Stripe"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:152
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2323
+msgid "Bank Details"
+msgstr "은행정보"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:156
+#: public/templates/rtwwwap_affiliate_body.php:1073
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1602
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1669
+msgid "Paystack"
+msgstr "Paystack"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:166
+msgid "Pay"
+msgstr "결제 "
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:173
+#, fuzzy
+msgid "No payment method defined"
+msgstr "정의된 결제 방법 없음"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:204
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:243
+msgid "Transaction ID"
+msgstr "거래 ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:206
+#: admin/partials/rtwwwap_tabs/rtwwwap_payouts.php:245
+msgid "Affiliate Name"
+msgstr "Affiliate 이름"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:13
+#, fuzzy
+msgid "Approve all marked Referrals"
+msgstr "표시된 모든 추천 승인"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:15
+#, fuzzy
+msgid "Reject all marked Referrals"
+msgstr "표시된 모든 추천 거부"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:16
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:243
+#, fuzzy
+msgid "Add Manual Referral"
+msgstr "수동 추천 추가"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:30
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:222
+msgid "User ID"
+msgstr "사용자 ID"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:32
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:224
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:274
+msgid "Reference"
+msgstr "참고"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:36
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:228
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:757
+msgid "Order Status"
+msgstr "주문 상태"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:87
+#, fuzzy
+msgid "CPC bonus"
+msgstr "CPC 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:90
+#, fuzzy
+msgid "Rank bonus"
+msgstr "계급 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:97
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:278
+#: public/templates/rtwwwap_affiliate_body.php:109
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:102
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:643
+#, fuzzy
+msgid "Manual Referral"
+msgstr "수동 추천"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:102
+#: public/templates/rtwwwap_affiliate_body.php:103
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:96
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:637
+#, fuzzy
+msgid "MLM Bonus"
+msgstr "MLM 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:109
+#, fuzzy
+msgid "Share Bonus"
+msgstr "공유 보너스"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:174
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:298
+msgid "Approve"
+msgstr "동의"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:177
+msgid "Reject"
+msgstr "거절"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:185
+#, fuzzy
+msgid "Amount added in wallet"
+msgstr "지갑에 추가된 금액"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:192
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:299
+#: public/templates/rtwwwap_affiliate_body.php:143
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:133
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:679
+msgid "Paid"
+msgstr "유료"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:199
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2045
+#: public/templates/rtwwwap_affiliate_body.php:146
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:136
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:682
+msgid "Rejected"
+msgstr "거부됨"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:207
+#: public/templates/rtwwwap_affiliate_body.php:172
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:156
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:707
+#, fuzzy
+msgid "Capped"
+msgstr "제한"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:248
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3343
+#, fuzzy
+msgid "Select Affiliate"
+msgstr "제휴사 선택"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:251
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1260
+#, fuzzy
+msgid "Please Select Affiliate"
+msgstr "제휴사를 선택해 주세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:277
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1266
+#, fuzzy
+msgid "Please Select Reference"
+msgstr "참조를 선택하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:287
+#, fuzzy
+msgid "Please Enter Amount"
+msgstr "금액을 입력하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:295
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1278
+#, fuzzy
+msgid "Please Select Status"
+msgstr "상태를 선택하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:297
+#: public/templates/rtwwwap_affiliate_body.php:136
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:126
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:672
+msgid "Pending"
+msgstr "대기 중"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:311
+#, fuzzy
+msgid "Enter Your Reason Here"
+msgstr "여기에 이유를 입력하세요"
+
+#: admin/partials/rtwwwap_tabs/rtwwwap_referrals.php:314
+#, fuzzy
+msgid "Enter your reason here within 100 words... "
+msgstr "여기에 100단어 이내로 이유를 입력하세요..."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:162
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:354
+msgid "Clear"
+msgstr "클리어"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:163
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:355
+msgid "Default"
+msgstr "기본"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:164
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:356
+msgid "Select Color"
+msgstr "색상 선택"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:165
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:357
+msgid "Current Color"
+msgstr "현재 색"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:186
+#, fuzzy
+msgid "Digits Only"
+msgstr "숫자만"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:187
+#, fuzzy
+msgid "Details not filled"
+msgstr "세부 정보가 채워지지 않음"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:188
+#, fuzzy
+msgid "Are you sure that you have completed this bank transfer?"
+msgstr "은행 송금을 완료하신 것이 맞나요?"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:189
+#, fuzzy
+msgid "Nothing Marked"
+msgstr "표시 없음"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:190
+#, fuzzy
+msgid ""
+"Are you sure to approve this Referral? It can't be reverted back once "
+"approved"
+msgstr "이 추천을 승인하시겠습니까? 승인 후에는 되돌릴 수 없습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:191
+#, fuzzy
+msgid ""
+"Are you sure to approve all the Referrals? It can't be reverted back once "
+"approved"
+msgstr "모든 추천을 승인하시겠습니까? 승인된 후에는 되돌릴 수 없습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:192
+#, fuzzy
+msgid ""
+"Are you sure to reject this Referral? It can't be reverted back once rejected"
+msgstr "이 추천을 정말 거절하시겠습니까? 한 번 거부하면 되돌릴 수 없습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:193
+#, fuzzy
+msgid "Please input some text in message box"
+msgstr "메시지 상자에 텍스트를 입력하세요"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:194
+#, fuzzy
+msgid ""
+"Are you sure to reject all the Referrals? It can't be reverted back once "
+"rejected"
+msgstr "모든 추천을 거부하시겠습니까? 한 번 거절하면 되돌릴 수 없습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:195
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:399
+msgid "Activate"
+msgstr "활성화"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:196
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:400
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:197
+#, fuzzy
+msgid "Please Enter Target URL"
+msgstr "타겟 URL을 입력하세요"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:198
+#, fuzzy
+msgid "Please Select Image"
+msgstr "이미지를 선택하세요"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:199
+#, fuzzy
+msgid ""
+"Image width or height is not matching with selected Image WIDTH x HEIGHT"
+msgstr "이미지 너비 또는 높이가 선택한 이미지 너비 x 높이와 일치하지 않습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:219
+msgid "Ranks"
+msgstr "순위"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:220
+msgid "Edit Post"
+msgstr "글 편집"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:221
+msgid "New Post"
+msgstr "새 글"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:223
+msgid "All Posts"
+msgstr "모든 게시글"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:224
+msgid "View Posts"
+msgstr "글 보기"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:225
+#, fuzzy
+msgid "Search Postss"
+msgstr "게시물 검색"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:226
+msgid "No posts found"
+msgstr "게시물을 찾을 수 없습니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:227
+#, fuzzy
+msgid "No posts found in the Trash"
+msgstr "휴지통에 게시물이 없습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:275
+#, fuzzy
+msgid "Rank Requirnment"
+msgstr "계급 요구 사항"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:282
+msgid "Priority"
+msgstr "우선순위"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:290
+#, fuzzy
+msgid "Rank Commision"
+msgstr "계급 커미션"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:307
+msgid "Excerpt"
+msgstr "요약"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:323
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:401
+#, fuzzy
+msgid "Sign up as an affiliate"
+msgstr "제휴사로 가입하기"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:324
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:402
+#, fuzzy
+msgid "personally sponsor affiliates"
+msgstr "개인적으로 제휴사 후원"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:325
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:403
+#, fuzzy
+msgid "Total affiliates in organization "
+msgstr "조직 내 총 계열사 수"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:326
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:404
+msgid "Reach a Rank"
+msgstr "칭호에 도달"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:327
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:405
+#, fuzzy
+msgid "personal sales volume per month"
+msgstr "월별 개인 판매량"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:328
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:406
+#, fuzzy
+msgid "Group sales volume per month"
+msgstr "월별 그룹 판매량"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:343
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:420
+msgid "select"
+msgstr "선택"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:410
+#, fuzzy
+msgid "Enter Number of Affiliates"
+msgstr "제휴사 수 입력"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:413
+#, fuzzy
+msgid "Enter Number of Sponser"
+msgstr "스폰서 수 입력"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:416
+#, fuzzy
+msgid "Enter Number of Affiliate"
+msgstr "제휴사 수 입력"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:463
+#, fuzzy
+msgid "Add New Requirnments"
+msgstr "새 요구 사항 추가"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:480
+#, fuzzy
+msgid ""
+"The Rank priority defines the order a user can achieve ranks. user will need "
+"to get lower priority ranks before get this one. "
+msgstr ""
+"랭크 우선순위는 사용자가 랭크를 달성할 수 있는 순서를 정의합니다. 사용자는 이 랭크에 도달하기 전에 우선순위가 낮은 랭크를 먼저 "
+"달성해야 합니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:493
+#, fuzzy
+msgid "Fixed Commision"
+msgstr "고정 커미션"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:628
+msgid "Settings"
+msgstr "설정"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:638
+#, fuzzy
+msgid "WP & WC Affiliate Program"
+msgstr "WP & WC 제휴 프로그램"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:872
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2006
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2130
+#: public/templates/rtwwwap_affiliate_body.php:139
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:129
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:675
+msgid "Approved"
+msgstr "승인됨"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:876
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2010
+#, fuzzy
+msgid "Some referrals are not approved. Try again"
+msgstr "일부 추천은 승인되지 않습니다. 다시 시도해 보세요"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1048
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1381
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1459
+#, fuzzy
+msgid "Affiliate Level"
+msgstr "제휴 레벨"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1234
+#, fuzzy
+msgid "This user is an affiliate now"
+msgstr "이 사용자는 현재 제휴 회원입니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1237
+#, fuzzy
+msgid "This user is not an affiliate now"
+msgstr "이 사용자는 현재 제휴사가 아닙니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1272
+#, fuzzy
+msgid "Please Enter Referral Amount"
+msgstr "추천 금액을 입력하세요"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1320
+#, fuzzy
+msgid "Manual Referral Added Successfully"
+msgstr "수동 추천이 성공적으로 추가되었습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1325
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2542
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2550
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2560
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2726
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2756
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2858
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2881
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5557
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5587
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7450
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7472
+msgid "Something Went Wrong"
+msgstr "알수 없는 오류 발생"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1348
+#, fuzzy
+msgid "Affiliate level changed"
+msgstr "제휴 레벨 변경"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1351
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1743
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3392
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3419
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3423
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:842
+msgid "Something went wrong"
+msgstr "문제가 발생했습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1370
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1441
+#, fuzzy
+msgid "This will make this user also as an Affiliate"
+msgstr "이렇게 하면 이 사용자도 제휴사가 됩니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1488
+#, fuzzy
+msgid "MLM Chain"
+msgstr "MLM 체인"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1492
+#: public/templates/rtwwwap_affiliate_body.php:1433
+#, fuzzy
+msgid "Show MLM chain"
+msgstr "MLM 체인 보기"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1495
+msgid "Binary Plan"
+msgstr "바이너리 구조"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1498
+#, fuzzy
+msgid "Forced Matrix Plan"
+msgstr "강제 매트릭스 계획"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1501
+#, fuzzy
+msgid "Unilevel Plan"
+msgstr "단일 레벨 요금제"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1508
+#: public/templates/rtwwwap_affiliate_body.php:1436
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1344
+#, fuzzy
+msgid "Show In-Active members also"
+msgstr "활동 중인 회원도 표시"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1513
+#: public/templates/rtwwwap_affiliate_body.php:1438
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1346
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2169
+#, fuzzy
+msgid ""
+"MLM chain is not proper, activate/ deactivate the members to make the chain "
+"according to your MLM plan. Once done reload the page to see the updated MLM "
+"chain."
+msgstr ""
+"MLM 체인이 적절하지 않은 경우, 멤버를 활성화/비활성화하여 MLM 계획에 따라 체인을 만드세요. 완료되면 페이지를 새로고침하여 "
+"업데이트된 MLM 체인을 확인합니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1524
+msgid "Affiliate Details"
+msgstr "마케터 정보"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1653
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1660
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1790
+#, fuzzy
+msgid "Percentage Commission"
+msgstr "수수료 비율"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1657
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1661
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1798
+#, fuzzy
+msgid "Fixed Commission"
+msgstr "고정 수수료"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1740
+#, fuzzy
+msgid "Commission for this product is updated"
+msgstr "이 제품에 대한 수수료가 업데이트되었습니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:1769
+msgid "Add Commission"
+msgstr "저장하기"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2049
+#, fuzzy
+msgid "Some referrals are not rejected. Try again"
+msgstr "일부 추천은 거부되지 않습니다. 다시 시도하기"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2133
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2435
+#, fuzzy
+msgid "Something went wrong. Try again"
+msgstr "문제가 발생했습니다. 다시 시도"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2169
+#, fuzzy
+msgid "Paypal not setup correctly."
+msgstr "Paypal이 올바르게 설정되지 않았습니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2199
+msgid "You have a payment"
+msgstr "당신은 지불이"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2232
+#, fuzzy
+msgid "Something went wrong. Try again."
+msgstr "문제가 발생했습니다. 다시 시도하세요."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2283
+#, fuzzy
+msgid "Affilate Payout via PayPal"
+msgstr "페이팔을 통한 제휴 지급"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2296
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2723
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3014
+#, fuzzy
+msgid "Successfully paid"
+msgstr "결제 성공"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2304
+#, fuzzy
+msgid "WordPress & WooCommerce Affiliate Program Exporter"
+msgstr "워드프레스 & 우커머스 제휴 프로그램 익스포터"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2326
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2335
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2344
+msgid "Affiliate Program"
+msgstr "제휴 프로그램"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2332
+#, fuzzy
+msgid "Paypal Details"
+msgstr "페이팔 세부 정보"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2341
+#, fuzzy
+msgid "Stripe Details"
+msgstr "스트라이프 디테일"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2358
+#, fuzzy
+msgid "WordPress & WooCommerce Affiliate Program Eraser"
+msgstr "워드프레스 & 우커머스 제휴 프로그램 지우개"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2411
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2431
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3313
+msgid "Deleted"
+msgstr "삭제됨"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2527
+#, fuzzy
+msgid "Affilate Payout via Paystack"
+msgstr "페이스택을 통한 제휴 지급금"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2752
+#, fuzzy
+msgid "Order Successfully updated"
+msgstr "주문 업데이트 성공"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2854
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5553
+msgid "Deactivated"
+msgstr "비활성화"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2877
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5583
+msgid "Activated"
+msgstr "활성화"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2929
+#, fuzzy
+msgid "Stripe not setup correctly."
+msgstr "스트라이프가 올바르게 설정되지 않았습니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:2996
+#, fuzzy
+msgid "Affiliate Payout via Stripe"
+msgstr "스트라이프를 통한 제휴 대금 지급"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3048
+msgid "From "
+msgstr "부터"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3048
+msgid " to "
+msgstr " 까지 "
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3108
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3188
+#, fuzzy
+msgid "Referee Commission Setting"
+msgstr "심판 커미션 설정"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3130
+#, fuzzy
+msgid "Choose a commission type."
+msgstr "커미션 유형을 선택합니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3145
+#, fuzzy
+msgid "Enter the commission amount."
+msgstr "수수료 금액을 입력합니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3209
+#, fuzzy
+msgid "Choose a commission type"
+msgstr "커미션 유형 선택"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3275
+#, fuzzy
+msgid "Successfully Uploaded"
+msgstr "파일이 성공적으로 업로드 되었습니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3279
+msgid "Failed to upload"
+msgstr "업로드하지 못했습니다."
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3316
+#, fuzzy
+msgid "Not Deleted"
+msgstr "[삭제됨]"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3332
+#, fuzzy
+msgid "-- SELECT --"
+msgstr "-- SELECT --"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3344
+#, fuzzy
+msgid "Select Affiliate to whome you want to assign this coupon"
+msgstr "이 쿠폰을 할당할 제휴사를 선택합니다"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3389
+msgid "Updated"
+msgstr "업데이트됨"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3416
+#, fuzzy
+msgid "Successfully Deleted"
+msgstr "%s 회원가입이 삭제되었습니다!"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3449
+#, fuzzy
+msgid "Nothing to be executed"
+msgstr "실행할 항목 없음"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3458
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3476
+#, fuzzy
+msgid "Rank added successfully"
+msgstr "계급 추가 성공"
+
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3519
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3527
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3535
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3543
+#: admin/rtwwwap-class-wp-wc-affiliate-program-admin.php:3552
+#, fuzzy
+msgid "Email changed successfully"
+msgstr "이메일이 성공적으로 변경되었습니다"
+
+#: includes/rtwaffiliatehelper.php:19
+msgid "United Arab Emirates dirham"
+msgstr "아랍에미리트 디르함"
+
+#: includes/rtwaffiliatehelper.php:20
+msgid "Afghan afghani"
+msgstr "아프가니스탄 아프가니"
+
+#: includes/rtwaffiliatehelper.php:21
+msgid "Albanian lek"
+msgstr "알바니아 렉"
+
+#: includes/rtwaffiliatehelper.php:22
+msgid "Netherlands Antillean guilder"
+msgstr "네덜란드령 안틸레스 휠던"
+
+#: includes/rtwaffiliatehelper.php:23
+msgid "Angolan kwanza"
+msgstr "앙골라 콴자"
+
+#: includes/rtwaffiliatehelper.php:24
+msgid "Argentine peso"
+msgstr "아르헨티나 페소"
+
+#: includes/rtwaffiliatehelper.php:25
+msgid "Australian dollar"
+msgstr "오스트레일리아 달러"
+
+#: includes/rtwaffiliatehelper.php:26
+msgid "Aruban florin"
+msgstr "아루바 플로린"
+
+#: includes/rtwaffiliatehelper.php:27
+msgid "Azerbaijani manat"
+msgstr "아제르바이잔 마나트"
+
+#: includes/rtwaffiliatehelper.php:28
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "보스니아 헤르체고비나 태환 마르카"
+
+#: includes/rtwaffiliatehelper.php:29
+msgid "Barbadian dollar"
+msgstr "바베이도스 달러"
+
+#: includes/rtwaffiliatehelper.php:30
+msgid "Bangladeshi taka"
+msgstr "방글라데시 타카"
+
+#: includes/rtwaffiliatehelper.php:31
+msgid "Bulgarian lev"
+msgstr "불가리아 레프"
+
+#: includes/rtwaffiliatehelper.php:32
+msgid "Bahraini dinar"
+msgstr "바레인 디나르"
+
+#: includes/rtwaffiliatehelper.php:33
+msgid "Burundian franc"
+msgstr "부룬디 프랑"
+
+#: includes/rtwaffiliatehelper.php:34
+msgid "Bermudian dollar"
+msgstr "버뮤다 달러"
+
+#: includes/rtwaffiliatehelper.php:35
+msgid "Brunei dollar"
+msgstr "브루나이 달러"
+
+#: includes/rtwaffiliatehelper.php:36
+msgid "Bolivian boliviano"
+msgstr "볼리비아 볼리비아노"
+
+#: includes/rtwaffiliatehelper.php:37
+msgid "Brazilian real"
+msgstr "브라질 헤알"
+
+#: includes/rtwaffiliatehelper.php:38
+msgid "Bahamian dollar"
+msgstr "바하마 달러"
+
+#: includes/rtwaffiliatehelper.php:39
+msgid "Bhutanese ngultrum"
+msgstr "부탄 눌트럼"
+
+#: includes/rtwaffiliatehelper.php:40
+msgid "Botswana pula"
+msgstr "보츠와나 풀라"
+
+#: includes/rtwaffiliatehelper.php:41
+msgid "Belarusian ruble (old)"
+msgstr "벨라루스 루블(이전)"
+
+#: includes/rtwaffiliatehelper.php:42
+msgid "Belize dollar"
+msgstr "벨리즈 달러"
+
+#: includes/rtwaffiliatehelper.php:43
+msgid "Canadian dollar"
+msgstr "캐나다 달러"
+
+#: includes/rtwaffiliatehelper.php:44
+msgid "Congolese franc"
+msgstr "콩고 프랑"
+
+#: includes/rtwaffiliatehelper.php:45
+msgid "Swiss franc"
+msgstr "스위스 프랑"
+
+#: includes/rtwaffiliatehelper.php:46
+msgid "Chilean peso"
+msgstr "칠레 페소"
+
+#: includes/rtwaffiliatehelper.php:47
+msgid "Chinese yuan"
+msgstr "중국 위안화"
+
+#: includes/rtwaffiliatehelper.php:48
+msgid "Colombian peso"
+msgstr "콜롬비아 페소"
+
+#: includes/rtwaffiliatehelper.php:49
+msgid "Costa Rican col&oacute;n"
+msgstr "코스타리카 콜론"
+
+#: includes/rtwaffiliatehelper.php:50
+msgid "Cuban peso"
+msgstr "쿠바 페소"
+
+#: includes/rtwaffiliatehelper.php:51
+msgid "Cape Verdean escudo"
+msgstr "카보베르데 이스쿠두"
+
+#: includes/rtwaffiliatehelper.php:52
+msgid "Czech koruna"
+msgstr "체코 코루나"
+
+#: includes/rtwaffiliatehelper.php:53
+msgid "Djiboutian franc"
+msgstr "지부티 프랑"
+
+#: includes/rtwaffiliatehelper.php:54
+msgid "Danish krone"
+msgstr "덴마크 크로네"
+
+#: includes/rtwaffiliatehelper.php:55
+msgid "Dominican peso"
+msgstr "도미니카 페소"
+
+#: includes/rtwaffiliatehelper.php:56
+msgid "Algerian dinar"
+msgstr "알제리 디나르"
+
+#: includes/rtwaffiliatehelper.php:57
+msgid "Egyptian pound"
+msgstr "이집트 파운드"
+
+#: includes/rtwaffiliatehelper.php:58
+msgid "Ethiopian birr"
+msgstr "에티오피아 비르"
+
+#: includes/rtwaffiliatehelper.php:59
+msgid "Euro"
+msgstr "유로"
+
+#: includes/rtwaffiliatehelper.php:60
+msgid "Fijian dollar"
+msgstr "피지 달러"
+
+#: includes/rtwaffiliatehelper.php:61
+msgid "Falkland Islands pound"
+msgstr "포클랜드 제도 파운드"
+
+#: includes/rtwaffiliatehelper.php:62
+msgid "Pound sterling"
+msgstr "파운드 스털링"
+
+#: includes/rtwaffiliatehelper.php:63
+msgid "Georgian lari"
+msgstr "조지아 라리"
+
+#: includes/rtwaffiliatehelper.php:64
+msgid "Ghana cedi"
+msgstr "가나 세디"
+
+#: includes/rtwaffiliatehelper.php:65
+msgid "Gibraltar pound"
+msgstr "지브롤터 파운드"
+
+#: includes/rtwaffiliatehelper.php:66
+msgid "Gambian dalasi"
+msgstr "감비아 달라시"
+
+#: includes/rtwaffiliatehelper.php:67
+msgid "Guinean franc"
+msgstr "기니 프랑"
+
+#: includes/rtwaffiliatehelper.php:68
+msgid "Guatemalan quetzal"
+msgstr "과테말라 케찰"
+
+#: includes/rtwaffiliatehelper.php:69
+msgid "Guyanese dollar"
+msgstr "가이아나 달러"
+
+#: includes/rtwaffiliatehelper.php:70
+msgid "Hong Kong dollar"
+msgstr "홍콩 달러"
+
+#: includes/rtwaffiliatehelper.php:71
+msgid "Honduran lempira"
+msgstr "온두라스 렘피라"
+
+#: includes/rtwaffiliatehelper.php:72
+msgid "Croatian kuna"
+msgstr "크로아티아 쿠나"
+
+#: includes/rtwaffiliatehelper.php:73
+msgid "Haitian gourde"
+msgstr "아이티 구르드"
+
+#: includes/rtwaffiliatehelper.php:74
+msgid "Hungarian forint"
+msgstr "헝가리 포린트"
+
+#: includes/rtwaffiliatehelper.php:75
+msgid "Indonesian rupiah"
+msgstr "인도네시아 루피아"
+
+#: includes/rtwaffiliatehelper.php:76
+msgid "Israeli new shekel"
+msgstr "이스라엘 신 셰켈"
+
+#: includes/rtwaffiliatehelper.php:77
+msgid "Indian rupee"
+msgstr "인도 루페"
+
+#: includes/rtwaffiliatehelper.php:78
+msgid "Iraqi dinar"
+msgstr "이라크 디나르"
+
+#: includes/rtwaffiliatehelper.php:79
+msgid "Iranian rial"
+msgstr "이란 리알"
+
+#: includes/rtwaffiliatehelper.php:80
+msgid "Icelandic kr&oacute;na"
+msgstr "아이슬란드 크로나"
+
+#: includes/rtwaffiliatehelper.php:81
+msgid "Jersey pound"
+msgstr "저지 섬 파운드"
+
+#: includes/rtwaffiliatehelper.php:82
+msgid "Jamaican dollar"
+msgstr "자메이카 달러"
+
+#: includes/rtwaffiliatehelper.php:83
+msgid "Jordanian dinar"
+msgstr "요르단 디나르"
+
+#: includes/rtwaffiliatehelper.php:84
+msgid "Japanese yen"
+msgstr "일본 엔화"
+
+#: includes/rtwaffiliatehelper.php:85
+msgid "Kenyan shilling"
+msgstr "케냐 실링"
+
+#: includes/rtwaffiliatehelper.php:86
+msgid "Kyrgyzstani som"
+msgstr "키르기스스탄 솜"
+
+#: includes/rtwaffiliatehelper.php:87
+msgid "Cambodian riel"
+msgstr "캄보디아 리엘"
+
+#: includes/rtwaffiliatehelper.php:88
+msgid "Comorian franc"
+msgstr "코모로 프랑"
+
+#: includes/rtwaffiliatehelper.php:89
+msgid "North Korean won"
+msgstr "북한 원"
+
+#: includes/rtwaffiliatehelper.php:90
+msgid "South Korean won"
+msgstr "한국 원화"
+
+#: includes/rtwaffiliatehelper.php:91
+msgid "Kuwaiti dinar"
+msgstr "쿠웨이트 디나르"
+
+#: includes/rtwaffiliatehelper.php:92
+msgid "Cayman Islands dollar"
+msgstr "케이맨 제도 달러"
+
+#: includes/rtwaffiliatehelper.php:93
+msgid "Kazakhstani tenge"
+msgstr "카자흐스탄 텡게"
+
+#: includes/rtwaffiliatehelper.php:94
+msgid "Lao kip"
+msgstr "라오스 킵"
+
+#: includes/rtwaffiliatehelper.php:95
+msgid "Lebanese pound"
+msgstr "레바논 파운드"
+
+#: includes/rtwaffiliatehelper.php:96
+msgid "Sri Lankan rupee"
+msgstr "스리랑카 루피"
+
+#: includes/rtwaffiliatehelper.php:97
+msgid "Liberian dollar"
+msgstr "라이베리아 달러"
+
+#: includes/rtwaffiliatehelper.php:98
+msgid "Libyan dinar"
+msgstr "리비아 디나르"
+
+#: includes/rtwaffiliatehelper.php:99
+msgid "Moroccan dirham"
+msgstr "모로코 디르함"
+
+#: includes/rtwaffiliatehelper.php:100
+msgid "Moldovan leu"
+msgstr "몰도바 레우"
+
+#: includes/rtwaffiliatehelper.php:101
+msgid "Malagasy ariary"
+msgstr "마다가스카르 아리아리"
+
+#: includes/rtwaffiliatehelper.php:102
+msgid "Macedonian denar"
+msgstr "마케도니아 데나르"
+
+#: includes/rtwaffiliatehelper.php:103
+msgid "Burmese kyat"
+msgstr "미얀마 차트"
+
+#: includes/rtwaffiliatehelper.php:104
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr "몽고 투그릭"
+
+#: includes/rtwaffiliatehelper.php:105
+msgid "Macanese pataca"
+msgstr "마카오 파타카"
+
+#: includes/rtwaffiliatehelper.php:106
+msgid "Mauritanian ouguiya"
+msgstr "모리타니 우기야"
+
+#: includes/rtwaffiliatehelper.php:107
+msgid "Mauritian rupee"
+msgstr "모리셔스 루피"
+
+#: includes/rtwaffiliatehelper.php:108
+msgid "Maldivian rufiyaa"
+msgstr "몰디브 루피야"
+
+#: includes/rtwaffiliatehelper.php:109
+msgid "Malawian kwacha"
+msgstr "말라위 콰차"
+
+#: includes/rtwaffiliatehelper.php:110
+msgid "Mexican peso"
+msgstr "멕시코 페소"
+
+#: includes/rtwaffiliatehelper.php:111
+msgid "Malaysian ringgit"
+msgstr "말레이지아 링깃"
+
+#: includes/rtwaffiliatehelper.php:112
+msgid "Mozambican metical"
+msgstr "모잠비크 메티칼"
+
+#: includes/rtwaffiliatehelper.php:113
+msgid "Namibian dollar"
+msgstr "나미비아 달러"
+
+#: includes/rtwaffiliatehelper.php:114
+msgid "Nigerian naira"
+msgstr "나이지리아 나이라"
+
+#: includes/rtwaffiliatehelper.php:115
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr "니카라과 코르도바"
+
+#: includes/rtwaffiliatehelper.php:116
+msgid "Norwegian krone"
+msgstr "노르웨이 크로네"
+
+#: includes/rtwaffiliatehelper.php:117
+msgid "Nepalese rupee"
+msgstr "네팔 루피"
+
+#: includes/rtwaffiliatehelper.php:118
+msgid "New Zealand dollar"
+msgstr "뉴질랜드 달러"
+
+#: includes/rtwaffiliatehelper.php:119
+msgid "Omani rial"
+msgstr "오만 리알"
+
+#: includes/rtwaffiliatehelper.php:120
+msgid "Panamanian balboa"
+msgstr "파나마 발보아"
+
+#: includes/rtwaffiliatehelper.php:121
+msgid "Sol"
+msgstr "솔"
+
+#: includes/rtwaffiliatehelper.php:122
+msgid "Papua New Guinean kina"
+msgstr "파푸아 뉴기니 키나"
+
+#: includes/rtwaffiliatehelper.php:123
+msgid "Philippine peso"
+msgstr "필리핀 페소"
+
+#: includes/rtwaffiliatehelper.php:124
+msgid "Pakistani rupee"
+msgstr "파키스탄 루피"
+
+#: includes/rtwaffiliatehelper.php:125
+msgid "Polish z&#x142;oty"
+msgstr "폴란드 즈워티"
+
+#: includes/rtwaffiliatehelper.php:126
+msgid "Transnistrian ruble"
+msgstr "트란스니스트리아 루블"
+
+#: includes/rtwaffiliatehelper.php:127
+msgid "Paraguayan guaran&iacute;"
+msgstr "파라과이 구아라니"
+
+#: includes/rtwaffiliatehelper.php:128
+msgid "Qatari riyal"
+msgstr "카타르 리얄"
+
+#: includes/rtwaffiliatehelper.php:129
+msgid "Romanian leu"
+msgstr "루마니아 레우"
+
+#: includes/rtwaffiliatehelper.php:130
+msgid "Serbian dinar"
+msgstr "세르비아 디나르"
+
+#: includes/rtwaffiliatehelper.php:131
+msgid "Russian ruble"
+msgstr "러시아 루블"
+
+#: includes/rtwaffiliatehelper.php:132
+msgid "Rwandan franc"
+msgstr " 르완다 프랑"
+
+#: includes/rtwaffiliatehelper.php:133
+msgid "Saudi riyal"
+msgstr "사우디아라비아 리얄"
+
+#: includes/rtwaffiliatehelper.php:134
+msgid "Solomon Islands dollar"
+msgstr "솔로몬 섬 달러 (dollar)"
+
+#: includes/rtwaffiliatehelper.php:135
+msgid "Seychellois rupee"
+msgstr "세이셸 루피"
+
+#: includes/rtwaffiliatehelper.php:136
+msgid "Sudanese pound"
+msgstr "수단 파운드"
+
+#: includes/rtwaffiliatehelper.php:137
+msgid "Swedish krona"
+msgstr "스웨덴 크로나"
+
+#: includes/rtwaffiliatehelper.php:138
+msgid "Singapore dollar"
+msgstr "싱가포르 달러"
+
+#: includes/rtwaffiliatehelper.php:139
+msgid "Saint Helena pound"
+msgstr "세인트헬레나 파운드"
+
+#: includes/rtwaffiliatehelper.php:140
+msgid "Sierra Leonean leone"
+msgstr "시에라리온 레온"
+
+#: includes/rtwaffiliatehelper.php:141
+msgid "Somali shilling"
+msgstr "소말리아 실링"
+
+#: includes/rtwaffiliatehelper.php:142
+msgid "Surinamese dollar"
+msgstr "수리남 달러"
+
+#: includes/rtwaffiliatehelper.php:143
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr "상투메 프린시페 도브라"
+
+#: includes/rtwaffiliatehelper.php:144
+msgid "Syrian pound"
+msgstr "시리아 파운드"
+
+#: includes/rtwaffiliatehelper.php:145
+msgid "Swazi lilangeni"
+msgstr "스와질란드 릴랑게니"
+
+#: includes/rtwaffiliatehelper.php:146
+msgid "Thai baht"
+msgstr "태국 밧"
+
+#: includes/rtwaffiliatehelper.php:147
+msgid "Tajikistani somoni"
+msgstr "타지키스탄 소모니"
+
+#: includes/rtwaffiliatehelper.php:148
+msgid "Turkmenistan manat"
+msgstr "투르크메니스탄 마나트"
+
+#: includes/rtwaffiliatehelper.php:149
+msgid "Tunisian dinar"
+msgstr "튀니지 디나르"
+
+#: includes/rtwaffiliatehelper.php:150
+msgid "Tongan pa&#x2bb;anga"
+msgstr "통가 파앙가"
+
+#: includes/rtwaffiliatehelper.php:151
+msgid "Turkish lira"
+msgstr "터키 리라"
+
+#: includes/rtwaffiliatehelper.php:152
+msgid "Trinidad and Tobago dollar"
+msgstr "트리니다드 토바고 달러"
+
+#: includes/rtwaffiliatehelper.php:153
+msgid "New Taiwan dollar"
+msgstr "신타이비"
+
+#: includes/rtwaffiliatehelper.php:154
+msgid "Ukrainian hryvnia"
+msgstr "우크라이나 흐리우냐"
+
+#: includes/rtwaffiliatehelper.php:155
+msgid "Ugandan shilling"
+msgstr "우간다 실링"
+
+#: includes/rtwaffiliatehelper.php:156
+msgid "United States (US) dollar"
+msgstr "미국 달러"
+
+#: includes/rtwaffiliatehelper.php:157
+msgid "Uruguayan peso"
+msgstr "우루과이 페소"
+
+#: includes/rtwaffiliatehelper.php:158
+msgid "Uzbekistani som"
+msgstr "우즈베키스탄 솜"
+
+#: includes/rtwaffiliatehelper.php:159
+msgid "Venezuelan bol&iacute;var"
+msgstr "베네수엘라 볼리바르"
+
+#: includes/rtwaffiliatehelper.php:160
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "베트남 동"
+
+#: includes/rtwaffiliatehelper.php:161
+msgid "Vanuatu vatu"
+msgstr "바누아투 바투"
+
+#: includes/rtwaffiliatehelper.php:162
+msgid "Samoan t&#x101;l&#x101;"
+msgstr "사모아 탈라"
+
+#: includes/rtwaffiliatehelper.php:163
+msgid "Central African CFA franc"
+msgstr "중앙아프리카 CFA 프랑"
+
+#: includes/rtwaffiliatehelper.php:164
+msgid "East Caribbean dollar"
+msgstr "동카리브 달러"
+
+#: includes/rtwaffiliatehelper.php:165
+msgid "CFP franc"
+msgstr "CFA 프랑"
+
+#: includes/rtwaffiliatehelper.php:166
+msgid "Yemeni rial"
+msgstr "예멘 리알"
+
+#: includes/rtwaffiliatehelper.php:167
+msgid "South African rand"
+msgstr "남아프리카 공화국 랜드"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:101
+#, fuzzy
+msgid "Affiliate Template"
+msgstr "제휴 템플릿"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:379
+#, fuzzy
+msgid "Copy Script"
+msgstr "스크립트 복사"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:380
+#, fuzzy
+msgid "Copy Html"
+msgstr "HTML 복사"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:381
+msgid "Buy Now"
+msgstr "즉시 구매"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:382
+msgid "Preview"
+msgstr "미리보기"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:383
+#, fuzzy
+msgid "List Price"
+msgstr "정가"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:384
+#, fuzzy
+msgid "Our Price"
+msgstr "가격"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:385
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:386
+msgid "Link Color"
+msgstr "링크 색상"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:387
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:388
+msgid "Show Price"
+msgstr "가격 보기"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:389
+msgid "Border Color"
+msgstr "테두리 색상"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:391
+#, fuzzy
+msgid "Enter valid Link"
+msgstr "유효한 링크 입력"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:396
+#, fuzzy
+msgid "Coupon amount must be greater than"
+msgstr "쿠폰 금액은 다음보다 커야 합니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:397
+#, fuzzy
+msgid "Coupon amount must be less than"
+msgstr "쿠폰 금액은 다음보다 작아야 합니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:398
+#: public/templates/rtwwwap_affiliate_body.php:702
+#: public/templates/rtwwwap_affiliate_body.php:1312
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:647
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1228
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:927
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1983
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2072
+msgid "Copied"
+msgstr "복사됨"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:401
+msgid "Disabled"
+msgstr "비활성"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:402
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:403
+msgid "Parent"
+msgstr "상위"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:404
+#, fuzzy
+msgid "Are you sure to send the request?"
+msgstr "요청을 보내시겠습니까?"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:405
+#, fuzzy
+msgid "* Fill the Required Details"
+msgstr "* 필수 세부 정보 입력"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:406
+#, fuzzy
+msgid "* Fill the required Details"
+msgstr "* 필수 세부 정보 입력"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:407
+#, fuzzy
+msgid "Enter Valid Email Address"
+msgstr "유효한 이메일 주소를 입력하세요"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:408
+#, fuzzy
+msgid "Password should be more than 6 characters"
+msgstr "비밀번호는 6자 이상이어야 합니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:409
+#, fuzzy
+msgid ""
+"To make Strong password also Use Special characters & numbers in your "
+"password"
+msgstr "강력한 비밀번호를 만들려면 비밀번호에 특수 문자 및 숫자를 사용하세요"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:410
+#, fuzzy
+msgid "Please write a message"
+msgstr "메시지를 작성해 주세요"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:411
+#, fuzzy
+msgid "Password Not Matched"
+msgstr "비밀번호가 일치하지 않음"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:416
+#, fuzzy
+msgid "Please Set Payment Method First"
+msgstr "결제 방법을 먼저 설정하세요"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:417
+#, fuzzy
+msgid "Please input valid number"
+msgstr "유효한 번호를 입력하세요"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:677
+#, fuzzy
+msgid "Total + Pending"
+msgstr "합계 + 보류 중"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:678
+#, fuzzy
+msgid "Total commission"
+msgstr "총 수수료"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:679
+msgid "WALLET"
+msgstr "지갑"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:680
+#, fuzzy
+msgid "APPROVED COMMISSION"
+msgstr "승인된 수수료"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:681
+#, fuzzy
+msgid "PENDING COMMISSION"
+msgstr "보류 중인 커미션"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:682
+#, fuzzy
+msgid "REJECTED COMMISSION"
+msgstr "거부된 커미션"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:704
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:705
+msgid "Other"
+msgstr "기타"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:733
+#, fuzzy
+msgid " Clicked"
+msgstr " 클릭"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:734
+#, fuzzy
+msgid " Purchased"
+msgstr "아이템 구매됨"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:735
+#, fuzzy
+msgid "Conversion Ratio("
+msgstr "전환율("
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:829
+#, fuzzy
+msgid "paypal payment"
+msgstr "페이팔 결제"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:839
+#, fuzzy
+msgid "You are now an affiliate"
+msgstr "이제 제휴사가 되었습니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:849
+#, fuzzy
+msgid "membership Not setup correctly"
+msgstr "멤버십이 올바르게 설정되지 않았습니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:1162
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:1165
+msgid " "
+msgstr " "
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:1170
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:2344
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:3331
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:3933
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4463
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5250
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5623
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5667
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:6217
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:6743
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7605
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7923
+msgid "From"
+msgstr "발신자"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:2351
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:3338
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:3941
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4471
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:6224
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:6750
+#, fuzzy
+msgid "Generated a new referral of amount"
+msgstr "새로운 금액의 추천 생성"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4605
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4624
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4641
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4660
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1239
+msgid "Link"
+msgstr "링크"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4606
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4625
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4642
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4661
+#: public/templates/rtwwwap_affiliate.php:1223
+msgid "Banner"
+msgstr "배너"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4670
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:4783
+msgid "No Result Found"
+msgstr "결과가 없습니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:5257
+#, fuzzy
+msgid "Generated a new MLM commission of amount"
+msgstr "새로운 MLM 커미션 금액 생성"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7315
+#, fuzzy
+msgid "Referral email updated"
+msgstr "추천 이메일 업데이트"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7341
+#, fuzzy
+msgid "Setting Saved Successfully"
+msgstr "설정이 성공적으로 저장되었습니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7363
+#, fuzzy
+msgid "Profile Updated"
+msgstr "프로필 업데이트 됨."
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7382
+#, fuzzy
+msgid "Payment Method Updated"
+msgstr "결제 방법 업데이트"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7517
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7526
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7538
+#, fuzzy
+msgid "User Name / Email OR Pasword is incorrect"
+msgstr "사용자 이름/이메일 또는 비밀번호가 올바르지 않습니다"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7615
+#, fuzzy
+msgid "Successfully Register"
+msgstr "등록 성공"
+
+#: public/rtwwwap-class-wp-wc-affiliate-program-public.php:7921
+#, fuzzy
+msgid "changed password"
+msgstr "비밀번호 변경"
+
+#: public/templates/rtwwwap_aff_login_page.php:87
+#, fuzzy
+msgid "Login your Account"
+msgstr "계정 로그인"
+
+#: public/templates/rtwwwap_aff_login_page.php:94
+#: public/templates/rtwwwap_aff_login_page.php:169
+#: public/templates/rtwwwap_aff_login_page.php:233
+#: public/templates/rtwwwap_aff_login_page.php:234
+#: public/templates/rtwwwap_aff_login_page.php:308
+#: public/templates/rtwwwap_aff_login_page.php:309
+msgid "Username or Email Address"
+msgstr "아이디 또는 이메일 주소"
+
+#: public/templates/rtwwwap_aff_login_page.php:96
+#: public/templates/rtwwwap_aff_login_page.php:170
+#: public/templates/rtwwwap_aff_login_page.php:235
+#: public/templates/rtwwwap_aff_login_page.php:236
+#: public/templates/rtwwwap_aff_login_page.php:310
+#: public/templates/rtwwwap_aff_login_page.php:311
+#: public/templates/rtwwwap_aff_reg_page.php:238
+#: public/templates/rtwwwap_aff_reg_page.php:303
+#: public/templates/rtwwwap_aff_reg_page.php:368
+#: public/templates/rtwwwap_aff_reg_page.php:369
+#: public/templates/rtwwwap_aff_reg_page.php:440
+#: public/templates/rtwwwap_aff_reg_page.php:441
+msgid "Password"
+msgstr "비밀번호"
+
+#: public/templates/rtwwwap_aff_login_page.php:98
+#: public/templates/rtwwwap_aff_login_page.php:171
+#: public/templates/rtwwwap_aff_login_page.php:227
+#: public/templates/rtwwwap_aff_login_page.php:238
+#: public/templates/rtwwwap_aff_login_page.php:304
+#: public/templates/rtwwwap_aff_login_page.php:312
+msgid "Login"
+msgstr "로그인"
+
+#: public/templates/rtwwwap_aff_login_page.php:166
+msgid "Login Form"
+msgstr "로그인 폼"
+
+#: public/templates/rtwwwap_aff_reg_page.php:226
+#, fuzzy
+msgid "Register your Account"
+msgstr "계정 등록"
+
+#: public/templates/rtwwwap_aff_reg_page.php:234
+#: public/templates/rtwwwap_aff_reg_page.php:301
+#: public/templates/rtwwwap_aff_reg_page.php:363
+#: public/templates/rtwwwap_aff_reg_page.php:364
+#: public/templates/rtwwwap_aff_reg_page.php:436
+#: public/templates/rtwwwap_aff_reg_page.php:437
+msgid "E-Mail"
+msgstr "이메일"
+
+#: public/templates/rtwwwap_aff_reg_page.php:236
+#: public/templates/rtwwwap_aff_reg_page.php:302
+#: public/templates/rtwwwap_aff_reg_page.php:365
+#: public/templates/rtwwwap_aff_reg_page.php:366
+#: public/templates/rtwwwap_aff_reg_page.php:438
+#: public/templates/rtwwwap_aff_reg_page.php:439
+#, fuzzy
+msgid "Phone No."
+msgstr "전화 번호"
+
+#: public/templates/rtwwwap_aff_reg_page.php:240
+#: public/templates/rtwwwap_aff_reg_page.php:305
+#: public/templates/rtwwwap_aff_reg_page.php:372
+#: public/templates/rtwwwap_aff_reg_page.php:444
+#, fuzzy
+msgid "Confirm_Password"
+msgstr "비밀번호 확인"
+
+#: public/templates/rtwwwap_aff_reg_page.php:247
+#: public/templates/rtwwwap_aff_reg_page.php:311
+#: public/templates/rtwwwap_aff_reg_page.php:378
+#: public/templates/rtwwwap_aff_reg_page.php:452
+msgid "Register"
+msgstr "회원가입하기"
+
+#: public/templates/rtwwwap_aff_reg_page.php:296
+msgid "Registration Form"
+msgstr "회원가입 양식"
+
+#: public/templates/rtwwwap_aff_reg_page.php:355
+#: public/templates/rtwwwap_aff_reg_page.php:430
+msgid "Registration"
+msgstr "회원 가입"
+
+#: public/templates/rtwwwap_aff_reg_page.php:371
+#: public/templates/rtwwwap_aff_reg_page.php:443
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#: public/templates/rtwwwap_aff_reset_password_page.php:43
+#, fuzzy
+msgid "Key Expired"
+msgstr "키 만료"
+
+#: public/templates/rtwwwap_aff_reset_password_page.php:47
+msgid "Invalid Key"
+msgstr "유효하지 않은 키"
+
+#: public/templates/rtwwwap_aff_reset_password_page.php:75
+#: public/templates/rtwwwap_aff_reset_password_page.php:90
+#: public/templates/rtwwwap_aff_reset_password_page.php:129
+#: public/templates/rtwwwap_aff_reset_password_page.php:142
+#: public/templates/rtwwwap_aff_reset_password_page.php:175
+#: public/templates/rtwwwap_aff_reset_password_page.php:193
+#: public/templates/rtwwwap_aff_reset_password_page.php:237
+#: public/templates/rtwwwap_aff_reset_password_page.php:252
+#, fuzzy
+msgid "Reset your Password"
+msgstr "비밀번호를 재설정하려면 <a href=\"%s\">여기를 클릭하세요</a>."
+
+#: public/templates/rtwwwap_aff_reset_password_page.php:87
+#: public/templates/rtwwwap_aff_reset_password_page.php:139
+#: public/templates/rtwwwap_aff_reset_password_page.php:190
+#: public/templates/rtwwwap_aff_reset_password_page.php:249
+#: public/templates/rtwwwap_affiliate_body.php:1252
+msgid "New Password"
+msgstr "새로운 비밀번호"
+
+#: public/templates/rtwwwap_aff_reset_password_page.php:96
+#: public/templates/rtwwwap_aff_reset_password_page.php:148
+#: public/templates/rtwwwap_aff_reset_password_page.php:199
+#: public/templates/rtwwwap_aff_reset_password_page.php:258
+msgid "Reset Password"
+msgstr "비밀번호 초기화하기"
+
+#: public/templates/rtwwwap_affiliate.php:102
+#, fuzzy
+msgid "Not approved yet"
+msgstr "아직 승인되지 않음"
+
+#: public/templates/rtwwwap_affiliate.php:108
+#: public/templates/rtwwwap_affiliate.php:117
+msgid "Become an Affiliate"
+msgstr "제휴사 가입"
+
+#: public/templates/rtwwwap_affiliate.php:128
+#, fuzzy
+msgid "Benefits of becoming our Affiliate"
+msgstr "제휴사 가입 시 혜택"
+
+#: public/templates/rtwwwap_affiliate.php:1163
+#, fuzzy
+msgid "Commission Table"
+msgstr "커미션 테이블"
+
+#: public/templates/rtwwwap_affiliate.php:1169
+#, fuzzy
+msgid "Refferal Table"
+msgstr "추천 테이블"
+
+#: public/templates/rtwwwap_affiliate.php:1189
+#, fuzzy
+msgid "Coupon Generate"
+msgstr "쿠폰 생성"
+
+#: public/templates/rtwwwap_affiliate.php:1195
+msgid "Generate Link"
+msgstr "링크 생성"
+
+#: public/templates/rtwwwap_affiliate.php:1202
+msgid "Report"
+msgstr "보고서"
+
+#: public/templates/rtwwwap_affiliate.php:1243
+#, fuzzy
+msgid "Create Banner"
+msgstr "배너 만들기"
+
+#: public/templates/rtwwwap_affiliate_body.php:44
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:42
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:205
+msgid "Wallet"
+msgstr "월렛"
+
+#: public/templates/rtwwwap_affiliate_body.php:100
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:93
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:634
+#, fuzzy
+msgid "Referral Bonus"
+msgstr "추천인 보너스"
+
+#: public/templates/rtwwwap_affiliate_body.php:112
+#, fuzzy
+msgid "Rank Bonus"
+msgstr "계급 보너스"
+
+#: public/templates/rtwwwap_affiliate_body.php:149
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:139
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:684
+#, fuzzy
+msgid "View Reason"
+msgstr "이유 보기"
+
+#: public/templates/rtwwwap_affiliate_body.php:154
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:690
+#, fuzzy
+msgid "Reason Entered by Admin"
+msgstr "관리자가 입력한 이유"
+
+#: public/templates/rtwwwap_affiliate_body.php:192
+#: public/templates/rtwwwap_affiliate_body.php:198
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:176
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:182
+msgid "Create Coupon"
+msgstr "새 쿠폰 만들기"
+
+#: public/templates/rtwwwap_affiliate_body.php:203
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:187
+#, fuzzy
+msgid "You can create "
+msgstr "다음을 만들 수 있습니다"
+
+#: public/templates/rtwwwap_affiliate_body.php:205
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:189
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:812
+msgid "Coupons"
+msgstr "쿠폰"
+
+#: public/templates/rtwwwap_affiliate_body.php:207
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:191
+#, fuzzy
+msgid " once your Wallet amount is greater than "
+msgstr " 지갑 금액이 다음보다 크면"
+
+#: public/templates/rtwwwap_affiliate_body.php:222
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:207
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:847
+msgid "Coupon"
+msgstr "쿠폰"
+
+#: public/templates/rtwwwap_affiliate_body.php:249
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:234
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:865
+#, fuzzy
+msgid "No Coupons"
+msgstr "쿠폰"
+
+#: public/templates/rtwwwap_affiliate_body.php:284
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:273
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:292
+#, fuzzy
+msgid "Commission on all Products"
+msgstr "모든 제품에 대한 수수료"
+
+#: public/templates/rtwwwap_affiliate_body.php:352
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:341
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:309
+#, fuzzy
+msgid "Per Product Commission"
+msgstr "제품별 커미션"
+
+#: public/templates/rtwwwap_affiliate_body.php:360
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:349
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:317
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:737
+msgid "Product Name"
+msgstr "상품 이름"
+
+#: public/templates/rtwwwap_affiliate_body.php:364
+#: public/templates/rtwwwap_affiliate_body.php:420
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:353
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:409
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:319
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:426
+#, fuzzy
+msgid "Percentage commission (%)"
+msgstr "수수료 비율(%)"
+
+#: public/templates/rtwwwap_affiliate_body.php:399
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:388
+#, fuzzy
+msgid "Specific Product commission not set. Check Category Commissions"
+msgstr "특정 제품 커미션이 설정되지 않았습니다. 카테고리 커미션 확인"
+
+#: public/templates/rtwwwap_affiliate_body.php:409
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:398
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:415
+#, fuzzy
+msgid "Per Category Commission"
+msgstr "카테고리별 수수료"
+
+#: public/templates/rtwwwap_affiliate_body.php:417
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:406
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:424
+msgid "Category Name"
+msgstr "카테고리 명"
+
+#: public/templates/rtwwwap_affiliate_body.php:423
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:412
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:428
+#, fuzzy
+msgid "Fixed commission"
+msgstr "고정 수수료"
+
+#: public/templates/rtwwwap_affiliate_body.php:466
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:455
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:471
+#, fuzzy
+msgid "Specific Category commission not set."
+msgstr "특정 카테고리 커미션이 설정되지 않았습니다."
+
+#: public/templates/rtwwwap_affiliate_body.php:528
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:471
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:499
+#, fuzzy
+msgid "Level No."
+msgstr "레벨 번호."
+
+#: public/templates/rtwwwap_affiliate_body.php:531
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:474
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:502
+msgid "Level Name"
+msgstr "레벨명"
+
+#: public/templates/rtwwwap_affiliate_body.php:534
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:477
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:505
+#, fuzzy
+msgid "Level commission"
+msgstr "레벨 커미션"
+
+#: public/templates/rtwwwap_affiliate_body.php:588
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:531
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:564
+#, fuzzy
+msgid "No Commission is set on any Product"
+msgstr "모든 제품에는 수수료가 설정되어 있지 않습니다"
+
+#: public/templates/rtwwwap_affiliate_body.php:604
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:547
+#, fuzzy
+msgid "Special Bonus Type"
+msgstr "특별 보너스 유형"
+
+#: public/templates/rtwwwap_affiliate_body.php:607
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:550
+#, fuzzy
+msgid "Bonus Amount"
+msgstr "보너스 금액"
+
+#: public/templates/rtwwwap_affiliate_body.php:638
+#: public/templates/rtwwwap_affiliate_body.php:641
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:581
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:584
+#, fuzzy
+msgid "per Shared product"
+msgstr "공유 제품당"
+
+#: public/templates/rtwwwap_affiliate_body.php:638
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:581
+#, fuzzy
+msgid "with no Maximum Limit"
+msgstr "최대 한도 없음"
+
+#: public/templates/rtwwwap_affiliate_body.php:641
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:584
+msgid "Maximum"
+msgstr "최대"
+
+#: public/templates/rtwwwap_affiliate_body.php:644
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:587
+#, fuzzy
+msgid "in a Day"
+msgstr "하루"
+
+#: public/templates/rtwwwap_affiliate_body.php:647
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:590
+#, fuzzy
+msgid "in a Week"
+msgstr "일주일"
+
+#: public/templates/rtwwwap_affiliate_body.php:650
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:593
+#, fuzzy
+msgid "in a month"
+msgstr "이번 달"
+
+#: public/templates/rtwwwap_affiliate_body.php:695
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:640
+#, fuzzy
+msgid "Generate links"
+msgstr "링크 생성"
+
+#: public/templates/rtwwwap_affiliate_body.php:697
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:642
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:906
+#, fuzzy
+msgid "Enter any product's URL from this website"
+msgstr "이 웹사이트의 제품 URL을 입력합니다"
+
+#: public/templates/rtwwwap_affiliate_body.php:699
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:644
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:920
+msgid "Generate link"
+msgstr "링크 생성"
+
+#: public/templates/rtwwwap_affiliate_body.php:701
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:646
+msgid "Copy link"
+msgstr "링크 복사"
+
+#: public/templates/rtwwwap_affiliate_body.php:706
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:651
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:931
+#, fuzzy
+msgid "Create QR Code"
+msgstr "QR 코드 생성"
+
+#: public/templates/rtwwwap_affiliate_body.php:721
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:666
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:945
+msgid "Tweet"
+msgstr "트윗"
+
+#: public/templates/rtwwwap_affiliate_body.php:726
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:671
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:950
+msgid "Facebook"
+msgstr "Facebook"
+
+#: public/templates/rtwwwap_affiliate_body.php:730
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:675
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:954
+msgid "Mail"
+msgstr "메일"
+
+#: public/templates/rtwwwap_affiliate_body.php:734
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:679
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:958
+msgid "Whatsapp"
+msgstr "왓츠앱"
+
+#: public/templates/rtwwwap_affiliate_body.php:741
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:686
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:965
+#, fuzzy
+msgid "Download QR"
+msgstr "QR 다운로드"
+
+#: public/templates/rtwwwap_affiliate_body.php:745
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:690
+#, fuzzy
+msgid "Create banners"
+msgstr "배너 만들기"
+
+#: public/templates/rtwwwap_affiliate_body.php:747
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:692
+msgid "Search Product"
+msgstr "제품 검색"
+
+#: public/templates/rtwwwap_affiliate_body.php:775
+msgid "Search"
+msgstr "검색"
+
+#: public/templates/rtwwwap_affiliate_body.php:807
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:753
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1302
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: public/templates/rtwwwap_affiliate_body.php:821
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:767
+msgid "Generate CSV"
+msgstr "CSV 파일 생성하기"
+
+#: public/templates/rtwwwap_affiliate_body.php:894
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:832
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1376
+#, fuzzy
+msgid "Request to Withdrawal"
+msgstr "출금 요청"
+
+#: public/templates/rtwwwap_affiliate_body.php:900
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:838
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1382
+#, fuzzy
+msgid "Withdrawal Your Money"
+msgstr "자금 인출"
+
+#: public/templates/rtwwwap_affiliate_body.php:908
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:846
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1390
+#, fuzzy
+msgid "Available Balance:"
+msgstr "사용 가능한 잔액:"
+
+#: public/templates/rtwwwap_affiliate_body.php:916
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:854
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1398
+#, fuzzy
+msgid "Input Amount:"
+msgstr "입력 금액:"
+
+#: public/templates/rtwwwap_affiliate_body.php:923
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:861
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1405
+msgid "Request"
+msgstr "요청"
+
+#: public/templates/rtwwwap_affiliate_body.php:924
+#: public/templates/rtwwwap_affiliate_body.php:1266
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:862
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1406
+msgid "cancel"
+msgstr "취소"
+
+#: public/templates/rtwwwap_affiliate_body.php:931
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:869
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1413
+#, fuzzy
+msgid "Withdrawal Transaction table"
+msgstr "출금 거래 테이블"
+
+#: public/templates/rtwwwap_affiliate_body.php:937
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:875
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1419
+#, fuzzy
+msgid "Withdrawal Transaction Table "
+msgstr "출금 거래 테이블"
+
+#: public/templates/rtwwwap_affiliate_body.php:981
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:920
+msgid "Payout"
+msgstr "당첨금 지급"
+
+#: public/templates/rtwwwap_affiliate_body.php:984
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:925
+#, fuzzy
+msgid "Your Affiliate Level : "
+msgstr "귀하의 제휴 레벨 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:989
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:935
+#, fuzzy
+msgid "Your Level Commission : "
+msgstr "레벨 커미션 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:995
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:948
+#, fuzzy
+msgid "Activate Referral Emails : "
+msgstr "추천 이메일 활성화 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:1020
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:969
+#, fuzzy
+msgid "Your Referral Code : "
+msgstr "추천 코드 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:1036
+#: public/templates/rtwwwap_affiliate_body.php:1040
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:985
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:989
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1520
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1524
+#, fuzzy
+msgid "Not Generated by the Admin"
+msgstr "관리자가 생성하지 않음"
+
+#: public/templates/rtwwwap_affiliate_body.php:1043
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:992
+#, fuzzy
+msgid "coupon code : "
+msgstr "쿠폰 코드."
+
+#: public/templates/rtwwwap_affiliate_body.php:1051
+#, fuzzy
+msgid "Select payment method : "
+msgstr "결제 방법 선택 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:1054
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1001
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1582
+#, fuzzy
+msgid "Select payment Method"
+msgstr "결제 방법 선택"
+
+#: public/templates/rtwwwap_affiliate_body.php:1057
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1004
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1585
+#, fuzzy
+msgid "Direct Bank"
+msgstr "다이렉트 뱅크"
+
+#: public/templates/rtwwwap_affiliate_body.php:1087
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1026
+#, fuzzy
+msgid "Bank Details : "
+msgstr "은행 상세 정보"
+
+#: public/templates/rtwwwap_affiliate_body.php:1088
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1027
+#, fuzzy
+msgid "Enter your Bank A/c details here"
+msgstr "여기에 은행 계좌 정보를 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body.php:1099
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1038
+#, fuzzy
+msgid "Paypal : "
+msgstr "페이팔"
+
+#: public/templates/rtwwwap_affiliate_body.php:1100
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1039
+#, fuzzy
+msgid "Enter your Paypal email here"
+msgstr "여기에 Paypal 이메일을 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body.php:1109
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1048
+#, fuzzy
+msgid "Stripe : "
+msgstr " Stripe"
+
+#: public/templates/rtwwwap_affiliate_body.php:1110
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1049
+#, fuzzy
+msgid "Enter your Stripe email here"
+msgstr "여기에 스트라이프 이메일을 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body.php:1119
+#, fuzzy
+msgid "Bank Account Number : "
+msgstr "은행 계좌 번호 :"
+
+#: public/templates/rtwwwap_affiliate_body.php:1120
+#, fuzzy
+msgid "Enter account number"
+msgstr "계좌 번호 입력"
+
+#: public/templates/rtwwwap_affiliate_body.php:1121
+#, fuzzy
+msgid "Bank code : "
+msgstr "은행 코드"
+
+#: public/templates/rtwwwap_affiliate_body.php:1122
+#, fuzzy
+msgid "Enter bank code"
+msgstr "은행 코드 입력"
+
+#: public/templates/rtwwwap_affiliate_body.php:1125
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1053
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1766
+msgid "Save Details"
+msgstr "Save Details"
+
+#: public/templates/rtwwwap_affiliate_body.php:1212
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1159
+msgid "Profile"
+msgstr "프로필"
+
+#: public/templates/rtwwwap_affiliate_body.php:1219
+#: public/templates/rtwwwap_affiliate_body.php:1220
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1915
+msgid "First Name"
+msgstr "이름"
+
+#: public/templates/rtwwwap_affiliate_body.php:1222
+#: public/templates/rtwwwap_affiliate_body.php:1223
+msgid "Last Name"
+msgstr "성"
+
+#: public/templates/rtwwwap_affiliate_body.php:1236
+#, fuzzy
+msgid "Change your password here"
+msgstr "여기에서 비밀번호 변경"
+
+#: public/templates/rtwwwap_affiliate_body.php:1246
+msgid "Old Password"
+msgstr "지난 비밀번호"
+
+#: public/templates/rtwwwap_affiliate_body.php:1258
+msgid "Confirm password"
+msgstr "비밀번호 확인"
+
+#: public/templates/rtwwwap_affiliate_body.php:1276
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1193
+#, fuzzy
+msgid "Update Details"
+msgstr "업데이트 세부 정보"
+
+#: public/templates/rtwwwap_affiliate_body.php:1277
+msgid "Change password"
+msgstr "비밀번호 변경"
+
+#: public/templates/rtwwwap_affiliate_body.php:1309
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1225
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1980
+msgid " x "
+msgstr "X  "
+
+#: public/templates/rtwwwap_affiliate_body.php:1311
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1227
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1982
+#, fuzzy
+msgid " Copy and paste the code into your Website"
+msgstr " 코드를 복사하여 웹사이트에 붙여넣기"
+
+#: public/templates/rtwwwap_affiliate_body.php:1313
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1229
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1984
+#, fuzzy
+msgid "COPY HTML"
+msgstr "HTML 복사"
+
+#: public/templates/rtwwwap_affiliate_body.php:1358
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1273
+#, fuzzy
+msgid "MLM Plan -"
+msgstr "MLM 플랜 -"
+
+#: public/templates/rtwwwap_affiliate_body.php:1363
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1278
+#, fuzzy
+msgid "Number of Childs to start earning commission -"
+msgstr "커미션 적립을 시작할 자녀 수 - 자녀 수"
+
+#: public/templates/rtwwwap_affiliate_body.php:1370
+#, fuzzy
+msgid "Total MLM commission earned -"
+msgstr "적립된 총 MLM 수수료 -"
+
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:143
+#, fuzzy
+msgid "&#10060;"
+msgstr "❌"
+
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:998
+#, fuzzy
+msgid "Select payment method "
+msgstr "결제 방법 선택"
+
+#: public/templates/rtwwwap_affiliate_body_temp_2.php:1341
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2165
+#, fuzzy
+msgid "Show MLM Chain"
+msgstr "MLM 체인 보기"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:70
+#, fuzzy
+msgid "Enable Lite Mode"
+msgstr "라이트 모드 사용"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:73
+#, fuzzy
+msgid "Enable Dark Mode"
+msgstr "다크 모드 활성화"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:160
+#, fuzzy
+msgid "Go Back To Home"
+msgstr "홈으로 돌아가기"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:488
+#, fuzzy
+msgid "Level Based Commission"
+msgstr "레벨 기반 커미션"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:582
+#, fuzzy
+msgid "Referral Table Commission"
+msgstr "추천 테이블 수수료"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:725
+msgid "O"
+msgstr "불"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:727
+#, fuzzy
+msgid "rder"
+msgstr "rder"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:728
+msgid "D"
+msgstr "D"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:730
+#, fuzzy
+msgid "etail"
+msgstr "etail"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:742
+msgid "Product Price"
+msgstr "상품 가격"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:747
+#, fuzzy
+msgid "Commission Received"
+msgstr "수수료 수령"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:752
+msgid "Payment Method"
+msgstr "결제 방법"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:767
+msgid "CLOSE"
+msgstr "닫기"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:787
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:803
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:818
+#, fuzzy
+msgid " Create Coupon"
+msgstr " 쿠폰 생성"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:812
+#, fuzzy
+msgid "You can create"
+msgstr "다음을 만들 수 있습니다"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:812
+#, fuzzy
+msgid "Once your Wallet amount is greater than"
+msgstr "지갑 금액이 다음보다 크면"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:839
+#, fuzzy
+msgid "Coupon Table"
+msgstr "쿠폰 테이블"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:910
+msgid "Your Name"
+msgstr "이름"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1138
+#, fuzzy
+msgid "report"
+msgstr "보고서"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1139
+#, fuzzy
+msgid "Report Wise"
+msgstr "현명한 보고"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1148
+#, fuzzy
+msgid "date_range"
+msgstr "날짜 범위"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1149
+#, fuzzy
+msgid "Day Wise"
+msgstr "데이 와이즈"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1163
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1229
+#, fuzzy
+msgid "Report Table"
+msgstr "보고서 테이블"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1171
+msgid "Total Order"
+msgstr "총 주문"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1177
+#, fuzzy
+msgid "Total Coomission earned "
+msgstr "획득한 총 커미션"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1180
+#, fuzzy
+msgid "Total Sales amount "
+msgstr "총 판매 금액"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1220
+#, fuzzy
+msgid "Report Cart"
+msgstr "신고 장바구니"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1224
+#, fuzzy
+msgid "Puchase Medium Device"
+msgstr "중간 장치 구매"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1242
+msgid "Number of Hits"
+msgstr "조회수"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1245
+#, fuzzy
+msgid "Purchase Done"
+msgstr "구매 완료"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1469
+#, fuzzy
+msgid "Your Referral Code :"
+msgstr "추천 코드 :"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1480
+#, fuzzy
+msgid "Your Affiliate Level"
+msgstr "제휴 레벨"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1496
+#, fuzzy
+msgid "Your Commission Level"
+msgstr "커미션 레벨"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1529
+#, fuzzy
+msgid "Activate Refferral Emails"
+msgstr "추천 이메일 활성화"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1563
+msgid "Coupon Code"
+msgstr "쿠폰 코드"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1574
+#, fuzzy
+msgid "Select payment method :"
+msgstr "결제 방법 선택 :"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1628
+#, fuzzy
+msgid "Direct bank"
+msgstr "다이렉트 뱅크"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1686
+#, fuzzy
+msgid "Bank Account Deatils"
+msgstr "은행 계좌 데틸"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1690
+#, fuzzy
+msgid "Enter Your Message for Commission to Admin"
+msgstr "관리자에게 커미션을 요청하는 메시지 입력"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1718
+#, fuzzy
+msgid "Enter Your Paypal Email here"
+msgstr "여기에 페이팔 이메일을 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1738
+#, fuzzy
+msgid "Enter Your Stripe Email here"
+msgstr "여기에 스트라이프 이메일을 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1755
+#, fuzzy
+msgid "Enter Your Paystack Email here"
+msgstr "여기에 페이스택 이메일을 입력하세요"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1901
+#, fuzzy
+msgid "Usename"
+msgstr "사용자 이름"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1922
+msgid "Last name"
+msgstr "성"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:1942
+#, fuzzy
+msgid "Update Detail"
+msgstr "업데이트 세부 정보"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2026
+msgid "Search products"
+msgstr "상품 검색"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2069
+msgid "Copy Link"
+msgstr "링크 복사"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2118
+#, fuzzy
+msgid "MLMP Plan :"
+msgstr "MLMP 플랜 :"
+
+#: public/templates/rtwwwap_affiliate_body_temp_3.php:2177
+#, fuzzy
+msgid "MLM Table"
+msgstr "MLM 테이블"
+
+#: wp-wc-affiliate-program.php:193
+#, fuzzy
+msgid "Affiliaa Lite - Affiliate Program With MLM"
+msgstr "Affiliaa Lite - 다단계 마케팅 제휴 프로그램"
+
+#: wp-wc-affiliate-program.php:193
+#, fuzzy
+msgid "not activated, Please install/activate it first to Activate "
+msgstr "활성화되지 않은 경우, 활성화하려면 먼저 설치/활성화하십시오"

@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){"use strict";a("a[href=mshop_point_manual]").on("click",function(a){a.preventDefault(),a.stopPropagation(),window.open(_msps_admin_menu.manual_url,"_blank")})});

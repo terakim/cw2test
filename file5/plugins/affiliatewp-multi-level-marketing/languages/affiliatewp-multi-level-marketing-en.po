@@ -1,0 +1,1009 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: AffiliateWP MLM\n"
+"POT-Creation-Date: 2020-06-27 17:21-0400\n"
+"PO-Revision-Date: 2020-06-27 17:22-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: affiliatewp-multi-level-marketing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: affiliatewp-multi-level-marketing.php:116
+#: affiliatewp-multi-level-marketing.php:128
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: affiliatewp-multi-level-marketing.php:280
+msgid "Get more add-ons for AffiliateWP"
+msgstr "Get more add-ons for AffiliateWP"
+
+#: affiliatewp-multi-level-marketing.php:280
+msgid "Get add-ons"
+msgstr "Get add-ons"
+
+#: affiliatewp-multi-level-marketing.php:317
+#: affiliatewp-multi-level-marketing.php:336 includes/display-functions.php:336
+#: includes/display-functions.php:507 includes/display-functions.php:534
+msgid "Sub Affiliates"
+msgstr "Sub Affiliates"
+
+#: am-license-menu.php:114
+msgid " Activation"
+msgstr " Activation"
+
+#: am-license-menu.php:115
+msgid " API Key Activation"
+msgstr " API Key Activation"
+
+#: am-license-menu.php:116 am-license-menu.php:317
+msgid "API Key Activation"
+msgstr "API Key Activation"
+
+#: am-license-menu.php:117
+msgid "API Key Deactivation"
+msgstr "API Key Deactivation"
+
+#: am-license-menu.php:255
+#, php-format
+msgid ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"inactive! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"inactive! %sClick here%s to activate <strong>%s</strong>."
+
+#: am-license-menu.php:270
+#, php-format
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+
+#: am-license-menu.php:301 am-license-menu.php:305
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: am-license-menu.php:321
+msgid "API Key Status"
+msgstr "API Key Status"
+
+#: am-license-menu.php:325
+msgid "API Key"
+msgstr "API Key"
+
+#: am-license-menu.php:329
+msgid "API Email"
+msgstr "API Email"
+
+#: am-license-menu.php:335
+msgid "API Deactivation"
+msgstr "API Deactivation"
+
+#: am-license-menu.php:339
+msgid "Deactivate API Key"
+msgstr "Deactivate API Key"
+
+#: am-license-menu.php:399
+#, php-format
+msgid "%s activated. "
+msgstr "%s activated. "
+
+#: am-license-menu.php:404
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "Connection failed to the License Key API server. Try again later."
+
+#: am-license-menu.php:494
+msgid ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key."
+msgstr ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key."
+
+#: am-license-menu.php:522
+msgid "API Key deactivated. "
+msgstr "API Key deactivated. "
+
+#: am-license-menu.php:589
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr "Deactivates an API Key so it can be used on another blog."
+
+#: am-license-menu.php:907
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:913
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:919
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+
+#: am-license-menu.php:925
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:931
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: am-license-menu.php:937
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: am-license-menu.php:943
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:949
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:955
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:961
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am-license-menu.php:967
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+
+#: am-license-menu.php:973
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+
+#: includes/actions.php:18 includes/actions.php:33
+msgid "Unknown referrer. Please try again"
+msgstr "Unknown referrer. Please try again"
+
+#: includes/actions.php:276
+msgid "You do not have permission to manage affiliates"
+msgstr "You do not have permission to manage affiliates"
+
+#: includes/actions.php:375
+msgid "Sub Affiliate Referral"
+msgstr "Sub Affiliate Referral"
+
+#: includes/admin/class-settings.php:56
+msgid "MLM & Lifetime Commissions"
+msgstr "MLM & Lifetime Commissions"
+
+#: includes/admin/class-settings.php:61
+msgid "Sync Lifetime Affiliate"
+msgstr "Sync Lifetime Affiliate"
+
+#: includes/admin/class-settings.php:62
+msgid ""
+"Use the Lifetime Affiliate as the Referring Affiliate, or the Parent/"
+"Referring Affiliate as the Lifetime Affiliate."
+msgstr ""
+"Use the Lifetime Affiliate as the Referring Affiliate, or the Parent/"
+"Referring Affiliate as the Lifetime Affiliate."
+
+#: includes/admin/class-settings.php:65 includes/admin/class-settings.php:525
+msgid "Disabled"
+msgstr "Disabled"
+
+#: includes/admin/class-settings.php:66
+msgid "Lifetime Affiliate as Referrer"
+msgstr "Lifetime Affiliate as Referrer"
+
+#: includes/admin/class-settings.php:67
+msgid "Parent as Lifetime Affiliate"
+msgstr "Parent as Lifetime Affiliate"
+
+#: includes/admin/class-settings.php:68
+msgid "Referrer as Lifetime Affiliate"
+msgstr "Referrer as Lifetime Affiliate"
+
+#: includes/admin/class-settings.php:73
+msgid "Sync ALL Lifetime Affiliates?"
+msgstr "Sync ALL Lifetime Affiliates?"
+
+#: includes/admin/class-settings.php:79
+msgid "Remove Customer Emails from Upline?"
+msgstr "Remove Customer Emails from Upline?"
+
+#: includes/admin/class-settings.php:97
+msgid "Multi-Level Marketing:<br/><br/> Clear ALL Affiliate Connections?"
+msgstr "Multi-Level Marketing:<br/><br/> Clear ALL Affiliate Connections?"
+
+#: includes/admin/class-settings.php:122
+msgid ""
+"WARNING: DO NOT click this button unless you want to disconnect ALL parent "
+"and sub affiliates."
+msgstr ""
+"WARNING: DO NOT click this button unless you want to disconnect ALL parent "
+"and sub affiliates."
+
+#: includes/admin/class-settings.php:162
+msgid "Click this button to sync all affiliates with their Lifetime Affiliate."
+msgstr ""
+"Click this button to sync all affiliates with their Lifetime Affiliate."
+
+#: includes/admin/class-settings.php:276
+msgid ""
+"Click this button to fix issues with customer emails being linked to all "
+"upline affiliates."
+msgstr ""
+"Click this button to fix issues with customer emails being linked to all "
+"upline affiliates."
+
+#: includes/admin/class-settings.php:311
+msgid "Indirect Referral Variable Rate Type"
+msgstr "Indirect Referral Variable Rate Type"
+
+#: includes/admin/class-settings.php:312 includes/admin/class-settings.php:334
+#: includes/admin/class-settings.php:645
+msgid ""
+"Should referrals made by Sub Affiliates be based on a percentage or flat "
+"rate amounts?"
+msgstr ""
+"Should referrals made by Sub Affiliates be based on a percentage or flat "
+"rate amounts?"
+
+#: includes/admin/class-settings.php:315 includes/admin/class-settings.php:337
+#: includes/admin/class-settings.php:648 integrations/class-woocommerce.php:461
+msgid "Site Default"
+msgstr "Site Default"
+
+#: includes/admin/class-settings.php:316 includes/admin/class-settings.php:338
+#: includes/admin/class-settings.php:649
+msgid "Percentage (%)"
+msgstr "Percentage (%)"
+
+#: includes/admin/class-settings.php:317 includes/admin/class-settings.php:339
+#: includes/admin/class-settings.php:650
+#, php-format
+msgid "Flat %s"
+msgstr "Flat %s"
+
+#: includes/admin/class-settings.php:333
+msgid "Indirect Referral Rank Rate Type"
+msgstr "Indirect Referral Rank Rate Type"
+
+#: includes/admin/class-settings.php:354
+msgid "Congratulations {parent_affiliate_name}!"
+msgstr "Congratulations {parent_affiliate_name}!"
+
+#: includes/admin/class-settings.php:354
+msgid "{name} has just become one of your sub affiliates! "
+msgstr "{name} has just become one of your sub affiliates! "
+
+#: includes/admin/class-settings.php:354
+msgid ""
+"Log into your affiliate area to view your sub affiliates or disable these "
+"notifications:"
+msgstr ""
+"Log into your affiliate area to view your sub affiliates or disable these "
+"notifications:"
+
+#: includes/admin/class-settings.php:366
+msgid "Congratulations {name}!"
+msgstr "Congratulations {name}!"
+
+#: includes/admin/class-settings.php:366
+msgid ""
+"{direct_referral_affiliate_name}, one of your sub affiliates, just referred "
+"a sale earning {direct_referral_amount}. As a result, you have been awarded "
+"a new indirect referral of"
+msgstr ""
+"{direct_referral_affiliate_name}, one of your sub affiliates, just referred "
+"a sale earning {direct_referral_amount}. As a result, you have been awarded "
+"a new indirect referral of"
+
+#: includes/admin/class-settings.php:366
+#, php-format
+msgid "on %s!"
+msgstr "on %s!"
+
+#: includes/admin/class-settings.php:366
+msgid ""
+"Log into your affiliate area to view your earnings or disable these "
+"notifications:"
+msgstr ""
+"Log into your affiliate area to view your earnings or disable these "
+"notifications:"
+
+#: includes/admin/class-settings.php:384
+msgid "New Sub Affiliate Email Options"
+msgstr "New Sub Affiliate Email Options"
+
+#: includes/admin/class-settings.php:389
+msgid "New Sub Affiliate Email Subject"
+msgstr "New Sub Affiliate Email Subject"
+
+#: includes/admin/class-settings.php:390
+msgid "Enter the subject line for new sub affiliate emails."
+msgstr "Enter the subject line for new sub affiliate emails."
+
+#: includes/admin/class-settings.php:392 includes/email-functions.php:189
+msgid "New Sub Affiliate"
+msgstr "New Sub Affiliate"
+
+#: includes/admin/class-settings.php:395
+msgid "New Sub Affiliate Email Content"
+msgstr "New Sub Affiliate Email Content"
+
+#: includes/admin/class-settings.php:396
+msgid ""
+"Enter the email to send when an affiliate refers a new sub affiliate. HTML "
+"is accepted. Available template tags:"
+msgstr ""
+"Enter the email to send when an affiliate refers a new sub affiliate. HTML "
+"is accepted. Available template tags:"
+
+#: includes/admin/class-settings.php:403
+msgid "New Indirect Referral Email Options"
+msgstr "New Indirect Referral Email Options"
+
+#: includes/admin/class-settings.php:408
+msgid "New Indirect Referral Email Subject"
+msgstr "New Indirect Referral Email Subject"
+
+#: includes/admin/class-settings.php:409
+msgid "Enter the subject line for new indirect referral emails."
+msgstr "Enter the subject line for new indirect referral emails."
+
+#: includes/admin/class-settings.php:411 includes/email-actions.php:56
+msgid "Indirect Referral Awarded!"
+msgstr "Indirect Referral Awarded!"
+
+#: includes/admin/class-settings.php:414
+msgid "New Indirect Referral Email Content"
+msgstr "New Indirect Referral Email Content"
+
+#: includes/admin/class-settings.php:415
+msgid ""
+"Enter the email to send on new indirect referrals. HTML is accepted. "
+"Available template tags:"
+msgstr ""
+"Enter the email to send on new indirect referrals. HTML is accepted. "
+"Available template tags:"
+
+#: includes/admin/class-settings.php:438
+msgid "Notify upline parent affiliates of a new sub affiliate"
+msgstr "Notify upline parent affiliates of a new sub affiliate"
+
+#: includes/admin/class-settings.php:439
+msgid "Notify parent affiliate when they earn a new indirect referral"
+msgstr "Notify parent affiliate when they earn a new indirect referral"
+
+#: includes/admin/class-settings.php:455
+msgid "MLM"
+msgstr "MLM"
+
+#: includes/admin/class-settings.php:471
+msgid "General Settings"
+msgstr "General Settings"
+
+#: includes/admin/class-settings.php:475
+msgid "Integrations"
+msgstr "Integrations"
+
+#: includes/admin/class-settings.php:476
+msgid "Choose the integrations that should have MLM enabled."
+msgstr "Choose the integrations that should have MLM enabled."
+
+#: includes/admin/class-settings.php:500
+msgid "Default Affiliate"
+msgstr "Default Affiliate"
+
+#: includes/admin/class-settings.php:501
+msgid ""
+"Enter an Affiliate ID to assign sub affiliates to a particular affiliate "
+"when no referral is found."
+msgstr ""
+"Enter an Affiliate ID to assign sub affiliates to a particular affiliate "
+"when no referral is found."
+
+#: includes/admin/class-settings.php:507
+msgid "Upline Basis"
+msgstr "Upline Basis"
+
+#: includes/admin/class-settings.php:508
+msgid "Should Indirect Referrals be awarded to the Referrer or the Parent?"
+msgstr "Should Indirect Referrals be awarded to the Referrer or the Parent?"
+
+#: includes/admin/class-settings.php:511 includes/display-functions.php:530
+msgid "Parent"
+msgstr "Parent"
+
+#: includes/admin/class-settings.php:512
+msgid "Referrer"
+msgstr "Referrer"
+
+#: includes/admin/class-settings.php:516
+msgid "Force Default Referrals"
+msgstr "Force Default Referrals"
+
+#: includes/admin/class-settings.php:517
+msgid ""
+"Click to force referral commissions for purchases made by non-referred "
+"customers who became affiliates."
+msgstr ""
+"Click to force referral commissions for purchases made by non-referred "
+"customers who became affiliates."
+
+#: includes/admin/class-settings.php:521
+msgid "Referrer Field"
+msgstr "Referrer Field"
+
+#: includes/admin/class-settings.php:522
+msgid ""
+"Should the referrer field be required, or just displayed on the affiliate "
+"registration form?"
+msgstr ""
+"Should the referrer field be required, or just displayed on the affiliate "
+"registration form?"
+
+#: includes/admin/class-settings.php:526
+msgid "Show Field"
+msgstr "Show Field"
+
+#: includes/admin/class-settings.php:527
+msgid "Require Field"
+msgstr "Require Field"
+
+#: includes/admin/class-settings.php:531
+msgid "Referrer Field Label"
+msgstr "Referrer Field Label"
+
+#: includes/admin/class-settings.php:532
+msgid ""
+"Add a custom label for the referrer field on the affiliate registration form."
+msgstr ""
+"Add a custom label for the referrer field on the affiliate registration form."
+
+#: includes/admin/class-settings.php:537
+msgid "Sub Affiliate Referrals"
+msgstr "Sub Affiliate Referrals"
+
+#: includes/admin/class-settings.php:538
+msgid "Click to allow commissions for referring new Sub Affiliates."
+msgstr "Click to allow commissions for referring new Sub Affiliates."
+
+#: includes/admin/class-settings.php:542
+msgid "Default Sub Affiliate Referral Status"
+msgstr "Default Sub Affiliate Referral Status"
+
+#: includes/admin/class-settings.php:543
+msgid ""
+"Should Sub Affiliate referrals be marked as Unpaid or Pending by default?"
+msgstr ""
+"Should Sub Affiliate referrals be marked as Unpaid or Pending by default?"
+
+#: includes/admin/class-settings.php:546
+msgid "Unpaid"
+msgstr "Unpaid"
+
+#: includes/admin/class-settings.php:547
+msgid "Pending"
+msgstr "Pending"
+
+#: includes/admin/class-settings.php:552
+msgid "Sub Affiliate Referral Amount"
+msgstr "Sub Affiliate Referral Amount"
+
+#: includes/admin/class-settings.php:553
+msgid "Enter the commission amount for Sub Affiliate referrals."
+msgstr "Enter the commission amount for Sub Affiliate referrals."
+
+#: includes/admin/class-settings.php:560
+msgid "Matrix Settings"
+msgstr "Matrix Settings"
+
+#: includes/admin/class-settings.php:564
+msgid "Forced Matrix"
+msgstr "Forced Matrix"
+
+#: includes/admin/class-settings.php:565
+msgid "Click to enable fixed width and depth matrix settings."
+msgstr "Click to enable fixed width and depth matrix settings."
+
+#: includes/admin/class-settings.php:569
+msgid "Initial Width"
+msgstr "Initial Width"
+
+#: includes/admin/class-settings.php:570
+msgid ""
+"Enter the number of Sub Affiliates to allow before \"spilling over\" to the "
+"next level."
+msgstr ""
+"Enter the number of Sub Affiliates to allow before \"spilling over\" to the "
+"next level."
+
+#: includes/admin/class-settings.php:576
+msgid "Depth"
+msgstr "Depth"
+
+#: includes/admin/class-settings.php:577
+msgid "Enter the number of sub affiliate levels that you want to allow."
+msgstr "Enter the number of sub affiliate levels that you want to allow."
+
+#: includes/admin/class-settings.php:583
+msgid "Extra Branches"
+msgstr "Extra Branches"
+
+#: includes/admin/class-settings.php:584
+msgid ""
+"Enter the number of additional \"branches\" an affiliate can have after "
+"their entire matrix is filled."
+msgstr ""
+"Enter the number of additional \"branches\" an affiliate can have after "
+"their entire matrix is filled."
+
+#: includes/admin/class-settings.php:590
+msgid "Cycles"
+msgstr "Cycles"
+
+#: includes/admin/class-settings.php:591
+msgid "Enter the number of times an affiliate can fill their entire matrix."
+msgstr "Enter the number of times an affiliate can fill their entire matrix."
+
+#: includes/admin/class-settings.php:597
+msgid "Total Depth"
+msgstr "Total Depth"
+
+#: includes/admin/class-settings.php:598
+msgid "Click to apply the depth setting to the total matrix."
+msgstr "Click to apply the depth setting to the total matrix."
+
+#: includes/admin/class-settings.php:602
+msgid "View Settings"
+msgstr "View Settings"
+
+#: includes/admin/class-settings.php:606
+msgid "Sub Affiliate View"
+msgstr "Sub Affiliate View"
+
+#: includes/admin/class-settings.php:607
+msgid "Should Sub Affiliates be viewed in a Tree or a List?"
+msgstr "Should Sub Affiliates be viewed in a Tree or a List?"
+
+#: includes/admin/class-settings.php:610 includes/admin/class-settings.php:619
+#: includes/admin/class-settings.php:1076
+msgid "Tree"
+msgstr "Tree"
+
+#: includes/admin/class-settings.php:611 includes/admin/class-settings.php:620
+#: includes/admin/class-settings.php:1077
+msgid "List"
+msgstr "List"
+
+#: includes/admin/class-settings.php:615
+msgid "Sub Affiliate View (Admin)"
+msgstr "Sub Affiliate View (Admin)"
+
+#: includes/admin/class-settings.php:616
+msgid ""
+"Should Sub Affiliates on the Edit Affiliate screen be viewed in a Tree or a "
+"List?"
+msgstr ""
+"Should Sub Affiliates on the Edit Affiliate screen be viewed in a Tree or a "
+"List?"
+
+#: includes/admin/class-settings.php:624
+msgid "View Parent?"
+msgstr "View Parent?"
+
+#: includes/admin/class-settings.php:625
+msgid "Should the Parent Affiliate be shown in the Tree?"
+msgstr "Should the Parent Affiliate be shown in the Tree?"
+
+#: includes/admin/class-settings.php:629
+msgid "Affiliate Data"
+msgstr "Affiliate Data"
+
+#: includes/admin/class-settings.php:630
+msgid "Choose which sections should NOT be displayed for each affiliate."
+msgstr "Choose which sections should NOT be displayed for each affiliate."
+
+#: includes/admin/class-settings.php:640
+msgid "Rate Settings"
+msgstr "Rate Settings"
+
+#: includes/admin/class-settings.php:644
+msgid "Indirect Referral Rate Type"
+msgstr "Indirect Referral Rate Type"
+
+#: includes/admin/class-settings.php:654
+msgid "Indirect Referral Rate"
+msgstr "Indirect Referral Rate"
+
+#: includes/admin/class-settings.php:656
+msgid ""
+"Enter the Indirect Referral Rate Amount. A percentage if the Indirect "
+"Referral Rate Type is Percentage, a flat amount otherwise. Rates can also be "
+"set for each affiliate individually."
+msgstr ""
+"Enter the Indirect Referral Rate Amount. A percentage if the Indirect "
+"Referral Rate Type is Percentage, a flat amount otherwise. Rates can also be "
+"set for each affiliate individually."
+
+#: includes/admin/class-settings.php:680
+msgid "Per Level Rates"
+msgstr "Per Level Rates"
+
+#: includes/admin/class-settings.php:775 includes/display-functions.php:518
+#: integrations/class-woocommerce.php:359
+msgid "Level"
+msgstr "Level"
+
+#: includes/admin/class-settings.php:776 integrations/class-woocommerce.php:360
+msgid "Commission Rate"
+msgstr "Commission Rate"
+
+#: includes/admin/class-settings.php:777 integrations/class-woocommerce.php:361
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/admin/class-settings.php:809 integrations/class-woocommerce.php:393
+msgid "No level rates created yet"
+msgstr "No level rates created yet"
+
+#: includes/admin/class-settings.php:839 integrations/class-woocommerce.php:419
+msgid "Add New Rate"
+msgstr "Add New Rate"
+
+#: includes/admin/class-settings.php:844 integrations/class-woocommerce.php:424
+msgid "Add rates from low to high"
+msgstr "Add rates from low to high"
+
+#: includes/admin/class-settings.php:894 includes/admin/class-settings.php:981
+msgid "Parent Affiliate"
+msgstr "Parent Affiliate"
+
+#: includes/admin/class-settings.php:904 includes/admin/class-settings.php:991
+msgid "Enter the name of the affiliate to perform a search."
+msgstr "Enter the name of the affiliate to perform a search."
+
+#: includes/admin/class-settings.php:912
+msgid "Direct Affiliate"
+msgstr "Direct Affiliate"
+
+#: includes/admin/class-settings.php:922
+msgid "The affiliate that referred this affiliate."
+msgstr "The affiliate that referred this affiliate."
+
+#: includes/admin/class-settings.php:930
+msgid "Matrix Level"
+msgstr "Matrix Level"
+
+#: includes/admin/class-settings.php:935
+msgid "The affiliate's level in the matrix. This cannot be changed."
+msgstr "The affiliate's level in the matrix. This cannot be changed."
+
+#: includes/admin/class-settings.php:1055
+msgid "Please enter the ID of the person that referred you"
+msgstr "Please enter the ID of the person that referred you"
+
+#: includes/admin/class-settings.php:1085
+msgid "Display Sub Affiliates in a Tree or a List?"
+msgstr "Display Sub Affiliates in a Tree or a List?"
+
+#: includes/class-activation.php:45
+msgid "This plugin"
+msgstr "This plugin"
+
+#: includes/class-activation.php:80
+#, php-format
+msgid "%s requires %s. Please activate it to continue."
+msgstr "%s requires %s. Please activate it to continue."
+
+#: includes/class-activation.php:83
+#, php-format
+msgid "%s requires %s. Please install it to continue."
+msgstr "%s requires %s. Please install it to continue."
+
+#: includes/compatibility.php:52
+msgid "Sub Affiliate"
+msgstr "Sub Affiliate"
+
+#: includes/compatibility.php:70
+msgid "Cycle Complete"
+msgstr "Cycle Complete"
+
+#: includes/display-functions.php:51 includes/display-functions.php:381
+#: includes/display-functions.php:422
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Profile picture of %s"
+
+#: includes/display-functions.php:181
+msgid "Info"
+msgstr "Info"
+
+#: includes/display-functions.php:200 includes/display-functions.php:538
+msgid "Referrals"
+msgstr "Referrals"
+
+#: includes/display-functions.php:220 includes/display-functions.php:542
+msgid "Earnings"
+msgstr "Earnings"
+
+#: includes/display-functions.php:246
+msgid "Network"
+msgstr "Network"
+
+#: includes/display-functions.php:479 includes/display-functions.php:608
+msgid "No Sub Affiliates yet."
+msgstr "No Sub Affiliates yet."
+
+#: includes/display-functions.php:482 includes/display-functions.php:611
+msgid ""
+"When a user registers as an affiliate using your referral URL they will "
+"become your sub-affiliate."
+msgstr ""
+"When a user registers as an affiliate using your referral URL they will "
+"become your sub-affiliate."
+
+#: includes/display-functions.php:519
+msgid "Name"
+msgstr "Name"
+
+#: includes/display-functions.php:522 includes/display-functions.php:688
+msgid "Status"
+msgstr "Status"
+
+#: includes/display-functions.php:526
+msgid "Joined"
+msgstr "Joined"
+
+#: includes/display-functions.php:662
+msgid "Indirect Referrals"
+msgstr "Indirect Referrals"
+
+#: includes/display-functions.php:680
+msgid ""
+"These referrals were awarded to you due to the efforts of your Sub "
+"Affiliates."
+msgstr ""
+"These referrals were awarded to you due to the efforts of your Sub "
+"Affiliates."
+
+#: includes/display-functions.php:686
+msgid "Amount"
+msgstr "Amount"
+
+#: includes/display-functions.php:687
+msgid "Description"
+msgstr "Description"
+
+#: includes/display-functions.php:689
+msgid "Date"
+msgstr "Date"
+
+#: includes/display-functions.php:711
+msgid "You have not made any referrals from your sub affiliates yet."
+msgstr "You have not made any referrals from your sub affiliates yet."
+
+#: includes/display-functions.php:713
+msgid ""
+"This affiliate has not made any referrals from their sub affiliates yet."
+msgstr ""
+"This affiliate has not made any referrals from their sub affiliates yet."
+
+#: includes/display-functions.php:735
+msgid "Direct Referrals"
+msgstr "Direct Referrals"
+
+#: includes/email-actions.php:85
+msgid "Enable New Sub Affiliate Notifications"
+msgstr "Enable New Sub Affiliate Notifications"
+
+#: includes/filters.php:34
+msgid "The name of the affiliate's parent affiliate."
+msgstr "The name of the affiliate's parent affiliate."
+
+#: includes/filters.php:39
+msgid "The user name of the affiliate's parent affiliate."
+msgstr "The user name of the affiliate's parent affiliate."
+
+#: includes/filters.php:44
+msgid "The email address of the affiliate's parent affiliate."
+msgstr "The email address of the affiliate's parent affiliate."
+
+#: includes/filters.php:49
+msgid "The ID of the affiliate's parent affiliate."
+msgstr "The ID of the affiliate's parent affiliate."
+
+#: includes/filters.php:56
+msgid "The name of the affiliate's direct affiliate."
+msgstr "The name of the affiliate's direct affiliate."
+
+#: includes/filters.php:61
+msgid "The user name of the affiliate's direct affiliate."
+msgstr "The user name of the affiliate's direct affiliate."
+
+#: includes/filters.php:66
+msgid "The email address of the affiliate's direct affiliate."
+msgstr "The email address of the affiliate's direct affiliate."
+
+#: includes/filters.php:71
+msgid "The ID of the affiliate's direct affiliate."
+msgstr "The ID of the affiliate's direct affiliate."
+
+#: includes/filters.php:78
+msgid "The name of the affiliate that directly referred the sale."
+msgstr "The name of the affiliate that directly referred the sale."
+
+#: includes/filters.php:83
+msgid "The user name of the affiliate that directly referred the sale."
+msgstr "The user name of the affiliate that directly referred the sale."
+
+#: includes/filters.php:88
+msgid "The email address of the affiliate that directly referred the sale."
+msgstr "The email address of the affiliate that directly referred the sale."
+
+#: includes/filters.php:93
+msgid "The ID of the affiliate that directly referred the sale."
+msgstr "The ID of the affiliate that directly referred the sale."
+
+#: includes/filters.php:98
+msgid "The amount of the order's direct referral."
+msgstr "The amount of the order's direct referral."
+
+#: integrations/class-edd.php:77 integrations/class-gravityforms.php:157
+#: integrations/class-jigoshop.php:83 integrations/class-lifterlms.php:257
+#: integrations/class-pmp.php:150 integrations/class-shopp.php:91
+#: integrations/class-woocommerce.php:101
+#, php-format
+msgid "Indirect Referral #%d for %s recorded for %s"
+msgstr "Indirect Referral #%d for %s recorded for %s"
+
+#: integrations/class-formidablepro.php:143
+#, php-format
+msgid "AffiliateWP: Indirect Referral #%d for %s recorded for %s"
+msgstr "AffiliateWP: Indirect Referral #%d for %s recorded for %s"
+
+#: integrations/class-formidablepro.php:177
+#, php-format
+msgid "AffiliateWP: Referral #%d for %s for %s rejected"
+msgstr "AffiliateWP: Referral #%d for %s for %s rejected"
+
+#: integrations/class-gravityforms.php:190
+#, php-format
+msgid "Referral #%d for %s for %s rejected"
+msgstr "Referral #%d for %s for %s rejected"
+
+#: integrations/class-lifterlms.php:132
+#, php-format
+msgid "Indirect referral #%d created successfully."
+msgstr "Indirect referral #%d created successfully."
+
+#. Plugin Name of the plugin/theme
+#: integrations/class-woocommerce.php:437
+msgid "AffiliateWP MLM"
+msgstr "AffiliateWP MLM"
+
+#: integrations/class-woocommerce.php:456
+msgid "Setup mlm settings for this product"
+msgstr "Setup mlm settings for this product"
+
+#: integrations/class-woocommerce.php:460
+msgid "Indirect Product Rate Type"
+msgstr "Indirect Product Rate Type"
+
+#: integrations/class-woocommerce.php:463
+msgid "Earnings can be based on either a percentage or a flat rate amount."
+msgstr "Earnings can be based on either a percentage or a flat rate amount."
+
+#. Plugin URI of the plugin/theme
+msgid "http://theperfectplugin.com/downloads/affiliatewp-mlm"
+msgstr "http://theperfectplugin.com/downloads/affiliatewp-mlm"
+
+#. Description of the plugin/theme
+msgid ""
+"Turn your Affiliate Network into a full blown Multi-Level Marketing system, "
+"where your Affiliates can earn commissions on the referrals made by their "
+"Sub Affiliates on multiple levels."
+msgstr ""
+"Turn your Affiliate Network into a full blown Multi-Level Marketing system, "
+"where your Affiliates can earn commissions on the referrals made by their "
+"Sub Affiliates on multiple levels."
+
+#. Author of the plugin/theme
+msgid "Christian Freeman"
+msgstr "Christian Freeman"
+
+#. Author URI of the plugin/theme
+msgid "http://theperfectplugin.com"
+msgstr "http://theperfectplugin.com"

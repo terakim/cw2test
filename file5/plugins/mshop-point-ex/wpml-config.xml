@@ -1,0 +1,25 @@
+<wpml-config>
+    <admin-texts>
+        <key name="mshop_point_system_notice_at_product_detail"/>
+        <key name="mshop_point_system_purchase_minimum_point"/>
+        <key name="mshop_point_system_purchase_minimum_amount"/>
+        <key name="mshop_point_system_point_unit_number"/>
+        <key name="mshop_point_system_user_point_register_amount"/>
+        <key name="mshop_point_system_recommender_point_register_description"/>
+
+        <key name="mshop_point_system_notice_at_product_detail"/>
+        <key name="mshop_point_system_notice_at_cart"/>
+        <key name="mshop_point_system_notice_at_checkout"/>
+
+        <key name="mshop_point_system_guide_notice_title_at_product_detail"/>
+        <key name="mshop_point_system_guide_notice_info_at_product_detail"/>
+        <key name="mshop_point_system_notice_at_product_detail_price"/>
+        <key name="mshop_point_system_notice_at_product_detail_qty"/>
+        <key name="mshop_point_system_notice_at_product_detail_price_qty"/>
+
+        <key name="mshop_point_system_notice_at_comment"/>
+
+        <key name="mshop_point_system_point_info_template"/>
+        <key name="mshop_point_system_notice_for_quest"/>
+    </admin-texts>
+</wpml-config>

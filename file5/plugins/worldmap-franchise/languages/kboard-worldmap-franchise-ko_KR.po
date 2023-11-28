@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kboard-worldmap-franchise\n"
+"POT-Creation-Date: 2018-10-01 15:56+0900\n"
+"PO-Revision-Date: 2018-10-01 15:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: confirm.php:12 confirm.php:14 editor.php:35 editor.php:36 editor.php:43
+#: editor.php:44
+msgid "Password"
+msgstr ""
+
+#: confirm.php:16
+msgid "※ Your password is incorrect."
+msgstr ""
+
+#: confirm.php:23
+msgid "Document"
+msgstr ""
+
+#: confirm.php:25 document.php:136 editor.php:182
+msgid "List"
+msgstr ""
+
+#: confirm.php:28
+msgid "Password confirm"
+msgstr ""
+
+#: document.php:21 document.php:31 list.php:29 list.php:39
+msgid "All"
+msgstr "전체"
+
+#: document.php:45 editor.php:50 list.php:53
+msgid "Title"
+msgstr ""
+
+#: document.php:45 list.php:53
+msgid "Content"
+msgstr ""
+
+#: document.php:46 document.php:90 editor.php:74 latest.php:32 list.php:54
+#: list.php:95 list.php:137
+msgid "Address"
+msgstr "주소"
+
+#: document.php:49 list.php:57
+msgid "Search"
+msgstr ""
+
+#: document.php:57
+msgid "Date"
+msgstr ""
+
+#: document.php:61
+msgid "Views"
+msgstr ""
+
+#: document.php:78 editor.php:57 latest.php:24 list.php:87 list.php:129
+msgid "Area"
+msgstr "지역"
+
+#: document.php:84 editor.php:69 latest.php:28 list.php:91 list.php:133
+msgid "Branch"
+msgstr "지점명"
+
+#: document.php:96 editor.php:107 latest.php:36 list.php:99 list.php:141
+msgid "Contact"
+msgstr "연락처"
+
+#: document.php:102 editor.php:112 latest.php:40 list.php:103 list.php:145
+msgid "Homepage"
+msgstr "홈페이지"
+
+#: document.php:124 editor.php:157
+msgid "Attachment"
+msgstr ""
+
+#: document.php:138
+msgid "Prev"
+msgstr ""
+
+#: document.php:139
+msgid "Next"
+msgstr ""
+
+#: document.php:144 editor.php:16
+msgid "Edit Place"
+msgstr "장소 편집"
+
+#: document.php:145 editor.php:148 editor.php:159
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: document.php:145
+msgid "Delete Place"
+msgstr "장소 삭제"
+
+#: document.php:152 list.php:171
+msgid "KBoard is the best community software available for WordPress"
+msgstr ""
+
+#: editor.php:18 list.php:164
+msgid "Register Place"
+msgstr "장소 등록"
+
+#: editor.php:23
+msgid "Options"
+msgstr ""
+
+#: editor.php:25 latest.php:18 list.php:81 list.php:123
+msgid "Secret"
+msgstr ""
+
+#: editor.php:27 list.php:79
+msgid "Notice"
+msgstr ""
+
+#: editor.php:60
+msgid "Select"
+msgstr ""
+
+#: editor.php:125
+msgid "CAPTCHA"
+msgstr ""
+
+#: editor.php:139
+msgid "Photos"
+msgstr ""
+
+#: editor.php:141
+msgid "KBoard Add Media"
+msgstr ""
+
+#: editor.php:146
+msgid "Thumbnail"
+msgstr ""
+
+#: editor.php:148 editor.php:159
+msgid "Delete file"
+msgstr ""
+
+#: editor.php:168
+msgid "WP Search"
+msgstr ""
+
+#: editor.php:171
+msgid "Public"
+msgstr ""
+
+#: editor.php:172
+msgid "Only title (secret document)"
+msgstr ""
+
+#: editor.php:173
+msgid "Exclusion"
+msgstr ""
+
+#: editor.php:181 editor.php:184
+msgid "Back"
+msgstr ""
+
+#: editor.php:189
+msgid "Save"
+msgstr ""
+
+#: functions.php:9
+msgid "Seoul"
+msgstr "서울"
+
+#: functions.php:10
+msgid "Busan"
+msgstr "부산"
+
+#: functions.php:11
+msgid "Daegu"
+msgstr "대구"
+
+#: functions.php:12
+msgid "Incheon"
+msgstr "인천"
+
+#: functions.php:13
+msgid "Gwangju"
+msgstr "광주"
+
+#: functions.php:14
+msgid "Daejeon"
+msgstr "대전"
+
+#: functions.php:15
+msgid "Ulsan"
+msgstr "울산"
+
+#: functions.php:16
+msgid "Sejong"
+msgstr "세종"
+
+#: functions.php:17
+msgid "Gyeonggi"
+msgstr "경기도"
+
+#: functions.php:18
+msgid "Gyeongnam"
+msgstr "경상남도"
+
+#: functions.php:19
+msgid "Gyeongbuk"
+msgstr "경상북도"
+
+#: functions.php:20
+msgid "Jeollanam"
+msgstr "전라남도"
+
+#: functions.php:21
+msgid "Jeollabuk"
+msgstr "전라북도"
+
+#: functions.php:22
+msgid "Chungnam"
+msgstr "충청남도"
+
+#: functions.php:23
+msgid "Chungbuk"
+msgstr "충청북도"
+
+#: functions.php:24
+msgid "Gangwon"
+msgstr "강원도"
+
+#: functions.php:25
+msgid "Jeju"
+msgstr "제주도"
+
+#~ msgid "None"
+#~ msgstr "없음"
+
+#~ msgid "Address Search"
+#~ msgstr "주소 검색"
+
+#~ msgid "Guide"
+#~ msgstr "시도별 지점 안내"

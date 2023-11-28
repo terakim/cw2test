@@ -1,0 +1,3 @@
+user_id,user_login,wallet_id,action,point,message
+1,,free_point,ADD,1000,이벤트 참여에 감사드립니다.
+,customer001,,SET,30000,새해맞이 포인트 적립

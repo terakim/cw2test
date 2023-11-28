@@ -1,0 +1,2 @@
+billing_first_name,billing_email,billing_phone,shipping_first_name,shipping_phone,shipping_postcode,shipping_address,product_id,product_name,qty,price,discount,pa_subscription_term,pa_companion_dog_size,_order_item_meta_meta_1,_order_item_meta_meta_2,order_comments,shipping_method,order_status,order_note
+코드엠,shop@codemstory.com,02-1600-0673,코드엠,02-1600-0673,8504,서울특별시 금천구 서부샛길 606 대성디폴리스 A-1810,34571,업로드 샘플 상품,1,10000,1000,1개월,대형견,메타값1,메타값2,주문 메모를 입력합니다.,free-shipping,processing,주문노트에 기록할 내용을 기재합니다.

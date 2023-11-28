@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP MLM\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2023-10-25 14:15+0900\n"
+"Last-Translator: 관리자\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: affiliatewp-multi-level-marketing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s이 활성화되지 않았습니다. 설정 페이지로 이동 %s을 (를) 활성화 할 수있는 라이센스 키 및 라이센스 이메일을 입력합니다."
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr "<b> 경고! </b> 외부 요청을 차단하고 있습니다. 즉, %s 업데이트를 가져올 수 없습니다. %s을 %s에 추가하십시오."
+
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 라이센스 키를 찾을 수 없습니다. %s을 (를) 설정, 또는 키가 귀하의 계정에서 비활성화 될 때 라이센스 키를 입력하는 "
+"것을 잊었을 지도 모릅니다. 당신은 활성화 또는 계정에서 라이센스 키를 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">대시 보드를</a> ."
+
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s의 구독을 찾을 수 없습니다. 당신의 계정에서 구독상품을 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+msgid "API Key"
+msgstr "API 키"
+
+msgid "Affiliate Data"
+msgstr "마케터 데이터"
+
+msgid "AffiliateWP: Referral #%d for %s for %s rejected"
+msgstr "AffiliateWP: %s의 %s에 대 한 조회 #%d가 거부 됨"
+
+msgid "Amount"
+msgstr "금액"
+
+msgid "Cheatin&#8217; huh?"
+msgstr "잘못된 접근입니다."
+
+msgid "Commission Rate"
+msgstr "수수료율"
+
+msgid "Congratulations {name}!"
+msgstr "축하합니다 {이름}!"
+
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "연결 라이센스 키 API 서버에 실패했습니다. 나중에 다시 시도하십시오."
+
+msgid "Cycles"
+msgstr "사이클"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Depth"
+msgstr "깊이"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Disabled"
+msgstr "비활성"
+
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"라이센스키나, 구독기간이 갱신이 되지 않아 %s 대 한 다운로드를 할수 없을때, 당신은 계정 <a href=\"%s\" "
+"target=\"_blank\">대시보드</a>에서 구독을 다시 활성화할 수 있습니다."
+
+msgid "Earnings"
+msgstr "수익"
+
+msgid "Earnings can be based on either a percentage or a flat rate amount."
+msgstr "수익은 백분율 또는 고정 요금 금액을 기준으로 할 수 있습니다."
+
+msgid "Flat %s"
+msgstr "고정 %s"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "Integrations"
+msgstr "통합"
+
+msgid "Joined"
+msgstr "가입일"
+
+msgid "Level"
+msgstr "레벨"
+
+msgid "List"
+msgstr "목록"
+
+msgid ""
+"Log into your affiliate area to view your earnings or disable these "
+"notifications:"
+msgstr "귀하의 추천인 영역에 로그인 하여 수익을 확인 하거나 다음 알림을 비활성화 하십시오."
+
+msgid "MLM"
+msgstr "MLM"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Parent"
+msgstr "상위"
+
+msgid "Pending"
+msgstr "대기 중"
+
+msgid "Percentage (%)"
+msgstr "퍼센트 (%)"
+
+msgid "Profile picture of %s"
+msgstr "%s의 프로필 사진"
+
+msgid "Referral #%d for %s for %s rejected"
+msgstr "%s의 %s에 대 한 추천 #%d가 거부 됨"
+
+msgid "Referrals"
+msgstr "추천"
+
+msgid "Referrer"
+msgstr "추천인"
+
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+msgid "Site Default"
+msgstr "사이트 기본값"
+
+msgid "Status"
+msgstr "상태"
+
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 라이센스 키가 만료되었습니다. 활성화를 하거나 계정에서 라이센스 키를 구입할 수 있습니다 <a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"%s 대 한 구독 취소 되었습니다. 계정 <a href=\"%s\" target=\"_blank\">대시보드</a>에서 구독을 갱신할 수 "
+"있습니다. 주문이 완료 된 후 새로운 라이센스 키를 당신에 게 이메일로 될 것 이다."
+
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s에 대한 구독이 휴지통에 배치되어 곧 삭제됩니다. 당신의 계정에서 새롭게 구독 상품을 구입할 수 있습니다<a href=\"%s\" "
+"target=\"_blank\">dashboard</a> ."
+
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"%s 에 대한 구독이 중단되었습니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s 에 대한 구독이 만료되었습니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"%s 에 대한 등록은 대기중 입니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독을 "
+"다시 활성화할 수 있습니다."
+
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"%s 대한 등록은 아직 보류 중입니다. 계정 <a href=\"%s\" target=\"_blank\">dashboard</a>에서 구독 "
+"상태에서 확인할 수 있습니다."
+
+msgid "This plugin"
+msgstr "플러그인이 삭제 될 때 AffiliateWP에 대 한 모든 저장 된 데이터를 제거 합니다"
+
+msgid "Tree"
+msgstr "나무"
+
+msgid "Unpaid"
+msgstr "미결제"
+
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"당신은 %s 위하여 구독을 변경하였기 때문에 설정페이지에 새로운 API 라이센스키를 입력해야 하며, 주문이 완료 된 후 새로운 라이센스 "
+"키가 이메일로 발송될 것입니다. 혹 찾지 못하면, 당신의 계정 <a href=\"%s\" target=\"_blank\"> 대시보드</a>"
+"에서 찾을 수 있습니다."
+
+msgid "on %s!"
+msgstr "안녕하세요, %s 님,"

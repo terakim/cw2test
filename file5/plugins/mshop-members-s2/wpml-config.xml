@@ -1,0 +1,11 @@
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_email_authencation_settings">
+            <key name="subject" />
+            <key name="heading" />
+        </key>
+        <key name="msm_finish_text"/>
+        <key name="mshop_members_sleep_warning_email"/>
+        <key name="mshop_members_sleep_warning_email_title"/>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="mshop_address_search_button_text"/>
+        <key name="mshop_address_label_text"/>
+
+        <key name="mshop_address_placeholder_firstname"/>
+        <key name="mshop_address_placeholder_postnum"/>
+        <key name="mshop_address_placeholder_addr1"/>
+        <key name="mshop_address_placeholder_addr2"/>
+        <key name="mshop_address_placeholder_email"/>
+        <key name="mshop_address_placeholder_phone"/>
+    </admin-texts>
+</wpml-config>

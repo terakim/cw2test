@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kboard-ocean-franchise\n"
+"POT-Creation-Date: 2017-09-16 16:33+0900\n"
+"PO-Revision-Date: 2017-09-16 16:33+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: confirm.php:4 confirm.php:6 editor.php:99 editor.php:100 editor.php:107
+#: editor.php:108
+msgid "Password"
+msgstr ""
+
+#: confirm.php:8
+msgid "※ Your password is incorrect."
+msgstr ""
+
+#: confirm.php:15
+msgid "Document"
+msgstr ""
+
+#: confirm.php:17 document.php:71 editor.php:172
+msgid "List"
+msgstr ""
+
+#: confirm.php:20
+msgid "Password confirm"
+msgstr ""
+
+#: document.php:7 latest.php:6
+msgid "Date"
+msgstr ""
+
+#: document.php:11
+msgid "Views"
+msgstr ""
+
+#: document.php:28 editor.php:33
+msgid "Area"
+msgstr "지역"
+
+#: document.php:32 editor.php:59 list.php:64
+msgid "Branch"
+msgstr "지점명"
+
+#: document.php:36 editor.php:64 list.php:65
+msgid "Address"
+msgstr "주소"
+
+#: document.php:40 editor.php:88 list.php:66
+msgid "Contact"
+msgstr "연락처"
+
+#: document.php:41 document.php:45
+msgid "None"
+msgstr "없음"
+
+#: document.php:44 editor.php:93
+msgid "Homepage"
+msgstr "홈페이지"
+
+#: document.php:59 editor.php:147
+msgid "Attachment"
+msgstr ""
+
+#: document.php:72
+msgid "Prev"
+msgstr ""
+
+#: document.php:73
+msgid "Next"
+msgstr ""
+
+#: document.php:77 editor.php:16
+msgid "Edit Branch"
+msgstr "지점 편집"
+
+#: document.php:78 editor.php:138 editor.php:149
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: document.php:78
+msgid "Delete Branch"
+msgstr "지점 삭제"
+
+#: document.php:85 list.php:124
+msgid "KBoard is the best community software available for WordPress"
+msgstr ""
+
+#: editor.php:18 list.php:118
+msgid "Register Branch"
+msgstr "지점 등록"
+
+#: editor.php:23
+msgid "Options"
+msgstr ""
+
+#: editor.php:25 list.php:77 list.php:93
+msgid "Secret"
+msgstr ""
+
+#: editor.php:27 list.php:72
+msgid "Notice"
+msgstr ""
+
+#: editor.php:36
+msgid "Select"
+msgstr ""
+
+#: editor.php:37 functions.php:6 list.php:7 list.php:36
+msgid "Seoul"
+msgstr "서울"
+
+#: editor.php:38 functions.php:7 list.php:21 list.php:37
+msgid "Busan"
+msgstr "부산"
+
+#: editor.php:39 functions.php:8 list.php:16 list.php:38
+msgid "Daegu"
+msgstr "대구"
+
+#: editor.php:40 functions.php:9 list.php:6 list.php:39
+msgid "Incheon"
+msgstr "인천"
+
+#: editor.php:41 functions.php:10 list.php:20 list.php:40
+msgid "Gwangju"
+msgstr "광주"
+
+#: editor.php:42 functions.php:11 list.php:13 list.php:41
+msgid "Daejeon"
+msgstr "대전"
+
+#: editor.php:43 functions.php:12 list.php:17 list.php:42
+msgid "Ulsan"
+msgstr "울산"
+
+#: editor.php:44 functions.php:13 list.php:12 list.php:43
+msgid "Sejong"
+msgstr "세종"
+
+#: editor.php:45 functions.php:14 list.php:8 list.php:44
+msgid "Gyeonggi"
+msgstr "경기도"
+
+#: editor.php:46 functions.php:15 list.php:18 list.php:45
+msgid "Gyeongnam"
+msgstr "경상남도"
+
+#: editor.php:47 functions.php:16 list.php:14 list.php:46
+msgid "Gyeongbuk"
+msgstr "경상북도"
+
+#: editor.php:48 functions.php:17 list.php:19 list.php:47
+msgid "Jeollanam"
+msgstr "전라남도"
+
+#: editor.php:49 functions.php:18 list.php:15 list.php:48
+msgid "Jeollabuk"
+msgstr "전라북도"
+
+#: editor.php:50 functions.php:19 list.php:11 list.php:49
+msgid "Chungnam"
+msgstr "충청남도"
+
+#: editor.php:51 functions.php:20 list.php:10 list.php:50
+msgid "Chungbuk"
+msgstr "충청북도"
+
+#: editor.php:52 functions.php:21 list.php:9 list.php:51
+msgid "Gangwon"
+msgstr "강원도"
+
+#: editor.php:53 functions.php:22 list.php:22 list.php:52
+msgid "Jeju"
+msgstr "제주도"
+
+#: editor.php:122
+msgid "CAPTCHA"
+msgstr ""
+
+#: editor.php:136
+msgid "Thumbnail"
+msgstr ""
+
+#: editor.php:138 editor.php:149
+msgid "Delete file"
+msgstr ""
+
+#: editor.php:158
+msgid "WP Search"
+msgstr ""
+
+#: editor.php:161
+msgid "Public"
+msgstr ""
+
+#: editor.php:162
+msgid "Only title (secret document)"
+msgstr ""
+
+#: editor.php:163
+msgid "Exclusion"
+msgstr ""
+
+#: editor.php:171 editor.php:174
+msgid "Back"
+msgstr ""
+
+#: editor.php:179
+msgid "Save"
+msgstr ""
+
+#: latest.php:5
+msgid "Title"
+msgstr ""
+
+#: list.php:29
+msgid "Address Search"
+msgstr "주소 검색"
+
+#: list.php:30
+msgid "Search"
+msgstr ""
+
+#: list.php:34
+msgid "Guide"
+msgstr "시도별 지점 안내"
+
+#: list.php:35
+msgid "All"
+msgstr "전체"
+
+#: list.php:63
+msgid "Number"
+msgstr ""

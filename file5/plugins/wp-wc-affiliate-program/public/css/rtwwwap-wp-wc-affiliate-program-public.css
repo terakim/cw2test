@@ -1,0 +1,2129 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/* register form 1 css start */
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,300,400,500,600,700,800,900&display=swap");
+/*common css*/
+.rtwwwap-text {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  margin-top: 15px;
+}
+.rtwwwap_user_profile {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  /* background: rgb(108, 42, 100); */
+  background: #34AAAB;
+  padding: 5px 9px;
+  float: right;
+  position: relative;
+  margin-top: -90px;
+}
+
+img.rtwwwap_logged_user_img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 12px;
+}
+
+h4.rtwwwap_username {
+  font-size: 17px;
+  font-weight: 500;
+  color: #fff;
+  letter-spacing: 0;
+  cursor: pointer;
+  text-transform: capitalize;
+  margin: 0;
+}
+.rtwwwap_username i {
+  margin-left: 12px;
+}
+.rtwwwap_profile_list{
+  position: relative;
+  display: block !important;
+  color: #96588a;
+  cursor: pointer;
+}
+.rtwmer_profile_tab{
+  display: block;
+}
+.rtwwwap_profile_list ul{
+  background: #f5f5f5;
+    padding-top: 7px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 120px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 38%);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.5s;
+  font-size: 12px;
+    margin-left: 0;
+}
+.rtwwwap_profile_list:hover ul{
+  opacity: 1;
+  transform: translateY(58px);
+}
+a.rtwwwap_logout_button_temp1{
+  background: #34aaaa;
+  color: white !important;
+  cursor: pointer;
+ display: block;
+  padding: 2px 8px !important;
+}
+
+.rtwwwap_new_pass_field{
+  display: none;
+}
+.rtwwwap_login_button1{
+  display: none;
+}
+
+button.rtwwwap_send_otp_btn {
+  margin-bottom: 20px;
+}
+
+.rtwwwap_otp_verify_modal {
+  font-size: 16px;
+}
+
+input.rtwwwap_email_field {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+button.rtwwwap_send_otp_btn {
+  color: #ffffff;
+  border: none;
+  padding: 1px 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: #7f54b3;
+}
+.rtwwwap_rank_name {
+  text-transform: uppercase;
+  font-weight: 600;
+  background: linear-gradient(-30deg, #35b0fa, #3a3a43 80%);
+  background: linear-gradient(-47deg, #23a2cf, #3a3a43, #23a6d5, #3a3a43);
+  padding: 8px 30px;
+  border-left: 4px solid #2692ba;
+  animation: move 4s infinite;
+  color: white;
+  margin-bottom: 20px;
+  background-size: 400% 400%;
+}
+@keyframes move {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+/* MLM Modal css */
+.rtwwwap_mlm_modal_header {
+  text-align: right;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+  background: black;
+  color: white;
+}
+h4#rtwwwap_email {
+  font-weight: bold;
+  font-size: 14px;
+}
+.rtwwwap_mlm_model_dialog{
+  width: 40%;
+  background: rgb(93, 219, 241);
+  position: relative;
+  top: 20%;
+  margin: 0 auto;
+}
+.rtwwwap_mlm_model_body{
+  overflow-y: auto; 
+   height: 300px;
+   padding: 25px 25px 0 25px;
+}
+/* end css */
+.rtwwwap_rank_wrapper {
+  border: 1px dashed bisque;
+    padding: 20px;
+    text-align: center;
+}
+
+.rtwwwap_personal_turn_model .rtwwwap_wallet_model_dialog {
+  width: 33%;
+  background: white;
+  position: relative;
+  top: 20%;
+  margin: 0 auto;
+  height: 220px;
+}
+
+.rtwwwap_personal_turn_model{
+  width: 100%;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.4);
+  top: 0;
+  display: none;
+  z-index: 999;
+}
+
+.rtwwwap_logout_wrapper{
+	text-align: right;
+  padding-bottom: 5px;
+}
+
+.rtwwwap_show_rank{
+  margin-left: 32%;
+  background-color: #83f8f8 !important;
+}
+
+.rtwwwap_rank_desc{
+  font-size: 22px;
+}
+.rtwwwap_rank_child{
+  margin-top: -15px;
+}
+.rtwwwap_logout {
+  text-align: right;
+  height: 40px;
+  margin-bottom: 1rem;
+}
+
+a.rtwwwap_logout_button {
+  background-color: rgb(20, 87, 76);
+  line-height: 40px;
+  display: inline-block;
+  color: white !important;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  transition: width 0.35s;
+  cursor: pointer;
+  border-radius: 4px; 
+}
+
+.rtwwwap_logout_button:hover {
+  width: 100px;
+}
+.rtwwwap-text .rtwwwap-text-icon {
+  align-items: center;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  border-style: solid;
+  border-width: 1px 0 1px 1px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 40px;
+}
+.rtwwwap-text input,
+.rtwwwap-text textarea,
+.rtwwwap-text select {
+  width: 100%;
+  background-color: #ffffff !important;
+  padding: 12px 15px !important;
+  line-height: 1.4;
+  border: 1px solid #dddddd !important;
+  box-shadow: none !important;
+  cursor: pointer;
+  font-size: 14px;
+}
+.rtwwwap-custom-radio label {
+  position: relative;
+  margin: 0 8px;
+  padding-left: 30px;
+  cursor: pointer;
+}
+.rtwwwap-custom-radio label input[type="radio"] {
+  width: auto;
+
+  background-color: transparent;
+  border: none !important;
+  padding: 0;
+  cursor: pointer;
+}
+.rtwwwap-custom-radio label input::before {
+  position: absolute;
+  content: "";
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  border: 2px solid #219595;
+  border-radius: 50%;
+  left: 0;
+  background-color: #ffffff;
+}
+.rtwwwap-custom-radio label input::after {
+  width: 10px;
+  height: 10px;
+  content: "";
+  position: absolute;
+  margin: 0 auto;
+  left: 5px;
+  background-color: #219595;
+  border-radius: 50%;
+  top: 5px;
+  display: inline-block;
+  opacity: 0;
+  transition: 0.3s linear all;
+  visibility: hidden;
+  transform: scale(0);
+}
+.rtwwwap-custom-radio label input:checked::after {
+  opacity: 1;
+  transition: 0.3s linear all;
+  visibility: visible;
+  transform: scale(1);
+}
+.rtwwwap-custom-checkbox,
+.rtwwwap-custom-radio {
+  margin-top: 15px;
+  display: inline-block;
+}
+.rtwwwap-custom-checkbox label {
+  position: relative;
+  margin: 0 15px;
+  padding-left: 30px;
+  cursor: pointer;
+}
+.rtwwwap-custom-checkbox label input[type="checkbox"] {
+  width: auto;
+
+  background-color: transparent;
+  border: none !important;
+  padding: 0;
+  cursor: pointer;
+}
+.rtwwwap-custom-checkbox label input::before {
+  background-color: #ffffff;
+  border-radius: 4px;
+  border: 2px solid #219595;
+  content: "";
+  display: inline-block;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  width: 16px;
+}
+.rtwwwap-custom-checkbox label input::after {
+  border-bottom: 3px solid #219595;
+  border-left: 3px solid #219595;
+  content: "";
+  display: inline-block;
+  height: 7px;
+  left: 5px;
+  margin: 0 auto;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+  opacity: 0;
+  transition: 0.3s linear all;
+  visibility: hidden;
+  transform: scale(0) rotate(-45deg);
+  transform-origin: 8px 6px;
+}
+.rtwwwap-custom-checkbox label input:checked::after {
+  opacity: 1;
+  transition: 0.3s linear all;
+  visibility: visible;
+  transform: scale(1) rotate(-45deg);
+}
+/*end common css*/
+#rtwwwap-register-form {
+  border: 2px solid #eeeeee;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  box-shadow: 0 4px 38px 0 rgba(22, 21, 55, 0.06),
+    0 0 21px 0 rgba(22, 21, 55, 0.03);
+  border-radius: 4px;
+}
+#rtwwwap-register-form .rtwwwap-title {
+  text-align: center;
+  margin-bottom: 10px;
+}
+#rtwwwap-register-form .rtwwwap-title h2 {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: 30px;
+}
+#rtwwwap-register-form form input:focus {
+  border: 1px solid #dddddd;
+  box-shadow: none;
+  outline: none;
+}
+#rtwwwap-register-form button:focus {
+  border: 1px solid #dddddd;
+  box-shadow: none;
+  outline: none;
+}
+#rtwwwap-register-form form input[type="submit"] {
+  background-color: #219595;
+  color: #ffff;
+  letter-spacing: 1px;
+  font-size: 18px;
+  border: none;
+  margin: 20px 0 15px 0;
+  padding: 15px;
+  width: 100%;
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#rtwwwap-register-form input#rtwwwap-Login, #rtwwwap-register-form #rtwwwap_register {
+  border-radius: 38px;
+  padding: 5px 40px;
+  text-transform: capitalize;
+  margin-top: 3rem;
+  background: #219595;
+  color: #fff;
+}
+#rtwwwap-register-form input#rtwwwap-Login1 {
+  background-color: transparent !important;
+  color: #219595;
+  font-size: 12px;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  float: right;
+  margin-top: 2.8rem;
+  padding-right: 0;
+}
+#rtwwwap-register-form form .rtwwwap-statement {
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+}
+#rtwwwap-register-form form input[type="submit"]:hover,
+#rtwwwap-register-form form input[type="submit"]:focus,
+#rtwwwap-register-form input[type="button"]:hover,
+#rtwwwap-register-form input[type="button"]:focus {
+  opacity: 0.6;
+}
+#rtwwwap-register-form .rtwwwap-login-link {
+  text-align: center;
+}
+.rtwwwap-login-link a {
+  color: #219595;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* .right-sidebar .content-area, .col-full {
+  width: 100% !important;
+} */
+
+/* register form 1 css end */
+/* register form 2 css start */
+.rtwwwap-form-wrapper {
+  padding: 20px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 1px 2px 20px rgba(0, 0, 0, 0.15);
+}
+.rtwwwap-form-wrapper .rtwwwap-custom-radio label input::before {
+  border-color: #232055;
+}
+.rtwwwap-form-wrapper .rtwwwap-custom-radio label input:checked::after {
+  background-color: #232055;
+}
+.rtwwwap-form-wrapper .rtwwwap-custom-checkbox label input::before {
+  border-color: #232055;
+}
+.rtwwwap-form-wrapper .rtwwwap-custom-checkbox label input:checked::after {
+  border-color: #232055;
+}
+.rtwwwap-form-wrapper .rtwwwap-text .rtwwwap-text-icon {
+  background-color: #232055;
+  color: #ffffff;
+  border-color: #232055;
+}
+.rtwwwap-form-wrapper form h2 {
+  background-color: #232055;
+  color: #ffffff;
+  padding: 28px 15px;
+  font-size: 26px;
+  text-align: center;
+  margin: -20px -20px 20px -20px;
+}
+.rtwwwap-form-wrapper form input[type="text"]:focus,
+.rtwwwap-form-wrapper form input[type="email"]:focus {
+  outline: 0;
+}
+.rtwwwap-form-wrapper form input[type="submit"] {
+  background-color: #232055;
+  color: #fff;
+  border-radius: 4px;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 10px 30px;
+  border: none;
+  font-size: 16px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+.rtwwwap-form-wrapper input[type="button"] {
+  background-color: #232055;
+  color: #fff;
+  border-radius: 4px;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 10px 30px;
+  border: none;
+  font-size: 16px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+.rtwwwap-form-wrapper input#rtwwwap-Login1 {
+  background-color: transparent !important;
+  color: #232055;
+  font-size: 12px;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  float: right;
+  margin-top: 1.5rem;
+  padding-right: 0;
+}
+.rtwwwap-form-wrapper form .rtwwwap-statement {
+  color: #333333;
+}
+/* register form 2 css end */
+/* register form 3 css start */
+.rtwwwap-form-wrapper-2 {
+  box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-text {
+  margin: 0 0 15px 0;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-form-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-form-image {
+  width: 40%;
+  background-image: url("http://localhost/rtw-form-banner.jpg");
+  background-size: cover;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-form-content {
+  flex: 0 0 58%;
+  margin-left: 2%;
+  padding: 20px 0;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-form-image h2 {
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 24px;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-form-content form {
+  padding: 30px 20px 20px 10px;
+  margin: 0;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-custom-radio label input::before {
+  border-color: #0150c9;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-custom-radio label input:checked::after {
+  background-color: #0150c9;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-custom-checkbox label input::before {
+  border-color: #0150c9;
+}
+.rtwwwap-form-wrapper-2 .rtwwwap-custom-checkbox label input:checked::after {
+  border-color: #0150c9;
+}
+.rtwwwap-form-wrapper-2 input[type="text"]:focus,
+.rtwwwap-form-wrapper-2 input[type="email"]:focus {
+  outline: 0;
+}
+.rtwwwap-form-wrapper-2 input[type="submit"] {
+  background-color: #0150c9;
+  color: #fff;
+  border-radius: 40px;
+  padding: 12px;
+  min-width: 150px;
+  text-align: center;
+  letter-spacing: 1px;
+  position: relative;
+  font-weight: 600;
+  border: none;
+  margin: 30px 0 20px 0;
+  cursor: pointer;
+}
+.rtwwwap-form-wrapper-2 input[type="button"] {
+  background-color: #0150c9;
+  color: #fff;
+  border-radius: 40px;
+  padding: 12px;
+  min-width: 150px;
+  text-align: center;
+  letter-spacing: 1px;
+  position: relative;
+  font-weight: 600;
+  border: none;
+  margin: 30px 0 0 0;
+  cursor: pointer;
+}
+.rtwwwap-form-wrapper-2 input#rtwwwap-Login1 {
+  background-color: transparent !important;
+  color: #0150c9;
+  font-size: 12px;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  float: right;
+  padding-right: 0;
+}
+.rtwwwap-form-wrapper-2 input[type="submit"]:hover,
+.rtwwwap-form-wrapper-2 input[type="submit"]:focus,
+.rtwwwap-form-wrapper-2 input[type="button"]:hover,
+.rtwwwap-form-wrapper-2 input[type="button"]:focus {
+  background-color: #74c7fe;
+}
+.rtwwwap-form-wrapper-2 form .rtwwwap-statement {
+  color: #8e8e8e;
+}
+@media screen and (max-width: 768px) {
+  .rtwwwap-form-wrapper-2 .rtwwwap-form-image,
+  .rtwwwap-form-wrapper-2 .rtwwwap-form-content {
+    flex: 0 0 100%;
+  }
+  .rtwwwap-form-wrapper-2 .rtwwwap-form-content {
+    margin-left: 0;
+  }
+  .rtwwwap-form-wrapper-2 .rtwwwap-form-image {
+    padding: 60px 20px;
+  }
+  #rtwwwap_affiliate_menu .rtwwwap_main_navigation .rtwwwap_menu {
+    display: block;
+  }
+}
+/* register form 3 css end */
+/* register form 4 css start */
+.rtwwwap-form-wrapper-3 {
+  background-color: #e85a26;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-text {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-form-inner {
+  padding: 30px;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-form-content {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  color: #000;
+  border-radius: 10px;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-form-content form {
+  margin: 0;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-form-content form h2 {
+  text-align: center;
+  font-weight: 600;
+  color: #000000;
+  font-size: 26px;
+  padding-bottom: 20px;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-custom-radio label input::before {
+  border-color: #e85a26;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-custom-radio label input:checked::after {
+  background-color: #e85a26;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-custom-checkbox label input::before {
+  border-color: #e85a26;
+}
+.rtwwwap-form-wrapper-3 .rtwwwap-custom-checkbox label input:checked::after {
+  border-color: #e85a26;
+}
+.rtwwwap-form-wrapper-3 input[type="text"]:focus,
+.rtwwwap-form-wrapper-3 input[type="email"]:focus {
+  outline: 0;
+}
+.rtwwwap-form-wrapper-3 input[type="submit"] {
+  background-color: #8282d5;
+  color: #ffffff;
+  border-radius: 4px;
+  min-width: 150px;
+  margin: 20px 0;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.rtwwwap-form-wrapper-3 input[type="button"] {
+  background-color: #e85a26;
+  color: #ffffff;
+  border-radius: 4px;
+  min-width: 150px;
+  margin: 20px 0 0;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.rtwwwap-form-wrapper-3 input#rtwwwap-Login1 {
+  background-color: transparent !important;
+  color: #e85a26;
+  font-size: 12px;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  float: right;
+  padding-right: 0;
+}
+.rtwwwap-form-wrapper-3 input[type="submit"]:hover,
+.rtwwwap-form-wrapper-3 input[type="submit"]:focus,
+.rtwwwap-form-wrapper-3 input[type="button"]:hover,
+.rtwwwap-form-wrapper-3 input[type="button"]:focus {
+  opacity: 0.7;
+  background-color: #e85a26;
+  color: #ffffff;
+}
+.rtwwwap-form-wrapper-3 form .rtwwwap-statement {
+  color: #868686;
+}
+
+/* register form 4 css end */
+.rtwwwap_request_withdraw {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+.rtwwwap_request_texraea {
+  width: calc(100% - 220px);
+  margin-right: 20px;
+}
+.rtwwwap_request_button-wrap {
+  width: 200px;
+  text-align: right;
+}
+.rtwwwap_request_button-wrap #rtwwwap_rqst_mail {
+  margin-right: 0;
+}
+.rtwwwap_rqst_msg_hidden {
+  display: none;
+}
+.rtwwwap_rqst_mail_sent {
+  font-weight: 600;
+  color: green;
+  text-align: center;
+}
+#rtwwwap_show_active_only {
+  margin-right: 10px;
+}
+#rtwwwap_mlm_show .orgchart td {
+  border: none;
+}
+#rtwwwap_mlm_show .orgchart .lines .rightLine {
+  border-right: 1px solid rgba(217, 83, 79, 0.8);
+}
+#rtwwwap_mlm_show .orgchart .lines .leftLine {
+  border-left: 1px solid rgba(217, 83, 79, 0.8);
+}
+#rtwwwap_mlm_show .orgchart .lines .topLine {
+  border-top: 2px solid rgba(217, 83, 79, 0.8);
+}
+.rtwwwap_mlm_chain_not {
+  display: none;
+  color: red;
+}
+.rtwwwap_disabled .title,
+.rtwwwap_noedit_disabled .title {
+  background-color: #dbd7d7 !important;
+  color: #8f8c8c !important;
+}
+.orgchart .rtwwwap-second-menu-icon {
+  transition: opacity 0.5s;
+  opacity: 0;
+  right: -5px;
+  top: -5px;
+  z-index: 2;
+  color: rgba(68, 157, 68, 0.5);
+  font-size: 18px;
+  position: absolute;
+}
+.orgchart .rtwwwap-second-menu-icon:hover {
+  color: #000;
+}
+.orgchart .node .rtwwwap-second-menu-icon {
+  opacity: 1;
+  color: #000;
+}
+.orgchart .node .rtwwwap-second-menu {
+  position: absolute;
+  top: 0;
+  right: -90px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px 1px #999999;
+  background-color: #555;
+  z-index: 1;
+  padding: 2px 9px;
+  color: #ffffff;
+  text-transform: capitalize;
+  opacity: 0;
+  visibility: hidden;
+}
+#rtwwwap_show_mlm_chain {
+  cursor: pointer;
+  display: block;
+  padding: 10px 20px;
+  background-color: #9575cd;
+  border-radius: 4px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  width: 250px;
+}
+.rtwwwap-second-menu-icon:hover ~ .rtwwwap-second-menu {
+  opacity: 1;
+  visibility: visible;
+}
+#rtwwwap_mlm_data {
+  position: relative;
+  top: -60px;
+  display: inline-block;
+  margin-left: 10%;
+  width: 30%;
+  margin-right: 6%;
+}
+#rtwwwap_mlm_data li {
+  font-size: 32px;
+}
+.orgchart {
+  display: block !important;
+  background-image: none !important;
+}
+#rtwwwap_mlm_show {
+  position: relative;
+  display: inline-block;
+  top: 10px;
+  left: 10px;
+  height: auto;
+  width: calc(100% - 24px);
+  border-radius: 5px;
+  overflow: auto;
+  text-align: center;
+}
+#rtwwwap_mlm_chain_struct {
+  display: none;
+}
+#rtwwwap_search_main_container .rtwwwap_text_color_field {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  line-height: 1;
+  padding: 4px !important;
+  cursor: pointer;
+}
+.rtwwwap_comm_tab_width {
+  width: 30%;
+}
+.rtwwwap_span_copied {
+  display: inline-block;
+  position: relative;
+}
+#rtwwwap_copy_tooltip_link,
+#rtwwwap_copy_tooltip_script,
+#rtwwwap_copy_tooltip_html {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 70px;
+  margin: 0 auto;
+  display: inline-block;
+  background-color: #383333;
+  text-align: center;
+  padding: 2px;
+  border-radius: 4px;
+  color: #ffffff;
+  top: -30px;
+  visibility: hidden;
+  opacity: 0;
+  font-size: 16px;
+}
+#rtwwwap_copy_tooltip_link::after {
+  content: "";
+  border-right: 7px solid transparent;
+  border-left: 7px solid transparent;
+  border-top: 7px solid #383333;
+  position: absolute;
+  bottom: -7px;
+  left: 38%;
+}
+.width-100 {
+  width: 100%;
+}
+#rtwwwap_copy_tooltip_script,
+#rtwwwap_copy_tooltip_html {
+  left: -310px;
+  top: 18px;
+}
+#rtwwwap_copy_tooltip_script::after,
+#rtwwwap_copy_tooltip_html::after {
+  content: "";
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  position: absolute;
+  border-top: 8px solid #383333;
+  right: -10px;
+  transform: rotate(-90deg);
+  top: 11px;
+}
+#rtwwwap_not_approved {
+  background-color: #f8e0e0;
+  padding: 10px 20px;
+  text-transform: capitalize;
+  border-left: 4px solid #e60b0b;
+  border-radius: 4px;
+}
+#rtwwwap_affiliate_menu {
+  border: none;
+}
+.rtwwwap_main_navigation .rtwwwap_menu {
+  margin: 0 0 20px 0;
+  display: flex;
+  background-color: #f5f5f5;
+  padding: 0;
+}
+.rtwwwap_main_navigation .rtwwwap_menu li {
+  list-style-type: none;
+  display: flex;
+  flex: 0 100%;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+}
+.rtwwwap_main_navigation .rtwwwap_menu .current-menu-item {
+  background-color: #34aaaa;
+  position: relative;
+}
+.rtwwwap_main_navigation .rtwwwap_menu .current-menu-item a {
+  color: #ffffff;
+}
+.rtwwwap_main_navigation .rtwwwap_menu li a:focus {
+  outline: 0;
+}
+.rtwwwap_main_navigation .rtwwwap_menu .current-menu-item::after {
+  content: "";
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #34aaaa;
+  position: absolute;
+  bottom: -10px;
+}
+.rtwwwap_download_qr {
+  visibility: hidden;
+}
+.rtwwwap_commissionws_wrapper {
+  margin-bottom: 20px;
+  font-weight: 600;
+  line-height: 1;
+  background-color: #ddd;
+  padding: 16px 15px;
+  font-size: 18px;
+  text-align: center;
+}
+.rtwwwap_commissionws_wrapper span {
+  margin-left: 20px;
+  font-size: 20px;
+}
+#rtwwwap_mail_optIn input {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+#rtwwwap_mail_optIn {
+  margin: 20px 0;
+  position: relative;
+}
+#rtwwwap_mail_optIn label {
+  margin-right: 20px;
+}
+#rtwwwap_email_setting,
+.rtwwwap_paypal,
+.rtwwwap_payment_type,
+.rtwwwap_direct,
+#rtwwwap_coupon_code {
+  margin: 20px 0;
+}
+.rtwwwap_setting_span {
+  display: inline-block;
+  width: 30%;
+}
+.rtwwwap_paypal_email,
+.rtwwwap_stripe_email {
+  width: 40%;
+}
+.rtwwwap_payment_hidden {
+  display: none;
+}
+#rtwwwap_aff_link_input {
+  width: 100%;
+}
+#rtwwwap_search_main_container {
+  margin: 20px -1% 0 -1%;
+  display: flex;
+  flex-wrap: wrap;
+}
+#rtwwwap_banner_setting {
+  width: 70%;
+  margin-left: 2%;
+}
+#rtwwwap_banner_preview {
+  width: 28%;
+}
+#rtwwwap_banner_setting > div > label {
+  width: 160px;
+  display: inline-block;
+}
+#rtwwwap_banner_setting > div {
+  margin: 10px 0;
+}
+#rtwwwap_banner_preview > p {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+.rtwwwap_searched_prod {
+  width: 22.333%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+#rtwwwap_generated_link {
+  padding: 3px 5px;
+  margin: 6px 3px 10px 3px;
+  font-size: 16px;
+  background-color: #0bb586;
+  color: #fff;
+  visibility: hidden;
+}
+.rtwwwap_prod_name {
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+#rtwwwap_copy_to_clip,
+#rtwwwap_generate_qr {
+  visibility: hidden;
+}
+#rtwwwap_create_coupon {
+  margin-left: 15px;
+}
+#rtwwwap_affiliate_menu a {
+  padding: 5px;
+}
+#rtwwwap_commission tbody tr:nth-child(2n) td,
+#rtwwwap_coupons tbody tr:nth-child(2n) td {
+  background-color: #efefef;
+}
+.rtwwwap_share_qr {
+  margin-top: 20px;
+}
+.rtwwwap_share_qr::after {
+  clear: both;
+  display: block;
+  content: "";
+}
+#rtwwwap_qrcode {
+  width: 110px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+#rtwwwap_qrcode img {
+  max-width: 100%;
+  width: auto;
+}
+#rtwwwap_coupon_amount {
+  padding: 8px;
+  width: 200px;
+}
+#rtwwwap_qrcode_main {
+  float: right;
+  width: 35%;
+}
+#rtwwwap_affiliate_menu .nav-tab-wrapper {
+  display: flex;
+  background-color: #90a4ae;
+}
+#rtwwwap_affiliate_menu .nav-tab-wrapper a {
+  padding: 10px;
+  background-color: #90a4ae;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  color: #ffffff;
+  border-right: 2px solid #dddddd;
+  transition: 0.3s linear all;
+}
+#rtwwwap_affiliate_menu .nav-tab-wrapper a:hover {
+  background-color: #9575cd;
+  transition: 0.3s linear all;
+}
+#rtwwwap_affiliate_menu .nav-tab-wrapper a:last-child {
+  border-right: none;
+}
+#rtwwwap_overview {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.rtwwwap-overview-box {
+  padding: 10px 25px;
+  background-color: #4b4b6f;
+  margin-top: 10px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 6px;
+  width: 18%;
+  margin-right: 1%;
+  margin-left: 1%;
+  display: flex;
+  flex-direction: column;
+}
+.rtwwwap-overview-box span {
+  font-weight: bold;
+  display: block;
+  font-size: 20px;
+  min-height: 40px;
+}
+#rtwwwap_create_coupon_container {
+  margin-top: 30px;
+  font-size: 16px;
+}
+#rtwwwap_affiliate_body .rtwwwap_create_coupon_text {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 6px;
+  border-left: 4px solid #4b4b6f;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  line-height: 1.6 !important;
+}
+#rtwwwap_affiliate_body {
+  margin-top: 20px;
+}
+#rtwwwap_commission {
+  border-spacing: 0;
+  width: 100%;
+  border-collapse: separate;
+}
+#rtwwwap_commission th,
+#rtwwwap_coupons th {
+  background-color: #dddddd;
+}
+#rtwwwap_commission thead th {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: center;
+}
+#rtwwwap_commission .rtwwwap_level_comm th {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: left;
+}
+.rtwwwap_no_comm {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: center !important;
+}
+#rtwwwap_commission td,
+#rtwwwap_commission th,
+#rtwwwap_coupons td,
+#rtwwwap_coupons th {
+  padding: 10px 15px;
+  text-align: left;
+  vertical-align: top;
+}
+#rtwwwap_aff_link_input,
+#rtwwwap_banner_prod_search {
+  padding: 5px 15px;
+  border-radius: 4px;
+  margin-right: 15px;
+  line-height: 2.1;
+  vertical-align: middle;
+}
+.rtwwwap_select2_hidden {
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.125);
+}
+#rtwwwap_main_container a {
+  text-decoration: none;
+}
+#rtwwwap_generate_button,
+#rtwwwap_generate_banner_button,
+#rtwwwap_search_button,
+#rtwwwap_generate_csv,
+#rtwwwap_copy_to_clip,
+#rtwwwap_copy_to_clip_mlm,
+#rtwwwap_generate_qr,
+#rtwwwap_get_script,
+#rtwwwap_get_html,
+#rtwwwap_create_link,
+#rtwwwap_create_banner,
+.rtwwwap_download_qr,
+#rtwwwap_profile_save,
+#rtwwwap_payout_save,
+#rtwwwap_create_coupon,
+#rtwwwap_affiliate_activate,
+#rtwwwap_affiliate_activate_not,
+#rtwwwap_rqst_mail,
+#rtwwwap_open_request_with {
+  background-color: #9575cd;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 9px 30px;
+  min-width: 145px;
+  margin-right: 7px;
+  margin-top: 10px;
+  transition: 0.2s linear all;
+  cursor: pointer;
+  border: none;
+  display: inline-block;
+  box-shadow: none;
+  background-image: none;
+  font-size: 14px;
+  line-height: 1.6;
+}
+#rtwwwap_generate_button:hover,
+#rtwwwap_generate_banner_button:hover,
+#rtwwwap_search_button:hover,
+#rtwwwap_generate_csv:hover,
+.rtwwwap_download_qr:hover,
+#rtwwwap_profile_save:hover,
+#rtwwwap_payout_save:hover,
+#rtwwwap_create_coupon:hover,
+#rtwwwap_generate_qr:hover,
+#rtwwwap_copy_to_clip:hover,
+#rtwwwap_copy_to_clip_mlm:hover,
+#rtwwwap_get_script:hover,
+#rtwwwap_get_html:hover,
+#rtwwwap_rqst_mail:hover,
+#rtwwwap_affiliate_activate:hover,
+#rtwwwap_open_request_with:hover {
+  transition: 0.2s linear all;
+  opacity: 0.8;
+}
+#rtwwwap_is_affiliate h3 {
+  margin-top: 10px;
+  font-weight: 500;
+}
+#rtwwwap_is_affiliate{
+  position: relative;
+}
+#rtwwwap_generate_csv {
+  margin-left: 10px;
+  margin-top: 0;
+  padding-top: 9px;
+  padding-bottom: 12px;
+}
+.rtwwwap_select2_hidden {
+  max-width: 30%;
+  text-align: center;
+  width: 100%;
+  margin: 0 10px;
+}
+.rtwwwap-font_bold {
+  font-weight: bold;
+}
+.rtwwwap_social_share {
+  display: none;
+  flex-wrap: wrap;
+  text-align: center;
+  float: left;
+  width: 65%;
+  justify-content: space-around;
+}
+.rtwwwap_social_share_mlm {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  float: left;
+  width: 60%;
+  justify-content: space-around;
+}
+.rtwwwap_social_share a,
+.rtwwwap_social_share_mlm a {
+  text-decoration: none;
+}
+.rtwwwap_social_share .rtwwwap_btn,
+.rtwwwap_social_share .rtwwwap_fb_share,
+.rtwwwap_social_share .rtwwwap_mail_button,
+.rtwwwap_social_share .rtwwwap_whatsapp_share,
+.rtwwwap_social_share_mlm .rtwwwap_btn,
+.rtwwwap_social_share_mlm .rtwwwap_fb_share,
+.rtwwwap_social_share_mlm .rtwwwap_mail_button,
+.rtwwwap_social_share_mlm .rtwwwap_whatsapp_share {
+  width: 70px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.rtwwwap_select_cat
+  ~ .select2.select2-container
+  .select2-selection.select2-selection--single,
+.rtwwwap_payment_method
+  ~ .select2.select2-container
+  .select2-selection.select2-selection--single {
+  height: 46px;
+}
+.rtwwwap_select_cat ~ .select2.select2-container #select2--container,
+.rtwwwap_payment_method
+  ~ .select2.select2-container
+  .select2-selection__rendered {
+  line-height: 46px;
+}
+.rtwwwap_select_cat ~ .select2.select2-container .select2-selection__arrow,
+.rtwwwap_payment_method ~ .select2.select2-container .select2-selection__arrow {
+  top: 13px;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: rgb(184, 184, 184);
+  color: rgb(3, 3, 3);
+  text-align: center;
+  border-radius: 6px;
+  padding: 0;
+  font-size: 15px;
+  word-wrap: normal;
+
+  /* Position the tooltip */
+  position: absolute;
+  left: 110px;
+  top: -10px;
+  z-index: 1;
+  padding: 10px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+/*end media query*/
+
+#rtwwwap_aff_not_login {
+  width: 100%;
+}
+#rtwwwap_aff_page_login {
+  width: 50%;
+  float: left;
+}
+#rtwwwap_aff_page_reg {
+  width: 50%;
+  padding-left: 2%;
+  float: left;
+}
+#rtwwwap_aff_page_reg_1 {
+  width: 100%;
+  padding-left: 2%;
+}
+
+#rtwwwap_aff_page_login_1 {
+  width: 100%;
+}
+#rtwwwap_reset_password_page {
+  width: 100%;
+}
+
+/*error message box*/
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(148, 146, 146); /* Fallback color */
+  background-color: rgba(104, 104, 104, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.rtwwwap_modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%;
+}
+
+/* The Close Button */
+.rtwwwap_close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.rtwwwap_close:hover,
+.rtwwwap_close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.rtwwwap-reject-message-shown.show {
+  opacity: 1;
+  visibility: visible;
+  transition: 0.3s linear all;
+  pointer-events: all;
+}
+.rtwwwap-reject-message-shown {
+  display: none;
+}
+
+.rtwwwap_custom_single_product {
+  height: auto;
+}
+.rtwwwap_custom_banner_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.rtwwwap_custom_banner_product {
+  box-shadow: 8px 8px 10px lightslategrey;
+  min-width: 150px;
+  padding: 7px;
+  margin-top: 10px;
+  margin-left: 15px;
+  position: relative;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.rtwwwap_copy_info {
+  min-width: 150px;
+  color: gray;
+  font-size: 15px;
+  font-family: cursive;
+  margin-top: 5px;
+}
+.rtwwwap_custom_banner_product_image {
+  width: 100%;
+}
+.rtwwwap_banner_image {
+  width: 100%;
+  height: 100%;
+}
+.rtwwwap_custom_banner_copy_html {
+  box-shadow: 0px 9px 8px #9a9696;
+  background-color: #e85050;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 9px 30px;
+  width: 100%;
+  margin-right: 7px;
+  margin-top: 10px;
+  transition: 0.2s linear all;
+  cursor: pointer;
+  text-transform: uppercase;
+  border: none;
+  display: inline-block;
+  background-image: none;
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 14px;
+  letter-spacing: 0.1em;
+}
+.rtwwwap_banner_no {
+  width: 100%;
+  height: auto;
+  background-color: #5a5050;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+.rtwwwap_image_size_detail {
+  color: teal;
+  font-size: 15px;
+  font-family: cursive;
+}
+
+.rtwwwap_banner_copy_text {
+  display: none;
+  width: 50%;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: -36px;
+  left: 30%;
+}
+.rtwwwap_social_login_container {
+  display: flex;
+}
+.rtwwwap_gmail_button,
+.rtwwwap_linkedin_image {
+  margin-left: 10px;
+}
+
+.rtwwwap_member_modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.rtwwwap_member_modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 70%;
+  margin-top: -5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+}
+
+/* / Add Animation / */
+@-webkit-keyframes animatetop {
+  from {
+    top: -300px;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes animatetop {
+  from {
+    top: -300px;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
+}
+
+.rtwwwap_member_heading {
+  font-weight: bold;
+  color: #07073e;
+  font-size: 45px;
+  margin-left: 16px;
+}
+.rtwwwap_close_button {
+  border-radius: 16px;
+  background-color: #384c6d;
+  border: none;
+  text-align: center;
+  font-size: 16px !important;
+  width: 13%;
+  transition: all 0.5s;
+  margin-left: 85%;
+  padding: 9px;
+  letter-spacing: 0.1em;
+  color: white;
+  font-weight: bold;
+  box-shadow: 3px 8px 8px #888888;
+  margin-bottom: 15px;
+}
+
+.rtwwwap_member_close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.rtwwwap_member_close:hover,
+.rtwwwap_member_close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.rtwwwap_member_modal-header {
+  padding: 2px 16px;
+  background-color: #bfe2bf;
+  color: white;
+}
+
+.rtwwwap_member_modal-body {
+  padding: 2px 16px;
+}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #ffffff;
+  color: white;
+  height: 100px;
+}
+.rtwwwap_bank_details {
+  margin-bottom: 10px;
+}
+
+.rtwwwap_request_text_wrapper,
+.rtwwwap_transaction_text_wrapper {
+  text-align: center;
+  margin-right: 10%;
+  padding: 10px;
+  margin-bottom: 5px;
+  background: #18526d;
+  color: white;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0px 6px 8px grey;
+  transition: all 0.3s ease-in;
+}
+.rtwwwap_request_text_wrapper i,
+.rtwwwap_transaction_text_wrapper i {
+  margin-right: 12px;
+}
+.rtwwwap_request_text_wrapper:hover,
+.rtwwwap_transaction_text_wrapper:hover {
+  transform: translateY(-5px);
+}
+.rtwwwap_wallet_model,
+.rtwwwap_wallet_model_transaction {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.4);
+  top: 0;
+  display: none;
+  z-index: 999;
+}
+
+.rtwwwap_change_password_model {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.4);
+  top: 0;
+  display: none;
+  z-index: 999;
+}
+
+.rtwwwap_change_psw_model_dialog {
+  width: 50%;
+  background: white;
+  position: relative;
+  top: 20%;
+  margin: 0 auto;
+}
+
+.rtwwwap_wallet_model_dialog {
+  width: 30%;
+  background: white;
+  /* height: 100%; */
+  position: relative;
+  top: 20%;
+  margin: 0 auto;
+}
+
+.rtwwwap_wallet_model_content {
+  height: 100%;
+}
+
+.rtwwwap_change_psw_model_content {
+  height: 100%;
+}
+
+.rtwwwap_wallet_model_header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.rtwwwap_wallet_model_header h3 {
+  margin: 0 !important;
+  text-transform: capitalize;
+  color: white;
+  font-size: 18px;
+}
+.rtwwwap_wallet_model_header {
+  background-color: black;
+  color: white;
+}
+.rtwwwap_wallet_model_footer {
+  padding: 10px;
+  border-top: 1px solid #655e5e26;
+  text-align: right;
+  
+}
+.rtwwwap_forget_psw{
+  display: none;
+}
+.rtwwwap_close_model_icon {
+  cursor: pointer;
+}
+.rtwwwap_wallet_model_body {
+  overflow-y: auto;
+  height: 200px;
+  padding: 25px 25px 0 25px;
+  text-align: left;
+}
+
+#rtwwwap_change_psw{
+
+  background-color: rgb(62, 150, 205);
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 9px 30px;
+    min-width: 145px;
+    margin-right: 7px;
+    margin-top: 7px;
+    transition: 0.2s linear all;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
+    box-shadow: none;
+    background-image: none;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.rtwwwap_wallet_model_footer button {
+  color: #ffffff;
+  border: none;
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: #0b8574;
+  font-size: 14px;
+}
+
+.rtwwwap_cancel_btn_with{
+  background-color: red !important;
+  color: #ffffff;
+}
+.rtwwwap_save_btn {
+  background-color: #2a2730;
+}
+.rtwwwap_amount_text {
+  margin-bottom: 2rem;
+}
+
+.rtwwwap_amount_text label{
+  margin-right: 15px;
+}
+
+.rtwwwap_cancel_btn {
+  background-color: red;
+}
+.rtwwwap_amount_text p {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+.rtwwwap_inpt_label {
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 10px;
+}
+.rtwwwap_amount_text input {
+  box-shadow: 0px 8px 8px #ccbbbba6 !important;
+  border-radius: 5px !important;
+  border: 1px solid #ccc !important;
+}
+.rtwwwap_amount_text p {
+  color: orange;
+  font-weight: bold;
+  font-size: 20px;
+}
+.rtwwwap_payment_wallet_wrapper,
+.rtwwwap_wallet_transaction_wrapper {
+  width: 48%;
+}
+.rtwwwap_main_wallet_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rtwwwap_wallet_model_transaction .rtwwwap_wallet_model_dialog {
+  width: 75%;
+}
+.rtwwwap_wallet_model_transaction .rtwwwap_wallet_model_body {
+  overflow-y: auto;
+  height: 330px;
+  padding: 25px 25px 0 25px;
+}
+
+.rtwwwap_reason_modal_ {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.rtwwwap_reason_modal_ .rtwwwap_modal_dialog {
+  width: 50%;
+  margin: 0 auto;
+}
+.rtwwwap_reason_modal_ .rtwwwap_modal_header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 10px 20px;
+  border-radius: 0 20px 0 0;
+  color: white;
+  align-items: center;
+}
+.rtwwwap_reason_modal_ .rtwwwap_modal_header h3 {
+  color: white;
+  margin: 0;
+}
+.rtwwwap_reason_modal_ .rtwwwap_modal_close {
+  cursor: pointer;
+}
+.rtwwwap_reason_modal_ .rtwwap_modal_body {
+  background: white;
+  border-radius: 0 0 0 20px;
+  padding: 1rem;
+}
+
+.rtwwwap_login_message {
+  color: red;
+  text-align: center;
+}
+@media(max-width:992px){
+  .rtwwwap_wallet_model_dialog,
+  .rtwwwap_wallet_model_transaction .rtwwwap_wallet_model_dialog {
+    width: 95%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .rtwwwap-overview-box {
+    width: 31%;
+  }
+  .rtwwwap_select2_hidden {
+    max-width: 100%;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+  #rtwwwap_aff_link_input,
+  #rtwwwap_banner_prod_search {
+    width: 100%;
+  }
+  #rtwwwap_generate_csv {
+    margin-left: 0;
+  }
+  .rtwwwap_searched_prod {
+    width: 100%;
+  }
+  .rtwwwap_select_cat ~ .select2.select2-container {
+    width: 100% !important;
+    margin-top: 10px;
+  }
+  #rtwwwap_qrcode_main,
+  .rtwwwap_social_share,
+  .rtwwwap_social_share_mlm {
+    width: 100%;
+  }
+  #rtwwwap_qrcode {
+    display: block;
+    margin: 20px 0;
+  }
+  #rtwwwap_banner_setting,
+  #rtwwwap_banner_preview {
+    width: 100%;
+    margin-left: 10px;
+  }
+  #rtwwwap_copy_tooltip_script,
+  #rtwwwap_copy_tooltip_html {
+    left: 160px;
+    top: 18px;
+    right: auto;
+  }
+  #rtwwwap_copy_tooltip_script::after,
+  #rtwwwap_copy_tooltip_html::after {
+    right: auto;
+    transform: rotate(90deg);
+    top: 11px;
+    left: -10px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .rtwwwap_profile_list ul{
+    width: 100%;
+  }
+  .rtwwwap-form-wrapper-3 .rtwwwap-form-inner,
+  .rtwwwap-form-wrapper-3 .rtwwwap-form-content {
+    padding: 10px;
+  }
+  #rtwwwap_affiliate_menu .nav-tab-wrapper {
+    flex-wrap: wrap;
+  }
+  #rtwwwap_affiliate_menu .nav-tab-wrapper a {
+    border-right: none;
+    border-bottom: 1px solid #dddddd;
+  }
+  .rtwwwap-overview-box {
+    width: 44%;
+  }
+  #rtwwwap_commission td,
+  #rtwwwap_commission th {
+    padding: 10px 8px;
+  }
+  .rtwwwap_main_navigation .rtwwwap_menu {
+    flex-wrap: wrap;
+  }
+  #rtwwwap_create_coupon {
+    margin-left: 5px;
+  }
+  .rtwwwap_request_texraea,
+  .rtwwwap_request_button-wrap {
+    width: 100%;
+    margin-right: 0;
+  }
+  .rtwwwap_request_button-wrap {
+    text-align: center;
+  }
+  #rtwwwap_commission .rtwwwap_level_comm th {
+    padding: 15px 4px;
+    font-size: 12px;
+  }
+  #rtwwwap_affiliate_body {
+    overflow-y: auto;
+  }
+  #rtwwwap_aff_page_login {
+    width: 100% !important;
+  }
+  #rtwwwap_aff_page_reg {
+    width: 100% !important;
+    margin-top: 3rem;
+  }
+  .rtwwwap_payment_wallet_wrapper, .rtwwwap_wallet_transaction_wrapper {
+    width: 100%;
+  }
+  .rtwwwap_wallet_transaction_wrapper{
+    margin-top: 20px;
+  }
+
+}
+
+
+/* notification */
+
+.rtwwwap_notification_dropdown_list{
+  width: 250px;
+  right: 0;
+  top: 100%;
+  border-radius: 4px;
+  z-index: 2;
+  box-shadow: 0px 0px 8px grey;
+  height: 230px;
+  overflow-y: auto;
+  position: absolute;
+  background-color: white;
+  z-index: 9999;
+  right: 21%;
+  top: 6%;
+  display: none;
+  margin-top: 3px;
+}
+.rtwwwap_border_bottom {
+  width: 100%;
+  padding: 10px;
+}
+.rtwwwap_notification_list .rtwwwap_notification_body h6,
+.rtwwwap_notification_list .rtwwwap_notification_body small
+ {
+  color: #fff; 
+}
+.rtwwwap_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.rtwwwap_notification_dropdown_list_wrapper{
+  padding:  3px;
+  margin: 0px ;
+}
+.rtwwwap_notification_list {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+
+  width: 100%;
+  background-color: #fff;
+  cursor: pointer;
+}
+.rtwwwap_notification_list{
+  border-bottom: 1px solid #fff;
+ background-color: #22215b;
+}
+.rtwwwap_notification_list_present{
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+  border-bottom: 1px solid #958d8d73;
+  width: 100%;
+  background-color: white;
+  cursor: pointer;
+
+}
+.rtwwwap_notification_body h6 {
+  color: #22215B;
+  font-weight: bold;
+  margin: 0;
+  font-size: 15px;
+}
+.rtwwwap_notification_body small {
+  color: gray;
+  font-size: 11px;
+}
+.rtwwwap_notification_icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #eeedf3;
+}
+.rtwwwap_notification_body {
+  margin-left: 5%;
+  width: 75%;
+}
+span.rtwwwap_toggle_notification {
+  background: #34aaaa;
+  padding: 0 15px;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+  height: 40px;
+  display: inline-block;
+  line-height: 40px;
+  position: relative;
+  margin-right: 10px;
+}
+.rtwwwap_notification_modal_wrapper{
+  display: none;
+}
+.rtwwwap_notification_modal {
+  background: #00000066;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+}
+.rtwwwap_notification_modal .rtwwwap_modal_dialog {
+  background: white;
+ 
+  width: 700px;
+  margin: 0 auto;
+  border-radius: 5px;
+  border-top-left-radius: 25px;
+}
+.rtwwwap_notification_modal .rtwwwap_close_cont_modal{
+  cursor: pointer;
+  color: white;
+}
+.rtwwwap_notification_modal .rtwwwap-modal-header i{
+  font-size: 25px;
+}
+.rtwwwap_notification_modal .rtwwwap-modal-header
+{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 10px;
+  border-top-left-radius: 25px;
+}
+.rtwwwap_notification_modal .rtwwwap_modal_title{
+ font-weight: bolder; 
+ color: white;
+ font-size: 16px;
+ margin-left: 15px;
+}
+span.rtwwwap_message_count {
+  background: black;
+  border-radius: 50%;
+  position: absolute;
+  min-width: 17px;
+  height: 17px;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 17px;
+  top: -8px;
+  right: -3px;
+}
+.rtwwwap_notification_modal .rtwwwwap_noti_content_body{
+  padding: 10px;
+}
+.rtwwwap_notification_modal .rtwwwwap_noti_content_body p{
+  margin-bottom: 10px;
+}

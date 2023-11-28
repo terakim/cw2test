@@ -1,0 +1,6 @@
+order_id,order_item_id,dlv_code,sheet_no,order_status
+1000,,,,processing
+1001,,EPOST,100001001,
+1002,100,EPOST,100001002,
+1002,101,EPOST,100001002,
+1002,102,EPOST,100001003,

@@ -1,0 +1,267 @@
+
+.rtwwwap_rank_name{
+    background: linear-gradient(-47deg, #23a2cf, #fff, #c5c5c5, #fff);
+    color:black;
+}
+.rtwwwap_template_body{
+    background-color: #0c3581;
+ }
+ 
+ .rtwwwap-login-form-logo {
+     background-color: #0c3581;
+ }
+ 
+ 
+ #rtwwwap_affiliate_body .rtwwwap-right-section .mdc-button, #rtwwwap_generate_qr {
+    
+     box-shadow: 0px 17px 10px -10px rgba(0,0,0,0.4);
+     background-image: linear-gradient(166deg,#ffc984 0%,#ff5d5d 79%);
+    
+ }
+ 
+ #rtwwwap_affiliate_body .dataTables_wrapper {
+    box-shadow: 0px 0px 8px #c7bdbd;
+ }
+ .rtwwwap-dynamic-bannner-wrapper.mdc-elevation--z9 {
+     background: white;
+ }
+ .rtwwwap-bank-deatil,.rtwwwap-paypal-deatil,.rtwwwap-stripe-deatil{
+     background-color: #d7dae0;
+ }
+ .mdc-list.rtwwwap-navbar a{
+     color:#fff;
+ }
+ .mdc-list.rtwwwap-navbar a i {
+     color: #fff;
+ }
+ .mdc-list.rtwwwap-navbar a:hover {
+     background-color: rgba(255,255,255,0.1);;
+ }
+ .mdc-list-item.rtwwwap-navbar-active {
+    background-color: white !important;
+     color: #0c3581 !important;
+     font-weight: bold;
+ }
+ .rtwwwa-submenu-active{
+     color: red;
+ }
+ 
+ .mdc-list-item.rtwwwap-navbar-active i{
+     color: #0c3581 !important;
+ }
+ h4.mdc-drawer__title.rtwwwap-title {
+     color: white;
+     font-size: 1.5rem;
+ }
+ 
+ .rtwwwap-card1 .rtwwwap-card-icon i{
+     color:#cd5390 ;
+ }
+ .rtwwwap-card2 .rtwwwap-card-icon i{
+     color:#f78b00 ;
+ }
+ .rtwwwap-card3 .rtwwwap-card-icon i{
+     color:#91c714 ;
+ }
+ .rtwwwap-card4 .rtwwwap-card-icon i{
+     color:#fec533 ;
+ }
+ .rtwwwap-card5 .rtwwwap-card-icon i{
+     color:#35b0fa ;
+ }
+ .rtwwwwap_header {
+     background: #0c3581;
+ }
+ 
+ .rtwwwap-msg-card h3 {
+     background: linear-gradient(60deg,#0c3581,#3584e5);
+ }
+ 
+ #rtwwwap_main_container .rtwwwap-body .rtwwwap_sidebar_wrapper {
+     background: #0c3581;
+ }
+ 
+ #rtwwwap_main_container .rtwwwap-body .rtwwwap_logo {
+     color: #ffffff;
+ }
+ 
+ #rtwwwap_affiliate_body{
+     background-color: white;
+ }
+ 
+ #rtwwwap_main_container .rtwwwap-body .rtwwwap-right p {
+     color: black;
+ }
+ 
+ 
+ #rtwwwap_main_container .mdc-layout-grid__cell.mdc-card.rtwwwap-grid-cell2 {
+     grid-column-end: span 6;
+     box-shadow: 0 1px 4px 0 #0a0f1b9c;
+ }
+ 
+ 
+ 
+ /* payout css */
+ 
+ 
+ 
+ /* profile css start */
+ #rtwwwap_main_container .rtwwwap-body .rtwwwap-payment-input-box {
+    background: #fff;
+ }
+ 
+ #rtwwwap_main_container .rtwwwap-body .rtwwwap-payment-section-wrapper{
+     background: #0c3581;
+ }
+ #rtwwwap_affiliate_body .dataTables_wrapper {
+    box-shadow: 0px 0px 8px #867f7f;
+}
+ 
+ /* affiliate tools css start */
+ 
+ 
+ 
+ .rtwwwap-card-overlay-text {
+     background: #fff;
+ }
+ span.rtwwwap-square-color-box {
+     background: red;
+ }
+ .rtwwwap-focus-border {
+     background-color: #0c3581;;
+ }
+ 
+ .rtwwwap-commission-table-header h5{
+     background: linear-gradient(60deg,#0c3581,#3584e5);
+ }
+ .rtwwwap-social-media-icons a {
+     color: #fff;
+ }
+ .rtwwwap-right-section table tr:nth-child(2n) {
+     background: #4e505442;
+ }
+ .rtwwwap-social-media-icons a:first-child{
+     background-color: #1ca1f2;
+ }
+ .rtwwwap-social-media-icons a:nth-child(2){
+     background-color: #3e5e9e;
+ }
+ .rtwwwap-social-media-icons a:nth-child(3){
+     background-color: #1ca1f2;
+ }
+ .rtwwwap-social-media-icons a:nth-child(4){
+     background-color: #46bf56;
+ }
+ 
+ 
+ 
+ .rtwwwap-right-section table tbody tr:hover {
+     background: rgba(255, 255, 255, 0.1) !important;
+     transition: all 0.5s;
+ }
+ 
+ .rtwwwap-bank-deatil,.rtwwwap-paypal-deatil,.rtwwwap-stripe-deatil{
+     background: #d7dae0;
+ }
+ 
+ #rtwwwap_payout_tab h3.rtwwwap-payment-header {
+   color: #3AD5A0;
+ }
+ 
+ #rtwwwap_main_container .mdc-tab--active .mdc-tab__icon,.mdc-tab--active .mdc-tab__text-label {
+     color: #6200ee !important;
+ }
+ 
+ .rtwwap-card-text .rtwwwap_overview_card_head, .rtwwap-card-text .rtwwwap_overview_card_number
+ {
+     color:black;
+ }
+ 
+ .rtwwwap_custom_banner_product
+ {
+   box-shadow: 8px 8px 10px #53525a1f;
+  
+ }
+ 
+ .rtwwwap_custom_banner_copy_html
+ {
+ box-shadow: 0px 9px 8px #9a9696;
+ background-color: #e85050;
+ color: #ffffff;
+ }
+ .rtwwwap_banner_no{
+    background-color:  #5a5050;
+   color : white;
+ }
+ .rtwwwap_image_size_detail
+ {
+   color: teal ;
+ }
+ 
+ .rtwwwap_banner_copy_text{
+ background-color: #555;
+   color: #fff;
+ }
+ 
+ .rtwwwap_member_modal-content {
+   background-color: #101010;
+ }
+   
+ .rtwwwap_member_heading{
+     color: #9f9fbb;
+ }
+ 
+ .rtwwwap_member_close,.rtwwwap_close_button {
+     color: white;
+ }
+   
+   .rtwwwap_member_close:hover,
+   .rtwwwap_member_close:focus {
+     color: #000;
+    }
+   
+   .rtwwwap_member_modal-header {
+     background-color: #16161b;
+     color: white;
+   
+   }
+   .modal-footer {
+     background-color: #ffffff;
+     color: white;
+ }
+ 
+ .modal {
+     color: black !important;
+   }
+ 
+ .rtwwwap_download_qr{
+   box-shadow: 0px 0px 8px #9a9696;
+   background-color: #e85050;
+   color: #ffffff;
+ }
+ 
+ .rtwwwap_rqst_mail_sent{
+    color: green;
+   }
+ 
+ .rtwwwap_mlm_chain_not{
+     color: red;
+   }
+ .rtwwsm_back_to_wordpress {
+     background-color: #384c6d;
+ }
+ .rtwwwap-text h4 span{
+     background-color: #fff;
+ }
+   
+ 
+  
+   
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 

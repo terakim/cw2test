@@ -1,0 +1,158 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+
+
+.kboard-ocean-download-button-small,
+.kboard-ocean-download-button-small:link,
+.kboard-ocean-download-button-small:visited { display: inline-block; *display: inline; zoom: 1; margin: 0 !important; padding: 0 10px !important; height: 28px; line-height: 28px; font-size: 12px !important; font-weight: normal; color: white !important; background-image: none !important; background-color: #000000 !important; border: none; border-radius: 0; text-decoration: none; cursor: pointer; vertical-align: middle; text-shadow: none !important; }
+.kboard-ocean-download-button-small:hover,
+.kboard-ocean-download-button-small:focus,
+.kboard-ocean-download-button-small:active { display: inline-block; *display: inline; zoom: 1; margin: 0 !important; padding: 0 10px !important; height: 28px; line-height: 28px; font-size: 12px !important; font-weight: normal; color: white !important; background-image: none !important; background-color: #000000 !important; border: none; border-radius: 0; text-decoration: none; cursor: pointer; vertical-align: middle; text-shadow: none !important; }
+
+.kboard-ocean-download-cut-strings { width: auto; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal; }
+.kboard-ocean-download-poweredby { float: left; padding-bottom: 15px; width: 100%; font-size: 12px; }
+
+#kboard-ocean-download-list { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-ocean-download-list .kboard-header { float: left; margin-top: 0; width: 100%; }
+#kboard-ocean-download-list .kboard-category { float: left; padding-bottom: 5px; width: 100%; text-align: left; }
+#kboard-ocean-download-list .kboard-category .kboard-category-list { clear: both; float: left; margin: 0; padding: 0; width: 100%; list-style: none; border-left: 1px solid #e8eaec; line-height: 28px; background: url(./images/category-background.png) left bottom repeat-x; }
+#kboard-ocean-download-list .kboard-category .kboard-category-list li { float: left; margin: 0; padding: 0; border-top: 1px solid #e8eaec; border-right: 1px solid #e8eaec; border-bottom: 1px solid #e8eaec; color: #747474; background-color: #faf7f7; font-size: 13px; }
+#kboard-ocean-download-list .kboard-category .kboard-category-list li a { display: block; padding: 0 16px; color: black; text-decoration: none; }
+#kboard-ocean-download-list .kboard-category .kboard-category-list li.kboard-category-selected { border-bottom: 1px solid white; background-color: white; }
+#kboard-ocean-download-list .kboard-category .kboard-category-list li.kboard-category-selected a { color: #1a80b6; font-weight: bold; }
+#kboard-ocean-download-list .kboard-search { float: right; padding-bottom: 5px; width: 100%; text-align: center; }
+#kboard-ocean-download-list .kboard-search select { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 5px 2px; width: 80px; height: auto; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #e8eaec; vertical-align: middle; box-shadow: none; }
+#kboard-ocean-download-list .kboard-search input { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 6px 2px; width: 150px; height: auto; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #e8eaec; line-height: 12px; vertical-align: middle; box-shadow: none; }
+#kboard-ocean-download-list .kboard-tree-category-wrap { float: left; padding-bottom: 15px; width: 100%; }
+#kboard-ocean-download-list .kboard-tree-category-wrap select { display: inline; margin: 0 0 5px 0; padding: 0; width: 100%; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-ocean-download-list .kboard-tree-category-search .kboard-search-option-wrap.type-select { width: auto; }
+#kboard-ocean-download-list .kboard-tree-category-search .kboard-search-option-wrap.type-tab { width: 100%; }
+#kboard-ocean-download-list .kboard-tree-category { float: left; margin: 0; padding: 0; width: 100%; list-style: none; border: 0; overflow: hidden; background: url(./images/category-background.png) left bottom repeat-x; }
+#kboard-ocean-download-list .kboard-tree-category li { float: left; margin: 0; padding: 0; border-top: 1px solid #e8eaec; border-right: 1px solid #e8eaec; border-bottom: 1px solid #e8eaec; color: #747474; background-color: #faf7f7; font-size: 13px; }
+#kboard-ocean-download-list .kboard-tree-category li a { display: block; padding: 0 16px; color: black; text-decoration: none; }
+#kboard-ocean-download-list .kboard-tree-category li.kboard-category-selected { border-bottom: 1px solid white; background-color: white; }
+#kboard-ocean-download-list .kboard-tree-category li.kboard-category-selected a { color: #1a80b6; font-weight: bold; }
+#kboard-ocean-download-list .kboard-tree-category-search { float: left; width: 100%; }
+#kboard-ocean-download-list .kboard-tree-category-search .kboard-search-option-wrap { margin-right: 5px; float: left; }
+#kboard-ocean-download-list .kboard-list { float: left; margin: 0 !important; padding: 0 !important; width: 100%; list-style:none; border: 0; }
+#kboard-ocean-download-list .kboard-list img { display: inline; margin: 0; width: auto; height: auto; vertical-align: middle; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item { position: relative; margin: 0; padding: 0; height: 122px; border: 0; border-bottom: 1px solid #e8eaec; background: none; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-left { float: left; height: 122px; line-height: 122px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-left img { padding-left: 10px; width: 80px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center { position: absolute; left: 93px; right: 220px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-title { padding-top: 22px; font-size: 120%; font-weight: bold; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-title a { color: #0285c4; text-decoration: none; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-info { padding-top: 5px; color: #9a9a9a; font-size: 80%; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-info span { color: #0285c4; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-content { padding-top: 5px; font-size: 90%; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center .kboard-item-content a { color: #616161; text-decoration: none; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right { float: right; padding-right: 10px; font-size: 12px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kboard-item-download-icon { float: left; width: 56px; height: 122px; line-height: 122px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list { display: table-cell; padding-left: 10px; width: 120px; height: 122px; vertical-align: middle; overflow: hidden; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list .kboard-download-item { width: 120px; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list button { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0; font-size: 12px; font-weight: bold; line-height: 12px; text-align: left; border: none; background: none; background-color: white; border-radius: 2px; color: black; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list button:hover { color: #50afdd; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list a { display: inline-block; zoom: 1; height: 12px; line-height: 12px; font-weight: bold; color: #616161; text-decoration: none; }
+#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right .kbaord-item-download-list a:hover { color: #50afdd; }
+#kboard-ocean-download-list .kboard-pagination { float: left; padding: 15px 0; width: 100%; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages { float: left; margin: 0; padding: 0 0 1px 0; width: 100%; list-style: none; text-align: center; border: 0; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 1px; background: none; border: 0; list-style: none; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li a { color: black; padding: 5px 10px; border: 1px solid #e3e3e3; text-decoration: none; font-size: 12px; line-height: 27px; background-color: white; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.active a { font-weight: bold; border: 1px solid #50afdd; color: white; text-decoration: none; background-color: #50afdd; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li:before { display: none; }
+#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li:after { display: none; }
+#kboard-ocean-download-list .kboard-control { float: left; padding: 15px 0 1px 0; width: 100%; text-align: right; }
+
+#kboard-ocean-download-editor { overflow: hidden; }
+#kboard-ocean-download-editor select,
+#kboard-ocean-download-editor input { width: auto; height: auto; box-shadow: none; }
+#kboard-ocean-download-editor .kboard-header { float: left; width: 100%; border-top: 1px solid #545861; line-height: 0; }
+#kboard-ocean-download-editor .kboard-attr-row { float: left; padding: 5px 0; width: 100%; border-bottom: 1px solid #e3e3e3; background-color: white; }
+#kboard-ocean-download-editor .kboard-attr-title { float: left; border-bottom: 1px solid #e3e3e3; }
+#kboard-ocean-download-editor .kboard-attr-title input { display: inline-block; *display: inline; zoom: 1; padding: 6px 2px; font-size: 12px; width: 50%; color: #666666; border-radius: 0; border: 1px solid #e8eaec; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-name { display: inline; float: left; margin: 0; padding: 0 10px 0 20px; width: 120px; line-height: 30px; color: #545861; font-size: 12px; font-weight: bold; text-align: right; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-name img { display: inline; max-width: 100%; vertical-align: middle; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-name .attr-required-text { color: red; font-weight: normal; font-size: 12px; }
+#kboard-ocean-download-editor .kboard-attr-row.kboard-attr-content .attr-name { display: none; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value { margin-left: 140px; line-height: 30px; font-size: 12px; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value select { margin: 0; padding: 5px 2px; font-size: 12px; min-width: 130px; color: #666666; border-radius: 0; border: 1px solid #e8eaec; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value input[type=text],
+#kboard-ocean-download-editor .kboard-attr-row .attr-value input[type=password] { margin: 0; padding: 6px 2px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #e8eaec; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value input[type=radio],
+#kboard-ocean-download-editor .kboard-attr-row .attr-value input[type=checkbox] { margin-top: 8px; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value input[type=file] { display: inline; margin: 0; padding: 0; width: 30%; font-size: 12px; color: #666666; border-radius: 0; border: 0; box-shadow: none; background-color: transparent; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value .kboard-tree-category-wrap { float: left; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value .kboard-tree-category-wrap select { clear: both; float: left; margin-bottom: 5px; width: 30%; }
+#kboard-ocean-download-editor .kboard-attr-row .attr-value .kboard-rating { margin-top: 6px; }
+#kboard-ocean-download-editor .kboard-content { float: left; margin: 0; padding: 9px 0; width: 100%; background-color: white; }
+#kboard-ocean-download-editor .kboard-content .editor-textarea { display: inline; margin: 0; padding: 0; width: 98%; height: 250px; border-radius: 0; border: 1px solid #e8eaec; font-size: 12px; }
+#kboard-ocean-download-editor .kboard-control { float: left; padding: 15px 0; width: 100%; }
+#kboard-ocean-download-editor .kboard-control .left { position: static; float: left; }
+#kboard-ocean-download-editor .kboard-control .right { position: static; float: right; width: 50%; text-align: right; }
+#kboard-ocean-download-editor.confirm { margin: 100px auto; max-width: 590px; }
+#kboard-ocean-download-editor.confirm input[type=password] { width: 100%; box-sizing: border-box; }
+
+#kboard-ocean-download-document { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-ocean-download-document hr { margin: 0; padding: 0; width: 100%; height: 0; border: 0; border-top: 1px dashed #dbdada; background-color: transparent; }
+#kboard-ocean-download-document .kboard-header { float: left; margin-top: 0; width: 100%; }
+#kboard-ocean-download-document .kboard-document-wrap { float: left; width: 100%; background-color: white; }
+#kboard-ocean-download-document .kboard-title { float: left; width: 100%; }
+#kboard-ocean-download-document .kboard-title p { margin: 0; padding: 12px 22px; color: #545861; font-weight: bold; font-size: 20px; font-weight: bold; }
+#kboard-ocean-download-document .kboard-title .kboard-rating { margin-left: 15px; }
+#kboard-ocean-download-document .kboard-detail { clear: both; float: left; width: 100%; border-top: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3; background-color: #f4f4f4; font-size: 12px; }
+#kboard-ocean-download-document .kboard-detail .detail-attr { display: inline-block; *display: inline; zoom: 1; float: left; margin: 0; padding: 12px 35px 12px 22px; }
+#kboard-ocean-download-document .kboard-detail .detail-attr .detail-name { float: left; font-weight: bold; color: #545861; text-align: right; }
+#kboard-ocean-download-document .kboard-detail .detail-attr .detail-value { float: left; padding-left: 20px; color: #545861; }
+#kboard-ocean-download-document .kboard-detail .detail-attr .detail-value img { vertical-align: middle; }
+#kboard-ocean-download-document .kboard-content { clear: both; float: left; width: 100%; min-height: 200px; }
+#kboard-ocean-download-document .kboard-content .content-view { margin: 0; padding: 22px; word-break: break-all; }
+#kboard-ocean-download-document .kboard-content .content-view iframe { max-width: 100%; }
+#kboard-ocean-download-document .kboard-content .content-view img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-ocean-download-document .kboard-content .content-view hr { margin: 10px 0; padding: 0; height: 1px; border: 0; background-color: #f1f1f1; }
+#kboard-ocean-download-document .kboard-content .content-view p { margin: 0 0 0.75em; }
+#kboard-ocean-download-document .kboard-content .content-view p:last-child { margin: 0; }
+#kboard-ocean-download-document .kboard-content .content-view .thumbnail-area { text-align: center; }
+#kboard-ocean-download-document .kboard-content .content-view .aligncenter { display: block; margin-right: auto; margin-left: auto; }
+#kboard-ocean-download-document .kboard-content .content-view .alignright { float:right; }
+#kboard-ocean-download-document .kboard-content .content-view .alignleft { float: left; }
+#kboard-ocean-download-document .kboard-document-action { padding: 0 22px 5px 22px; overflow: hidden; line-height: 1; }
+#kboard-ocean-download-document .kboard-document-action .left { position: static; float: left; }
+#kboard-ocean-download-document .kboard-document-action .right { position: static; float: right; text-align: right; }
+#kboard-ocean-download-document .kboard-button-action { margin: 0 0 5px 0; padding: 4px 5px; font-size: 12px; font-weight: normal; line-height: 12px; text-align: left; border: 1px solid #ededed; background: none; background-color: white; border-radius: 2px; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; }
+#kboard-ocean-download-document .kboard-button-action span { position: static; display: inline; margin: 0; padding: 0; font-size: 12px; line-height: 12px; }
+#kboard-ocean-download-document .kboard-button-like { color: #ff5959; }
+#kboard-ocean-download-document .kboard-button-unlike { color: #3d62aa; }
+#kboard-ocean-download-document .kboard-button-print { color: gray; }
+#kboard-ocean-download-document .kboard-attach-group { clear: both; padding: 22px; }
+#kboard-ocean-download-document .kboard-attach { clear: both; padding: 5px 0 0 0; }
+#kboard-ocean-download-document .kboard-attach button { display: inline-block; *display: inline; zoom: 1;  margin: 0; padding:0; font-size: 100%; border: none; background: none; color: #616161; text-align: left; text-decoration: none; text-shadow: none; font-weight: bold; }
+#kboard-ocean-download-document .kboard-attach button:hover { color: #50afdd; }
+#kboard-ocean-download-document .kboard-comments-area { float: left; width: 100%; }
+#kboard-ocean-download-document .kboard-control { float: left; padding: 15px 0;  width: 100%; }
+#kboard-ocean-download-document .kboard-control .left { position: static; float: left; }
+#kboard-ocean-download-document .kboard-control .right { position: static; float: right; text-align: right; }
+
+#kboard-ocean-download-latest { float: left; width: 100%; list-style: none; margin: 0; padding: 0; }
+#kboard-ocean-download-latest .kboard-ocean-download-latest-item { padding: 0 0 6px; list-style: none; }
+#kboard-ocean-download-latest .kboard-ocean-download-latest-item a { font-size: 100%; text-decoration: none; color: #555555; }
+#kboard-ocean-download-latest .kboard-ocean-download-latest-item a:hover { color: #1a80b6; }
+#kboard-ocean-download-latest .kboard-ocean-download-latest-item span { font-size: 75%; color: #999999; }
+
+@media screen and (max-width: 600px) {
+	#kboard-ocean-download-editor .kboard-attr-row input[type=text],
+	#kboard-ocean-download-editor .kboard-attr-row input[type=file],
+	#kboard-ocean-download-editor .kboard-attr-row input[type=password] { width: 50%; }
+	#kboard-ocean-download-list .kboard-search input { width: 80px; }
+	#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-center { right: 0; }
+	#kboard-ocean-download-list .kboard-list .kboard-list-item .kboard-wrap-right { display: none; }
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li { display: none; }
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.first-page,
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.last-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.prev-page,
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.next-page { display: inline-block; *display: inline; zoom: 1; }
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.prev-page a,
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.next-page a { padding: 6px 18px; }
+	#kboard-ocean-download-list .kboard-pagination .kboard-pagination-pages li.active { display: inline-block; *display: inline; zoom: 1; }
+}

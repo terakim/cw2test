@@ -1,0 +1,232 @@
+@charset "utf-8";
+/**
+ * @author https://www.cosmosfarm.com/
+ */
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800);
+
+.kboard-play-video-button-small { font-family: Open Sans,Apple SD Gothic Neo,Malgun Gothic,arial,sans-serif; }
+.kboard-play-video-button-small,
+.kboard-play-video-button-small:link,
+.kboard-play-video-button-small:visited { position: relative; display: inline-block; *display: inline; zoom: 1; margin: 0 !important; padding: 0 10px !important; height: 28px; line-height: 28px; font-size: 13px !important; font-weight: normal; color: black !important; background-image: none !important; background-color: transparent !important; border: 1px solid #e3e3e3; border-radius: 0; text-decoration: none !important; cursor: pointer; vertical-align: middle; text-shadow: none !important; box-shadow: none !important; }
+.kboard-play-video-button-small:hover,
+.kboard-play-video-button-small:focus,
+.kboard-play-video-button-small:active { position: relative; display: inline-block; *display: inline; zoom: 1; margin: 0 !important; padding: 0 10px !important; height: 28px; line-height: 28px; font-size: 13px !important; font-weight: normal; color: white !important; background-image: none !important; background-color: #077fee !important; border: 1px solid #077fee; border-radius: 0; text-decoration: none !important; cursor: pointer; vertical-align: middle; text-shadow: none !important; box-shadow: none !important; }
+
+.kboard-play-video-poweredby { float: left; padding-bottom: 15px; width: 100%; font-size: 12px; }
+.kboard-play-video-new-notify {display: inline-block; zoom: 1; padding: 2px 2px; line-height: 10px; font-size: 10px; color: white; background-color: #f61b5d; font-weight: normal;}
+
+.kboard-play-video-container { position: relative; height: 0; overflow: hidden; background-color: black; }
+.kboard-play-video-container .wp-video,
+.kboard-play-video-container video,
+.kboard-play-video-container iframe,
+.kboard-play-video-container object,
+.kboard-play-video-container embed { position: absolute; top: 0; left: 0; margin: 0; padding: 0; width: 100%; height: 100%; border: 0; }
+
+.kboard-play-video-container .wp-video, video.wp-video-shortcode, .mejs-container, .mejs-overlay.load { width: 100% !important; height: 100% !important; }
+.kboard-play-video-container .mejs-container { padding-top: 56.25%; min-width: 0 !important; }
+.kboard-play-video-container .wp-video,
+.kboard-play-video-container video.wp-video-shortcode { max-width: 100% !important; }
+.kboard-play-video-container video.wp-video-shortcode { position: relative; }
+.kboard-play-video-container .mejs-mediaelement { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
+.kboard-play-video-container .mejs-controls { display: flex; }
+.kboard-play-video-container .mejs-button,
+.kboard-play-video-container .mejs-time,
+.kboard-play-video-container .mejs-time-rail { float: left; }
+.kboard-play-video-container .mejs-overlay-play { top: 0; right: 0; bottom: 0; left: 0; width: auto !important; height: auto !important; }
+.kboard-play-video-container .arve-wrapper,
+.kboard-play-video-container .arve-embed-container { position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin: 0; }
+
+.kboard-ell { display: -webkit-box; overflow: hidden; word-break: break-all; text-overflow: ellipsis; -webkit-line-clamp: 1; -webkit-box-orient: vertical; }
+
+#kboard-play-video-list { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-play-video-list * { font-family: Open Sans,Apple SD Gothic Neo,Malgun Gothic,arial,sans-serif; }
+#kboard-play-video-list .kboard-header { float: left; width: 100%; }
+#kboard-play-video-list .kboard-category { float: left; padding-bottom: 5px; width: 100%; }
+#kboard-play-video-list .kboard-category select { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0; font-size: 12px; width: 120px; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #e3e3e3; box-shadow: none; }
+#kboard-play-video-list .kboard-tree-category-wrap { overflow: hidden; }
+#kboard-play-video-list .kboard-tree-category-wrap select { display: inline; margin: 0 0 5px 0; padding: 0; width: 100%; height: 28px; line-height: 28px; font-size: 12px; color: #666666; border-radius: 0; border: 1px solid #f1f1f1; background: white; vertical-align: middle; box-shadow: none; box-sizing: border-box; text-indent: 0; -webkit-appearance: menulist; -moz-appearance: menulist; appearance: menulist; }
+#kboard-play-video-list .kboard-tree-category-search .kboard-search-option-wrap.type-select { width: auto; }
+#kboard-play-video-list .kboard-tree-category-search .kboard-search-option-wrap.type-tab { width: 100%; }
+#kboard-play-video-list .kboard-tree-category { float: left; margin: 0 0 5px 0; padding: 0; width: 100%; list-style: none; border: 0; background-color: #f9f9f9; overflow: hidden; }
+#kboard-play-video-list .kboard-tree-category li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 5px; border: 0; list-style: none; }
+#kboard-play-video-list .kboard-tree-category li::before,
+#kboard-play-video-list .kboard-tree-category li::after { display: none; }
+#kboard-play-video-list .kboard-tree-category li a { display: block; padding: 10px 10px 8px 10px; font-size: 13px; border: 0; border-bottom: 2px solid transparent; text-decoration: none; text-shadow: none; box-shadow: none; color: #515151; }
+#kboard-play-video-list .kboard-tree-category li.kboard-category-selected a { font-weight: bold; border-bottom: 2px solid #545861; color: #545861; }
+#kboard-play-video-list .kboard-tree-category-search { float: left; width: 100%; }
+#kboard-play-video-list .kboard-tree-category-search .kboard-search-option-wrap { margin-right: 5px; float: left; }
+#kboard-play-video-list .kboard-list { float: left; margin: 0; padding: 0; width: 100%; list-style: none; }
+#kboard-play-video-list .kboard-list a { text-decoration: none; border: 0; text-shadow: none; box-shadow: none; }
+#kboard-play-video-list .kboard-list-item { position: relative; float: left; margin: 0 1% 0 0; padding: 0 0 20px 0; width: 24%; list-style: none; border: 0; cursor: pointer; background-color: white; }
+#kboard-play-video-list .kboard-list-item .kboard-list-thumbnail { padding-bottom: 56.25%; background-size: cover; background-position: center; background-color: black; }
+#kboard-play-video-list .kboard-list-item .kboard-list-title { margin: 5px 0; color: #101010; font-size: 14px; line-height: 22px; height: 45px; -webkit-line-clamp: 2; }
+#kboard-play-video-list .kboard-list-item .kboard-list-title img { display: inline; margin: 0; padding: 0; max-width: 100%; vertical-align: middle; }
+#kboard-play-video-list .kboard-list-item .kboard-video-info { line-height: 20px; font-size: 12px; color: #767676; }
+#kboard-play-video-list .kboard-list-item .kboard-video-info .avatar { display: inline; margin: 0 5px 0 0; vertical-align: middle; border-radius: 50%; }
+#kboard-play-video-list .kboard-list-item .kboard-list-vote { position: absolute; right: 2px; top: 2px; padding: 2px 4px; font-size: 11px; color: white; opacity: 0.7; border-radius: 5px; }
+#kboard-play-video-list .kboard-list-item .kboard-list-vote img { display: inline; width: 12px; vertical-align: middle; }
+#kboard-play-video-list .kboard-list-item .kboard-selected-background { display: none; position: absolute; left: 0; top: 0; width: 100%; background-color: black; background-color: RGBA(0,0,0,0.7); }
+#kboard-play-video-list .kboard-list-item .kboard-selected-wrap { position: relative; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden; }
+#kboard-play-video-list .kboard-list-item .kboard-selected-table { display: block; display: table; position: absolute; left: 0; top: 0; margin: 0; padding: 0; width: 100%; height: 100%; }
+#kboard-play-video-list .kboard-list-item .kboard-selected-table img { display: inline; margin: 0; border: 0; vertical-align: middle; }
+#kboard-play-video-list .kboard-list-item .kboard-selected-table .kboard-selected-cell { display: block; display: table-cell; vertical-align: middle; font-size: 20px; text-align: center; color: white; }
+#kboard-play-video-list .kboard-list-item:hover .kboard-list-thumbnail { opacity: 0.7; transition-duration: 0.5s; }
+#kboard-play-video-list .kboard-list-item:hover .kboard-list-title { color: #077fee; }
+#kboard-play-video-list .kboard-list-item.kboard-selected .kboard-selected-background { display: block; }
+#kboard-play-video-list .kboard-pagination { float: left; padding: 15px 0; width: 100%; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages { float: left; margin: 0; padding: 0; width: 100%; line-height: 40px; list-style: none; text-align: center; border: 0; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages li { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0 1px; background: none; border: 0; list-style: none; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages li a { padding: 6px 11px; border: 1px solid #dddddd; text-decoration: none; font-size: 13px; color: #999999; background-color: white; box-shadow: none; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.active a { border: 1px solid #077fee; color: white; background-color: #077fee; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages li:before { display: none; }
+#kboard-play-video-list .kboard-pagination .kboard-pagination-pages li:after { display: none; }
+#kboard-play-video-list .kboard-search { float: left; padding-bottom: 5px; width: 100%; text-align: center; }
+#kboard-play-video-list .kboard-search select { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0; font-size: 12px; width: 80px; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #e3e3e3; vertical-align: middle; box-shadow: none; }
+#kboard-play-video-list .kboard-search input { display: inline-block; *display: inline; zoom: 1; margin: 0; padding: 0;  font-size: 12px;width: 120px; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 1px solid #e3e3e3; vertical-align: middle; box-shadow: none; }
+#kboard-play-video-list .kboard-control { float: left; padding: 15px 0 1px 0; width: 100%; text-align: right; }
+#kboard-play-video-list.play-video-row1 .kboard-list-item { margin: 0; width: 100%; }
+#kboard-play-video-list.play-video-row2 .kboard-list-item { margin: 0 1% 0 0; width: 49%; }
+#kboard-play-video-list.play-video-row3 .kboard-list-item { margin: 0 1% 0 0; width: 32.3333333333%; }
+#kboard-play-video-list.play-video-row4 .kboard-list-item { margin: 0 1% 0 0; width: 24%; }
+#kboard-play-video-list.play-video-row5 .kboard-list-item { margin: 0 1% 0 0; width: 19%; }
+
+#kboard-play-video-editor { overflow: hidden; }
+#kboard-play-video-editor select { display: inline; margin: 0; padding: 0; font-size: 12px; width: 30%; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 0; border-bottom: 1px solid #cccccc; box-shadow: none; background-color: transparent; }
+#kboard-play-video-editor input[type=text],
+#kboard-play-video-editor input[type=email],
+#kboard-play-video-editor input[type=password] { display: inline; margin: 0; padding: 0; font-size: 12px; width: 30%; height: 28px; line-height: 28px; color: #666666; border-radius: 0; border: 0; border-bottom: 1px solid #cccccc; box-shadow: none; background-color: transparent; }
+#kboard-play-video-editor input[type=file] { display: inline; margin: 0; padding: 0; width: 30%; font-size: 12px; color: #666666; border-radius: 0; border: 0; box-shadow: none; background-color: transparent; }
+#kboard-play-video-editor .kboard-attr-row { float: left; padding: 5px 0; width: 100%; background-color: white; font-family: Open Sans,Apple SD Gothic Neo,Malgun Gothic,arial,sans-serif; }
+#kboard-play-video-editor .kboard-attr-title { float: left; }
+#kboard-play-video-editor .kboard-attr-title input { width: 80%; }
+#kboard-play-video-editor .kboard-attr-row .attr-name { display: inline; float: left; margin: 0; padding: 0 10px 0 20px; width: 120px; line-height: 30px; color: #545861; font-size: 12px; font-weight: bold; }
+#kboard-play-video-editor .kboard-attr-row .attr-name img { display: inline; margin: 0; padding: 0; max-width: 100%; vertical-align: middle; }
+#kboard-play-video-editor .kboard-attr-row .attr-name .attr-required-text { color: red; font-weight: normal; font-size: 12px; }
+#kboard-play-video-editor .kboard-attr-row.kboard-attr-content .attr-name { display: none; }
+#kboard-play-video-editor .kboard-attr-row .attr-value { margin: 0 0 0 120px; padding: 0; font-size: 12px; line-height: 30px; }
+#kboard-play-video-editor .kboard-attr-row .attr-value .attr-value-option { padding-right: 20px; cursor: pointer; }
+#kboard-play-video-editor .kboard-attr-row .attr-value .text-bold { font-weight: bold; }
+#kboard-play-video-editor .kboard-attr-row .attr-value .kboard-tree-category-wrap { float: left; width: 30%; }
+#kboard-play-video-editor .kboard-attr-row .attr-value .kboard-tree-category-wrap select { clear: both; float: left; margin-bottom: 5px; width: 100%; }
+#kboard-play-video-editor .kboard-content { float: left; padding: 9px 0; width: 100%; border-bottom: 1px solid #e3e3e3; background-color: white; }
+#kboard-play-video-editor .kboard-content .editor-textarea { display: inline; margin: 0; padding: 5px; width: 100%; min-width: 100%; max-width: 100%; height: 250px; min-height: 0; font-size: 13px; border: 1px solid #dcdcdc; box-shadow: none; background: none; background-color: transparent; box-sizing: border-box; text-indent: 0; }
+#kboard-play-video-editor .kboard-control { float: left; padding: 15px 0; width: 100%; }
+#kboard-play-video-editor .kboard-control .left { position: static; float: left; }
+#kboard-play-video-editor .kboard-control .right { position: static; float: right; width: 50%; text-align: right; }
+#kboard-play-video-editor.confirm { margin: 100px auto; max-width: 590px; }
+#kboard-play-video-editor.confirm input[type=password] { width: 100%; box-sizing: border-box; }
+
+#kboard-play-video-document { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-play-video-document * { font-family: Open Sans,Apple SD Gothic Neo,Malgun Gothic,arial,sans-serif; }
+#kboard-play-video-document .left { position: static; float: left; }
+#kboard-play-video-document .right { position: static; float: right; text-align: right; }
+#kboard-play-video-document .kboard-play-video-wrap {margin: 0 auto;width: 100%;}
+#kboard-play-video-document .kboard-document-wrap { float: left; width: 100%; }
+#kboard-play-video-document .kboard-document-top { display: table; padding-top: 10px; width: 100%; overflow: hidden; }
+#kboard-play-video-document .kboard-document-top .left,
+#kboard-play-video-document .kboard-document-top .right { float: none; display: table-cell; vertical-align: top; }
+#kboard-play-video-document .kboard-title { float: left; width: 100%; }
+#kboard-play-video-document .kboard-title h1 { margin: 0; padding: 10px 0; color: #191919; font-size: 26px; font-weight: normal; }
+#kboard-play-video-document .kboard-user { padding-bottom: 20px; font-size: 13px; }
+#kboard-play-video-document .kboard-user .avatar { display: inline; margin: 0 5px 0 0; vertical-align: middle; border-radius: 50%; }
+#kboard-play-video-document .kboard-attr { padding-bottom: 2px; font-size: 13px; }
+#kboard-play-video-document .kboard-attr .kboard-attr-name { display: inline-block; width: 80px; font-weight: bold; }
+#kboard-play-video-document .kboard-vote { float: right; margin-top: 10px; width: 72px; text-align: center; }
+#kboard-play-video-document .kboard-vote a { display: inline-block; *display: inline; zoom: 1; padding: 5px 0; width: 100%; border: 1px solid #e3e3e3; text-decoration: none; background: none; text-shadow: none; box-shadow: none; transition-duration: .3s; color: #191919; outline: 0; }
+#kboard-play-video-document .kboard-vote a:hover,
+#kboard-play-video-document .kboard-vote a:focus,
+#kboard-play-video-document .kboard-vote a:active { opacity: 0.8; }
+#kboard-play-video-document .kboard-vote img { display: inline; width: 30px; }
+#kboard-play-video-document .kboard-content { clear: both; float: left; width: 100%; min-height: 200px; }
+#kboard-play-video-document .kboard-content .content-view { margin: 0; padding: 22px; word-break: break-all; }
+#kboard-play-video-document .kboard-content .content-view iframe { max-width: 100%; }
+#kboard-play-video-document .kboard-content .content-view img { display: inline; margin: 0; vertical-align: middle; max-width: 100%; }
+#kboard-play-video-document .kboard-content .content-view hr { margin: 10px 0; padding: 0; height: 1px; border: 0; background-color: #f1f1f1; }
+#kboard-play-video-document .kboard-content .content-view p { margin: 0 0 0.75em; }
+#kboard-play-video-document .kboard-content .content-view p:last-child { margin: 0; }
+#kboard-play-video-document .kboard-content .content-view .thumbnail-area { text-align: center; }
+#kboard-play-video-document .kboard-content .content-view .aligncenter { display: block; margin-right: auto; margin-left: auto; }
+#kboard-play-video-document .kboard-content .content-view .alignright { float:right; }
+#kboard-play-video-document .kboard-content .content-view .alignleft { float: left; }
+#kboard-play-video-document .kboard-document-action { clear: both; padding: 0 0 5px 0; overflow: hidden; line-height: 1; }
+#kboard-play-video-document .kboard-document-action .left { position: static; float: left; }
+#kboard-play-video-document .kboard-document-action .right { position: static; float: right; text-align: right; }
+#kboard-play-video-document .kboard-attach { margin: 0; padding: 10px 0 5px 0; font-size: 12px; overflow: hidden; line-height: 1; border-top: 1px dashed #ededed; }
+#kboard-play-video-document .kboard-button-action { margin: 0 0 5px 0; padding: 4px 5px; font-size: 12px; font-weight: normal; line-height: 12px; text-align: left; border: 1px solid #ededed; background: none; background-color: transparent; border-radius: 2px; letter-spacing: normal; cursor: pointer; vertical-align: middle; text-shadow: none; box-shadow: none; }
+#kboard-play-video-document .kboard-button-print { color: gray; }
+#kboard-play-video-document .kboard-button-download { color: gray; }
+#kboard-play-video-document .kboard-comments-area { float: left; padding-top: 15px; width: 100%; }
+#kboard-play-video-document .kboard-document-navi { float: left; padding-top: 15px; width: 100%; }
+#kboard-play-video-document .kboard-document-navi a { display: block; text-decoration: none; border: 0; font-size: 13px; line-height: 20px; box-shadow: none; color: #545861; }
+#kboard-play-video-document .kboard-document-navi .navi-document-title { display: block; }
+#kboard-play-video-document .kboard-document-navi .navi-arrow { position: absolute; display: block; }
+#kboard-play-video-document .kboard-document-navi .kboard-prev-document { position: relative; float: left; width: 50%; }
+#kboard-play-video-document .kboard-document-navi .kboard-prev-document .navi-document-title { padding-left: 15px; }
+#kboard-play-video-document .kboard-document-navi .kboard-prev-document .navi-arrow { left: 0; top: 0; }
+#kboard-play-video-document .kboard-document-navi .kboard-next-document { position: relative; float: right; width: 50%; text-align: right; }
+#kboard-play-video-document .kboard-document-navi .kboard-next-document .navi-document-title { padding-right: 15px; }
+#kboard-play-video-document .kboard-document-navi .kboard-next-document .navi-arrow { right: 0; top: 0; }
+#kboard-play-video-document .kboard-control { float: left; padding: 15px 0;  width: 100%; }
+
+#kboard-play-video-latest { display: inline-block; *display: inline; zoom: 1; margin: 0; width: 100%; }
+#kboard-play-video-latest * { font-family: Open Sans,Apple SD Gothic Neo,Malgun Gothic,arial,sans-serif; }
+#kboard-play-video-latest .kboard-list { float: left; margin: 0; padding: 0; width: 100%; list-style: none; }
+#kboard-play-video-latest .kboard-list a { text-decoration: none; border: 0; text-shadow: none; box-shadow: none; }
+#kboard-play-video-latest .kboard-list-item { position: relative; float: left; margin: 0 1% 0 0; padding: 0 0 20px 0; width: 49%; list-style: none; border: 0; cursor: pointer; background-color: white; }
+#kboard-play-video-latest .kboard-list-item .kboard-list-thumbnail { padding-bottom: 56.25%; background-size: cover; background-position: center; background-color: black; }
+#kboard-play-video-latest .kboard-list-item .kboard-list-title { margin: 5px 0; color: #101010; font-size: 14px; line-height: 22px; height: 22px; -webkit-line-clamp: 1; }
+#kboard-play-video-latest .kboard-list-item .kboard-list-title img { display: inline; margin: 0; padding: 0; max-width: 100%; vertical-align: middle; }
+#kboard-play-video-latest .kboard-list-item .kboard-video-info { line-height: 20px; font-size: 12px; color: #767676; }
+#kboard-play-video-latest .kboard-list-item .kboard-video-info .avatar { display: inline; margin: 0 5px 0 0; vertical-align: middle; border-radius: 50%; }
+#kboard-play-video-latest .kboard-list-item .kboard-list-vote { position: absolute; right: 2px; top: 2px; padding: 2px 4px; font-size: 11px; color: white; opacity: 0.7; border-radius: 5px; }
+#kboard-play-video-latest .kboard-list-item .kboard-list-vote img { display: inline; width: 12px; vertical-align: middle; }
+#kboard-play-video-latest .kboard-list-item .kboard-selected-background { display: none; position: absolute; left: 0; top: 0; width: 100%; background-color: black; background-color: RGBA(0,0,0,0.7); }
+#kboard-play-video-latest .kboard-list-item .kboard-selected-wrap { position: relative; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden; }
+#kboard-play-video-latest .kboard-list-item .kboard-selected-table { display: block; display: table; position: absolute; left: 0; top: 0; margin: 0; padding: 0; width: 100%; height: 100%; }
+#kboard-play-video-latest .kboard-list-item .kboard-selected-table img { display: inline; margin: 0; border: 0; vertical-align: middle; }
+#kboard-play-video-latest .kboard-list-item .kboard-selected-table .kboard-selected-cell { display: block; display: table-cell; vertical-align: middle; font-size: 20px; text-align: center; color: white; }
+#kboard-play-video-latest .kboard-list-item:hover .kboard-list-thumbnail { opacity: 0.7; transition-duration: 0.5s; }
+#kboard-play-video-latest .kboard-list-item:hover .kboard-list-title { color: #077fee; }
+#kboard-play-video-latest .kboard-list-item.kboard-selected .kboard-selected-background { display: block; }
+#kboard-play-video-latest.play-video-row1 .kboard-list-item { margin: 0; width: 100%; }
+#kboard-play-video-latest.play-video-row2 .kboard-list-item { margin: 0 1% 0 0; width: 49%; }
+#kboard-play-video-latest.play-video-row3 .kboard-list-item { margin: 0 1% 0 0; width: 32.3333333333%; }
+#kboard-play-video-latest.play-video-row4 .kboard-list-item { margin: 0 1% 0 0; width: 24%; }
+#kboard-play-video-latest.play-video-row5 .kboard-list-item { margin: 0 1% 0 0; width: 19%; }
+
+@media screen and (max-width: 600px) {
+    #kboard-play-video-list .kboard-category { padding: 0; width: 100%; text-align: center; }
+    #kboard-play-video-list .kboard-category select { margin-bottom: 5px; width: 100%; }
+    #kboard-play-video-list .kboard-search { clear: both; float: left; width: 100%; text-align: center; }
+    #kboard-play-video-list .kboard-search select { float: left; margin-right: 1%; width: 29%; }
+    #kboard-play-video-list .kboard-search input { float: left; margin-right: 1%; width: 49%; }
+    #kboard-play-video-list .kboard-search button { float: left; width: 20%; }
+    #kboard-play-video-list .kboard-list-item { margin: 0; width: 100%; }
+    #kboard-play-video-list .kboard-list-item .kboard-list-title { line-height: 22px; height: 22px; -webkit-line-clamp: 1; }
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li { display: none; }
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.first-page,
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.last-page { display: inline-block; *display: inline; zoom: 1; }
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.prev-page,
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.next-page { display: inline-block; *display: inline; zoom: 1; }
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.prev-page a,
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.next-page a { padding: 6px 18px; }
+    #kboard-play-video-list .kboard-pagination .kboard-pagination-pages li.active { display: inline-block; *display: inline; zoom: 1; }
+    
+    #kboard-play-video-editor select,
+    #kboard-play-video-editor input[type=text],
+    #kboard-play-video-editor input[type=email],
+    #kboard-play-video-editor input[type=file],
+    #kboard-play-video-editor input[type=password] { width: 100%; }
+    #kboard-play-video-editor .kboard-attr-row { padding: 10px 0; }
+    #kboard-play-video-editor .kboard-attr-row .attr-name { padding: 0; width: 100%; font-size: 14px; }
+    #kboard-play-video-editor .kboard-attr-row .attr-value { margin: 0; font-size: 12px; line-height: 30px; }
+
+    #kboard-play-video-document .kboard-play-video-wrap {width: 100% !important;}
+    #kboard-play-video-document .kboard-title p { font-size: 20px; }
+    #kboard-play-video-document .kboard-detail .detail-attr { padding: 5px 10px 5px 0; }
+    #kboard-play-video-document .kboard-document-navi .kboard-prev-document { width: 100%; }
+    #kboard-play-video-document .kboard-document-navi .kboard-next-document { margin-top: 10px; float: left; width: 100%; text-align: left; }
+    
+    #kboard-play-video-latest .kboard-list-item { margin: 0; width: 100%; }
+}

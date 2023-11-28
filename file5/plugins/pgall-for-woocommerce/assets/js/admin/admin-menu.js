@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){"use strict";a("a[href=pafw_apply_service]").on("click",function(a){a.preventDefault(),a.stopPropagation(),window.open(_pafw_admin_menu.apply_service_url,"_blank")}),a("a[href=pafw_manual]").on("click",function(a){a.preventDefault(),a.stopPropagation(),window.open(_pafw_admin_menu.pafw_manual,"_blank")})});

@@ -1,0 +1,367 @@
+.rtwwwap_rank_name{
+   background: linear-gradient(-47deg, #23a2cf, #3a3a43, #23a6d5, #3a3a43);
+}
+.rtwwwap_template_body{
+    background-color: #202029;
+   /* color: rgba(255,255,255,0.5); */
+}
+*, ::after, ::before {
+   box-sizing: border-box;
+}
+
+.rtwwwap-login-form-logo {
+  background-color: #202029;
+}
+
+.rtwwwap-payment-detail-btn {
+   text-align: center;
+}
+.rtwwwap-right-section .mdc-button, #rtwwwap_generate_qr {
+  box-shadow: 0px 17px 10px -10px rgba(0,0,0,0.4) !important;
+   background-image: linear-gradient(166deg,#00a1ff 0%,#3a647d 79%) !important;
+  
+}
+.rtwwwap_generate_link_text_wrapper h4{
+   color: #fff;
+}
+#rtwwwap_affiliate_body {
+   background-color: #282831f2;
+}
+#rtwwwap_affiliate_body .rtwwwap-request-section .mdc-card, #rtwwwap_affiliate_body .rtwwwap-payment-method-wrapper .mdc-card, #rtwwwap_affiliate_body .rtwwwap-chart-wrapper-row .mdc-card {
+   background-color: #202029;
+}
+.rtwwwap-bank-deatil, .rtwwwap-paypal-deatil, .rtwwwap-stripe-deatil {
+   background-color: #272730;
+}
+.rtwwwap-dynamic-bannner-wrapper.mdc-elevation--z9 {
+   background: white;
+}
+.mdc-list.rtwwwap-navbar a{
+   color: rgba(255, 255, 255, 0.5);
+ ;
+}
+.mdc-list.rtwwwap-navbar a i {
+   color: rgba(255,255,255,0.5);
+   
+}
+.mdc-list.rtwwwap-navbar a:hover {
+   background-color: rgba(255,255,255,0.1);;
+}
+.mdc-list-item.rtwwwap-navbar-active {
+   background: #3a3a43;
+   color: #fff !important;
+   font-weight: bold;
+}
+.rtwwwa-submenu-active{
+   color: red;
+}
+
+.mdc-list-item.rtwwwap-navbar-active i{
+   color: #fff !important;
+}
+h4.mdc-drawer__title.rtwwwap-title {
+   color: white;
+   font-size: 1.5rem;
+}
+
+.rtwwwap-card1 .rtwwwap-card-icon i{
+   color:#cd5390 ;
+}
+.rtwwwap-card2 .rtwwwap-card-icon i{
+   color:#f78b00 ;
+}
+.rtwwwap-card3 .rtwwwap-card-icon i{
+   color:#91c714 ;
+}
+.rtwwwap-card4 .rtwwwap-card-icon i{
+   color:#fec533 ;
+}
+.rtwwwap-card5 .rtwwwap-card-icon i{
+   color:#35b0fa ;
+}
+.rtwwwwap_header {
+  background: #0c3581;
+}
+.rtwwwap-msg-card h3 {
+   background: linear-gradient(60deg,#0c3581,#3584e5);
+   color: #fff;
+}
+
+#rtwwwap_main_container .rtwwwap-body .rtwwwap_sidebar_wrapper {
+   background-color: #202029;
+}
+
+#rtwwwap-overview-wrapper .rtwwwap-grid-cell {
+  background-color: #202029;
+}
+.rtwwwap-payout-grid-cell{
+   background: #202029;
+}
+.rtwwwap-right p {
+ color: black;
+}
+.rtwwwap-progress {
+  background: #c8c8c8;
+}
+
+
+/* payout css */
+
+
+/* profile css start */
+.rtwwwap-payment-input-box {
+   background: #3a3a43;
+ 
+}
+.rtwwwap-login-form-title {
+ color: rgba(255,255,255,0.5);
+}
+
+.rtwwwap-input-padding  .mdc-text-field__input{
+   color:white;
+}
+
+
+/* affiliate tools css start */
+
+.rtwwwap-prdct-row {
+  background: #202029;
+   box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+}
+
+
+.rtwwwap-prdct-box .mdc-card{
+  background-color: #35353e;
+}
+.rtwwwap-prdct-name {
+   color: white;
+}
+
+input:focus,textarea:focus{
+   background-color: transparent !important;
+}
+
+#rtwwwap_create_banner_tab h4{
+   color: rgba(255,255,255,0.5);
+}
+.rtwwwap-text h4,.rtwwwap-coupon-header{
+   border-bottom: 2px solid#8e8e8e;
+}
+.rtwwwap-coupon-header{
+   border: 0;
+   color: rgba(255,255,255,0.5);
+}
+
+.rtwwwap-text h4 span {
+  background: #202029;
+}
+
+
+select.rtwwwap_search_product, .rtwwwap_select_cat {
+   color: rgba(255,255,255,0.6);
+   background-color: #272730;
+}
+
+
+/********************* dynamic banner start *******************************/
+.rtwwwap-dynamic-card .mdc-card{
+ background: #8BC34A;
+}
+
+.rtwwwap-card-overlay-text {
+ background: #fff;
+}
+
+.rtwwwap-focus-border {
+  background-color: #fff;
+  
+}
+#rtwwwap_affiliate_body .dataTables_wrapper {
+   background-color: #373740;
+}
+#rtwwwap_affiliate_body .dataTables_wrapper.form-inline.dt-material .rtwwwap-select-box {
+   color: rgba(255, 255, 255, 0.7);
+   background-color: #373740;
+}
+
+#rtwwwap_affiliate_body .rtwwwap-payment-text-field {
+  
+   background-color: #272730;
+}
+
+
+.rtwwwap-social-media-icons a:first-child{
+   background-color: #1ca1f2;
+}
+.rtwwwap-social-media-icons a:nth-child(2){
+   background-color: #3e5e9e;
+}
+.rtwwwap-social-media-icons a:nth-child(3){
+   background-color: #1ca1f2;
+}
+.rtwwwap-social-media-icons a:nth-child(4){
+   background-color: #46bf56;
+}
+
+
+
+.rtwwwap-mlm-card1,.rtwwwap-mlm-card2 {
+  background: #202029;
+}
+
+
+
+#rtwwwap_main_container #rtwwwap_affiliate_body table{
+ background-color: #202029;
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body table th, #rtwwwap_main_container #rtwwwap_affiliate_body table td{
+   text-align: left;
+   background-color: transparent;
+   border: transparent;
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body table td{
+   color: rgba(255,255,255,0.5);
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body table thead tr th{
+   font-size: 16px;
+   color: white;
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body table td {
+   border-top: 1px solid #15161b;
+   border-bottom: 1px solid #15161b;
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body table tbody tr:hover {
+   background: rgba(255, 255, 255, 0.1);
+   transition: all 0.5s;
+}
+#rtwwwap_main_container #rtwwwap_affiliate_body .dataTables_wrapper .pagination .mdl-button {
+   color: rgba(255, 255, 255, 0.5);
+}
+
+
+.rtwwwap-bank-deatil,.rtwwwap-paypal-deatil,.rtwwwap-stripe-deatil{
+   background: #383840;
+  box-shadow: 0px 5px 6px -3px rgba(0, 0, 0, 0.2), 0px 9px 12px 1px rgba(0, 0, 0, 0.14), 0px 3px 16px 2px rgba(0,0,0,.12);
+}
+
+.rtwwwap-bank-deatil h4,.rtwwwap-paypal-deatil h4,.rtwwwap-stripe-deatil h4{
+   text-align: center;
+   color: rgba(255,255,255,0.5);
+}
+
+h3.rtwwwap-payment-header {
+  color: #3AD5A0;
+}
+
+.rtwwwap_coupon_wrapper_row .mdc-card{
+   background: #202029;
+}
+
+.mdc-text-field:not(.mdc-text-field--disabled) .mdc-text-field__input {
+   color: white;
+}
+.mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__leading, .mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__notch, .mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__trailing {
+   border-color: rgba(255,255,255,0.6);
+}
+.mdc-select:not(.mdc-select--disabled) .mdc-floating-label, .mdc-text-field:not(.mdc-text-field--disabled) .mdc-floating-label {
+   color: rgba(255,255,255,0.6);
+}
+
+#rtwwwap_main_container .mdc-tab .mdc-tab__icon,.mdc-tab .mdc-tab__text-label{
+   color: white;
+}
+#rtwwwap_main_container .mdc-tab--active .mdc-tab__icon,.mdc-tab--active .mdc-tab__text-label {
+   color: #6200ee !important;
+}
+
+#rtwwwap_main_container .mdc-data-table__cell {
+   color: rgba(255,255,255,0.5);
+}
+.rtwwwap_overview_card_head
+{
+   color:#777777;
+}
+.rtwwwap_overview_card_number{
+   color:#777777;
+
+}
+
+.rtwwwap_custom_banner_copy_html
+{
+box-shadow: 0px 9px 8px #9a9696;
+background-color: #e85050;
+color: #ffffff;
+}
+.rtwwwap_banner_no{
+ background-color:  #5a5050;
+
+}
+.rtwwwap_image_size_detail
+{
+ color: teal ;
+
+}
+.rtwwwap_banner_copy_text{
+background-color: #555;
+ color: #fff;
+}
+.rtwwwap_member_modal-header {
+   background-color: #16161b;
+   color: white;
+}
+ 
+.modal-footer {
+   background-color: #ffffff;
+   color: white;
+}
+
+
+.modal {
+   color: black !important;
+ }
+
+.rtwwwap_download_qr{
+ box-shadow: 0px 0px 8px #9a9696;
+ background-color: #e85050;
+ color: #ffffff;
+
+}
+
+.rtwwwap_report_nav .rtwwwap-grid-cell {
+ background: #202029;
+}
+
+#rtwwwap_banner_link{
+  background-color: #0bb586;
+   color: #fff;
+}
+
+.color_white{
+     color: rgba(255,255,255,0.6) !important;
+}
+
+
+ /* .select2-results__options,.select2-selection__rendered{
+   background-color: #272730;
+   color: white;
+
+} */
+/* #rtwwwap_main_container .select2-container--default .select2-selection--single {
+   background-color: #ceced1;
+    border: 0;
+} */
+
+#rtwwwap_main_container .select2-container--default .select2-selection--single {
+   background-color: #ceced1;
+    border: 0;
+}
+
+#rtwwwap_main_container input[type='text'], #rtwwwap_main_container input[type='number'],#rtwwwap_main_container input[type='email'], #rtwwwap_main_container input[type='tel'],#rtwwwap_main_container input[type='url'],#rtwwwap_main_container input[type='password'],#rtwwwap_main_container input[type='search'],#rtwwwap_main_container textarea, .input-text {
+ 
+   background-color: #272730;
+}
+#rtwwwap_main_container .dataTables_wrapper input[type='search']{
+   background-color: #373740;
+}
+
+

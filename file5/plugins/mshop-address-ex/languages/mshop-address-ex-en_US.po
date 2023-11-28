@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MShop Korean Address\n"
+"POT-Creation-Date: 2017-04-06 13:39+0900\n"
+"PO-Revision-Date: 2017-04-06 13:52+0900\n"
+"Last-Translator: Alan <alan@codemstory.com>\n"
+"Language-Team: alan <alan@codemstory.com>\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mshop-address.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:47
+#: includes/admin/meta-boxes/class-msaddr-meta-box-order-data.php:61
+#: includes/class-msaddr-fields.php:87 includes/class-msaddr-fields.php:148
+msgid "Address"
+msgstr "주소"
+
+#: includes/admin/setting-manager/mshop-setting-helper.php:53
+msgid "비회원"
+msgstr "Guest"
+
+#: includes/admin/settings/class-msaddr-settings.php:46
+msgid "대한민국 주소"
+msgstr "Korean Address"
+
+#: includes/admin/settings/class-msaddr-settings.php:88
+msgid "내정보 수정 페이지"
+msgstr "My Account - Edit Account Page"
+
+#: includes/admin/settings/class-msaddr-settings.php:91
+msgid "/my-account/edit-account/"
+msgstr "/my-account/edit-account/"
+
+#: includes/admin/settings/class-msaddr-settings.php:92
+msgid "나의 계정 > 내정보 수정 페이지 경로를 입력해주세요. 기본값 : <span style=\"font-style: italic;background-color:#e6e6e6;\">/my-account/edit-account/</span>"
+msgstr "Please input \"My Account > Edit Account\" Page URL Path. Default value : <span style=\"font-style: italic;background-color:#e6e6e6;\">/my-account/edit-account/</span>"
+
+#: includes/admin/settings/class-msaddr-settings.php:96
+msgid "사용자정의 CSS"
+msgstr "Cutom CSS"
+
+#: includes/admin/settings/class-msaddr-settings.php:104
+msgid "주소 검색 버튼 텍스트"
+msgstr "Address Search Button Text"
+
+#: includes/admin/settings/class-msaddr-settings.php:107
+#: includes/admin/settings/class-msaddr-settings.php:108
+msgid "주소 검색"
+msgstr "Address Search"
+
+#: includes/admin/settings/class-msaddr-settings.php:109
+msgid "주소 입력 화면에서 주소 검색 버튼의 텍스트를 지정합니다."
+msgstr "In Address Input Screen, Setting Address Search Button Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:113
+msgid "주소 라벨 텍스트"
+msgstr "Address Label Text"
+
+#: includes/admin/settings/class-msaddr-settings.php:116
+msgid "주소 입력 화면에서 주소 라벨(Label)의 텍스트를 지정합니다."
+msgstr "In Address Input Screen, Setting Address Label Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:117
+msgid "주소"
+msgstr "Address"
+
+#: includes/admin/settings/class-msaddr-settings.php:121
+msgid "사용자 입력 허용"
+msgstr "Customer input allow."
+
+#: includes/admin/settings/class-msaddr-settings.php:122
+msgid "사용자가 주소를 직접 입력 할 수 있도록 합니다."
+msgstr "We are able to Customer input allow."
+
+#: includes/admin/settings/class-msaddr-settings.php:128
+msgid "스크립트 Footer 사용"
+msgstr "Script using by Footer Area"
+
+#: includes/admin/settings/class-msaddr-settings.php:129
+msgid "주소 검색 스크립트를 Footer 영역에서 읽도록 설정을 할 수 있습니다."
+msgstr "Address Search Script able to setting using Footer Area."
+
+#: includes/admin/settings/class-msaddr-settings.php:165
+#: includes/admin/settings/class-msaddr-settings.php:167
+#: includes/class-msaddr-fields.php:79 includes/class-msaddr-fields.php:140
+msgid "이름"
+msgstr "Name"
+
+#: includes/admin/settings/class-msaddr-settings.php:166
+msgid "이름 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set Name Input Field Placeholder Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:172
+#: includes/admin/settings/class-msaddr-settings.php:174
+msgid "우편번호"
+msgstr "Postcode"
+
+#: includes/admin/settings/class-msaddr-settings.php:173
+msgid "우편번호 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set Postcode Input Field Placeholder Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:179
+#: includes/admin/settings/class-msaddr-settings.php:181
+msgid "기본주소"
+msgstr "Default Address"
+
+#: includes/admin/settings/class-msaddr-settings.php:180
+msgid "기본주소 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set Default Address Input Field Placeholder Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:186
+#: includes/admin/settings/class-msaddr-settings.php:188
+msgid "상세주소"
+msgstr "Detail Address"
+
+#: includes/admin/settings/class-msaddr-settings.php:187
+msgid "상세주소 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set Detail Address Input Field Placeholder Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:193
+#: includes/admin/settings/class-msaddr-settings.php:195
+#: includes/class-msaddr-fields.php:92
+msgid "이메일"
+msgstr "E-Mail"
+
+#: includes/admin/settings/class-msaddr-settings.php:194
+msgid "이메일 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set E-Mail Input Field Placeholder Text."
+
+#: includes/admin/settings/class-msaddr-settings.php:200
+#: includes/admin/settings/class-msaddr-settings.php:202
+#: includes/class-msaddr-fields.php:99
+msgid "전화번호"
+msgstr "Phone Number"
+
+#: includes/admin/settings/class-msaddr-settings.php:201
+msgid "전화번호 입력필드의 Placeholder 텍스트를 지정합니다."
+msgstr "Set Phone Number Input Field Placeholder Text."
+
+#: includes/class-msaddr-checkout.php:46
+msgid "<strong>청구지 기본주소</strong> "
+msgstr "<strong>Billing Address</strong> "
+
+#: includes/class-msaddr-checkout.php:47 includes/class-msaddr-checkout.php:52
+#: includes/class-msaddr-checkout.php:57 includes/class-msaddr-checkout.php:62
+msgid "is a required field."
+msgstr "를 입력해주세요."
+
+#: includes/class-msaddr-checkout.php:51
+msgid "<strong>배송지 기본주소</strong> "
+msgstr "<strong>Shipping Address</strong> "
+
+#: includes/class-msaddr-checkout.php:56
+msgid "<strong>청구지 우편번호</strong>"
+msgstr "<strong>Billing Postcode</strong>"
+
+#: includes/class-msaddr-checkout.php:61
+msgid "<strong>배송지 우편번호</strong>"
+msgstr "<strong>Shipping Postcode</strong>"
+
+#: includes/class-msaddr-fields.php:152
+msgid "Email Address"
+msgstr "이메일"
+
+#: includes/class-msaddr-fields.php:160 includes/class-msaddr-fields.php:183
+#: includes/class-msaddr-fields.php:203
+msgid "Phone"
+msgstr "전화번호"
+
+#: includes/class-msaddr-fields.php:176 includes/class-msaddr-fields.php:196
+msgid "First Name"
+msgstr "이름"
+
+#: includes/class-msaddr-fields.php:180 includes/class-msaddr-fields.php:200
+msgid "Email"
+msgstr "이메일"
+
+#. Plugin Name of the plugin/theme
+msgid "엠샵 대한민국 주소"
+msgstr "MShop Korean Address"
+
+#. Description of the plugin/theme
+msgid "대한민국의 우편번호, 도로명 주소 체계 및 지번 체계(구 주소형태) 기능을 지원합니다."
+msgstr "Support to Korean Postcode, Roadcode features with WooCommerce."
+
+#. Author of the plugin/theme
+msgid "CodeMShop"
+msgstr "CodeMShop"
+
+#. Author URI of the plugin/theme
+msgid "www.codemshop.com"
+msgstr "www.codemshop.com"
+
+#~ msgid "Address Option"
+#~ msgstr "주소 설정"
+
+#~ msgid "Customer Billing Address"
+#~ msgstr "청구지 주소"
+
+#~ msgid "Telephone"
+#~ msgstr "전화번호"
+
+#~ msgid "Customer Shipping Address"
+#~ msgstr "배송지 주소"

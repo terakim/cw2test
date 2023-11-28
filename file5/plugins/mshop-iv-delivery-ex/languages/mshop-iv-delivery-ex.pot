@@ -1,0 +1,285 @@
+# Copyright (C) 2023 CodeMShop
+# This file is distributed under the Commercial License.
+msgid ""
+msgstr ""
+"Project-Id-Version: mshop-iv-delivery-ex 3.0.2\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/mshop-iv-delivery\n"
+"POT-Creation-Date: 2023-05-23 00:58:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: CodeM\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"Poedit: \n"
+"Language: ko_KR\n"
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:24
+msgid "View details"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:47
+msgid "More information about %s"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:85
+msgid "Check for updates"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:163
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Vcs/PluginUpdateChecker.php:80
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:11
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:12
+msgid "엠샵 추가배송비"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:152
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:436
+msgid "시도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:158
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:185
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:195
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:442
+msgid "선택"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:159
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:444
+msgid "강원도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:160
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:445
+msgid "경기도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:161
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:446
+msgid "경상남도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:162
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:447
+msgid "경상북도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:163
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:448
+msgid "광주광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:164
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:449
+msgid "대구광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:165
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:450
+msgid "대전광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:166
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:451
+msgid "부산광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:167
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:452
+msgid "서울특별시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:168
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:453
+msgid "세종특별자치시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:169
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:454
+msgid "울산광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:170
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:455
+msgid "인천광역시"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:171
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:456
+msgid "전라남도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:172
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:457
+msgid "전라북도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:173
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:458
+msgid "제주특별자치도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:174
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:459
+msgid "충청남도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:175
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:460
+msgid "충청북도"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:179
+msgid "시군구"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:189
+msgid "읍면동"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:199
+msgid "우편번호"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:206
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:529
+msgid "추가배송비"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:218
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:220
+msgid "사용"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:224
+msgid "방법 제목"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:226
+msgid "결제시 사용자에게 보여주는 내용으로 변경이 가능합니다."
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:227
+msgid "대한민국 지역배송"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:231
+msgid "무료 배송"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:232
+msgid "무료 배송인 경우에도 지역별 배송비를 부과합니다."
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:239
+msgid "유료 배송"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:240
+msgid "유료 배송인 경우에도 지역별 배송비를 부과합니다."
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:246
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:249
+msgid "대한민국 지역 배송비 목록"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:250
+msgid "대한민국 지역 추가 배송비를 지정합니다"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:316
+msgid "<div class=\"desc2\">엠샵 추가배송비 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:325
+msgid "<div class=\"desc2\">추가배송비 이름을 입력하세요. 예 : 추가배송비, 도서산간 배송비 등</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:334
+msgid "<div class=\"desc2\">무료 배송인 경우에도 추가배송비를 부과합니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:343
+msgid "<div class=\"desc2\">정기구독 1회 배송 상품도 갱신결제시 추가배송비를 부과합니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:352
+msgid "<div class=\"desc2\">무료배송 쿠폰을 적용한 경우 추가배송비를 부과하지 않습니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:361
+msgid "<div class=\"desc2\">유료 배송인 경우에도 추가배송비를 부과합니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:372
+msgid "<div class=\"desc2\">선택된 배송 수단에 대해서는 항상 추가배송비를 부과합니다.</div>"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:394
+msgid "Standard"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:443
+msgid "전국"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:500
+msgid "적용대상"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:502
+msgid "적용대상을 선택하세요."
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:513
+msgid "배송 클래스"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:522
+msgid "구매금액(이하)"
+msgstr ""
+
+#: includes/shipping/korea-zone/class-msiv-shipping-korea-zone.php:547
+msgid "매뉴얼"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "엠샵 추가 배송비"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "도서산간 및 특정 지역, 배송 방법, 구매 금액에 따른 추가 배송비를 부과하는 기능을 제공 합니다."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeMShop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.codemshop.com/"
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:153
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:155
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: includes/admin/update/plugin-updates/Puc/v4p11/Plugin/Ui.php:157
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""

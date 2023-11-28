@@ -1,0 +1,1846 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Affilia - Affiliate Program with MLM\n"
+"POT-Creation-Date: 2023-11-04 18:13+0530\n"
+"PO-Revision-Date: 2019-04-20 16:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: RedefiningTheWeb <developer@redefiningtheweb.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:119
+msgid "Affiliaa - Affiliate Program with MLM"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:123
+msgid "Dashboard Overview"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:127
+msgid "Affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:133
+msgid "Customize Email"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:140
+msgid "Commission Setting"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:144
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:27
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "Levels"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:150
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:150
+#: public/templates/rtwalwm_affiliate_body.php:69
+msgid "Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:161
+msgid "Payouts"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:165
+msgid "Extra Features"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:170
+msgid "MLM"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:174
+msgid "Custom Banner"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:178
+msgid "Add-ons"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:182
+msgid "Help"
+msgstr ""
+
+#: admin/partials/rtwalwm-wp-wc-affiliate-program-admin-display.php:258
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:9
+msgid "Register/Login Templates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:13
+msgid "Login Shortcode"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:16
+msgid "Register Shrotcode"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:50
+#: admin/partials/rtwalwm_tabs/rtwalwm_addons.php:56
+msgid "Social Media Share"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:22
+msgid "Add New Affiliate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:28
+msgid "Approve all marked Affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:43
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:150
+msgid "ID"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:44
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:151
+#: public/templates/rtwalwm_affiliate_body.php:406
+#: public/templates/rtwalwm_affiliate_body.php:407
+msgid "Username"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:45
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:152
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:37
+msgid "Name"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:47
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:153
+#: public/templates/rtwalwm_affiliate_body.php:409
+#: public/templates/rtwalwm_affiliate_body.php:410
+msgid "Email"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:49
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:154
+msgid "Wp role"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:51
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:155
+msgid "Parent Id"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:52
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:156
+msgid "Parent Name"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:53
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:157
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:58
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:23
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:40
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:44
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:222
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:118
+#: admin/partials/rtwalwm_tabs/rtwalwm_affiliates.php:125
+msgid "MLM not active"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:10
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:10
+msgid "Commission Based on"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:19
+msgid "Products"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:27
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "Users"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:27
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:19
+msgid "To set commission for users goto"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:29
+msgid "USERS option is Available in PRO version"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:98
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:106
+msgid "Get it now"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:37
+msgid "Commission for All Products"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:43
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:134
+msgid "Commission Type"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:46
+msgid "Commission amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:57
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:85
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:128
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:34
+msgid "Percentage"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:60
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:37
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:111
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:152
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:180
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:207
+msgid "Fixed"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:66
+msgid "Enter Commission (By default 0)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:74
+msgid "Commission per Product"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:78
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:131
+msgid "Fixed Price"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:89
+msgid "You need to add commission from product page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:92
+msgid "Percentage + Fixed Price"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:97
+msgid "PERCENTAGE & PERCENTAGE+FIXED option is Available in PRO version"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:105
+msgid "All Features Listed Below are Available in PRO Version"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:113
+msgid "Commission per Category"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:125
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:134
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:445
+msgid "Add/Remove row"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:156
+msgid "Select categories"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:159
+#: public/templates/rtwalwm_affiliate_body.php:368
+msgid "No Category"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:181
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:27
+msgid "Maximum commission to an Affiliate in a month"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:189
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:32
+msgid "Enter Max. Commission (By default 0, that means unlimited commission)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:195
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:38
+msgid "Withdrawal Fees"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:203
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:43
+msgid "Enter Fees to be deducted while payouts (By default 0)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:209
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:49
+msgid "Unlimited / Lifetime Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:217
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:242
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:267
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:291
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:316
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:55
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:78
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:144
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:239
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:223
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:248
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:272
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:297
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:322
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:61
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:84
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:150
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:245
+msgid "No"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:228
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:66
+msgid ""
+"When Unlimited commission is set then commission will be generated every "
+"time a referee made a purchase. No matter if a cookie is set or not."
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:234
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:72
+msgid "Override Referrer in Unlimited Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:253
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission_no_woo.php:89
+msgid ""
+"When not selected then first referrer will get commission every time a "
+"purchase is done by referee. No matter who's referral link is being opened."
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:259
+msgid "Commission for only the URL opened?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:277
+msgid ""
+"It will only work with Referral Links and when Unlimited/Lifetime is not "
+"set. That means if you are using Referral Code than this functionality will "
+"not work."
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:283
+msgid "Enable Two Way Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:302
+msgid ""
+"After Enabling this, you can give commission to users which is referred by "
+"affiliate. Commission for user can set from product edit page. Only Product "
+"Wise Commission is Availiable. "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:308
+msgid "Activate Generation of Coupons"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:327
+msgid ""
+"After Activating this , you can generate Coupons of amount that you have in "
+"your wallet .This option is currently available for WooCommerce only "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:333
+msgid "Minimum amount for Coupon generation"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:342
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:358
+msgid "Enter Amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_commission.php:348
+msgid "Minimum amount affiliate need to Withdrawal their money"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:7
+msgid "Add new Banner"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:55
+msgid "Banner Image"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:56
+msgid "Target Link"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:57
+msgid "Image Size"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:67
+msgid "Upload Custom Banner"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:79
+msgid "Enter Target URL"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:82
+msgid "Select Image Width x Height "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:84
+msgid "Select Image Dimention"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:85
+msgid "Square – 250 x 250"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:86
+msgid "Small Square – 200 x 200- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:87
+msgid "Banner – 468 x 60- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:88
+msgid "Leaderboard – 728 x 90- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:89
+msgid "Inline Rectangle – 300 x 250- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:90
+msgid "Large Rectangle – 336 x 280- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:91
+msgid "Skyscraper – 120 x 600- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:92
+msgid "Wide Skyscraper – 160 x 600- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:93
+msgid "Half-Page Ad – 300 x 600- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:94
+msgid "Large Leaderboard – 970 x 90- PRO"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:97
+msgid "Selected Image Width  :: "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:101
+msgid "Selected Image Height :: "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:109
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:808
+msgid "Save"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_custom_banner.php:110
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:809
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:45
+msgid "Email type"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:46
+msgid "Subject"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:20
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:47
+msgid "Activate/Deactivate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_customize_email.php:48
+msgid "Action"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:10
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:94
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:144
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:390
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:700
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:947
+#: public/templates/rtwalwm_affiliate_body.php:9
+msgid "&#36;"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:32
+msgid "Total Affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:37
+msgid "Total no. of affiliates registered"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:45
+#: public/templates/rtwalwm_affiliate_body.php:40
+msgid "Total Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:50
+msgid "Total no. of Referrals done"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:57
+#: public/templates/rtwalwm_affiliate_body.php:43
+msgid "Total Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:62
+msgid "Total Commission generated from Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:69
+#: public/templates/rtwalwm_affiliate_body.php:49
+msgid "Approved Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:74
+msgid "Total Commission that needs to be paid"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:81
+#: public/templates/rtwalwm_affiliate_body.php:52
+msgid "Pending Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:86
+msgid "Total Commission that needs to be reviewed"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:97
+msgid "Last 5 Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:120
+msgid "for"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:120
+msgid "on"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:133
+msgid "Top 5 affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_dashboard.php:150
+msgid "Total Amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:12
+msgid "General"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:13
+msgid "Labels"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:14
+msgid "Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:15
+msgid "Payment"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:17
+msgid "Notification"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:19
+msgid "Rank"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:30
+msgid "Select Affiliate Page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:45
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:79
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:101
+msgid "Select a Page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:62
+msgid "Use the following shortcode on the selected page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:67
+msgid "Affiliate Login page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:84
+msgid "Select page if your are using Login shortcode seprately"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:89
+msgid "Affiliate Signup page "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:106
+msgid "Select page if your are using Register shortcode seprately"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:110
+msgid "Affiliate Page Template "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:118
+msgid "Template 1"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:121
+msgid "Template 2"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:124
+msgid "Template 3"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:128
+msgid "Select Template for Affiliate Page "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:137
+msgid "Show under My Account"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:154
+msgid "Activate to show under WooCommerce->My Account"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:163
+msgid "Select Currency"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:170
+msgid "By Default USD will be used"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:179
+msgid "Upto Decimal Places"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:182
+msgid "Enter Upto decimal places"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:184
+msgid ""
+"This decimal places will used for calculating commission and showing numbers"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:189
+msgid "Hide Login Form"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:196
+msgid "Select this if you want to hide Login form on Affiliate Page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:201
+msgid "Hide Registration Form"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:208
+msgid "Select this if you want to hide Registration form on Affiliate Page"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:212
+msgid "Affiliate Verification"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:216
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:235
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:268
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:23
+msgid "On"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:223
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:242
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:275
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:29
+msgid "Off"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:227
+msgid ""
+"Activate this feature if you want to check whether this user can be "
+"affiliate or not"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:231
+msgid "Mail to Admin"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:246
+msgid ""
+"Activate this feature if you want to get mails when a commission is generated"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:250
+msgid "Slug in Affiliate Link"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:253
+msgid "Replace rtwwwap_aff slug from Affiliate link"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:257
+msgid "Cookie Expiration"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:260
+msgid ""
+"Enter Days after which referral cookie will expire ( Note: 0 days means "
+"cookie will expire when the browser will be closed )"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:264
+msgid "QR code for referral links"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:283
+msgid "Custom css"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:287
+msgid "Write custom css for frontend"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:298
+msgid "Title for button \"Become an Affiliate\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:301
+msgid "Enter Become an Affiliate button Title"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:305
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:12
+msgid "Add Manual Referral"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:310
+msgid "Title for Section \"Benefits for being an Affiliate\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:313
+msgid "Enter Benefits Section Title"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:318
+msgid "Benefits for being an Affiliate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid ""
+"Earn extra money just by marketing our products with our affiliate tools"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid "Earn wallet amount to buy products on our site"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:322
+#: public/templates/rtwalwm_affiliate.php:63
+msgid "Signup Bonus when someone signup from your shared link"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:339
+msgid ""
+"These benefits will be shown to the users, so that they will become an "
+"Affiliate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:344
+msgid "Label for Tab \"Overview\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:347
+msgid "Enter Overview Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:348
+msgid "Enter title for Tab Overview in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:353
+msgid "Label for Tab \"Commissions\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:356
+msgid "Enter Commission Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:357
+msgid "Enter title for Tab Commission in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:362
+msgid "Label for Tab \"Affiliate Tools\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:365
+msgid "Enter Affilate Tools Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:366
+msgid "Enter title for Tab Affiliate Tools in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:371
+msgid "Label for Tab \"Download\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:374
+msgid "Enter Download Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:375
+msgid "Enter title for Tab Download in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:380
+msgid "Label for Tab \"Payout\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:383
+msgid "Enter Payout Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:384
+msgid "Enter title for Tab Payout in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:389
+msgid "Label for Tab \"Profile\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:392
+msgid "Enter Profile Label"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:393
+msgid "Enter title for Tab Profile in Affilate Dashboard Panel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:403
+msgid "Signup Bonus Type"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:407
+msgid "Referral Code"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:414
+msgid "Cookie ( Default )"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:418
+msgid ""
+"[ Note : When \"REFFERAL CODE\" is selected as Signup Bonus Type then "
+"\"REFFERAL LINK(s)\" will not be used for Commission Generation, Signup "
+"Bonus and adding member to MLM chain ]"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:423
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:79
+msgid "Signup Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:427
+msgid "Enter Amount to be given for referral signup (By default 0)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:433
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:86
+msgid "Performance Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:439
+msgid "Total Sale amount to unlock achievement"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:442
+msgid "Incentive"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:473
+msgid "Social Media Share Buttons"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:486
+msgid "Sharing Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:490
+msgid ""
+"Enter Amount to be given for Sharing a product on social media (By default 0)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:495
+msgid "Sharing Bonus Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:501
+msgid "Time Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:504
+msgid "Amount Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:513
+msgid "No Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:516
+msgid "Daily Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:519
+msgid "Weekly Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:522
+msgid "Monthly Limit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:532
+msgid ""
+"Enter Time and Amount after which Affiliate will not get the share bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:541
+msgid "Activate Paypal"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:551
+msgid "Paypal Live"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:555
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:567
+msgid "Client ID"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:558
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:570
+msgid "Client Secret"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:563
+msgid "Paypal Sandbox"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:576
+msgid "Activate Stripe"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:586
+msgid "Stripe Live"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:590
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:602
+msgid "Publishable Key"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:593
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:605
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:621
+msgid "Secret Key"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:598
+msgid "Stripe Sandbox"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:612
+msgid "Activate Paystack"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:618
+msgid "Public Key"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:633
+msgid "Add Notification"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:640
+msgid "Title"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:643
+msgid "View / Edit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:646
+msgid "Remove "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:683
+msgid "Add New Rank"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:692
+msgid "SN"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:695
+msgid "Rank Name"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:698
+msgid "Rank Priority"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:702
+msgid "Rank Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:705
+msgid "Actions "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:708
+msgid "Date "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:719
+msgid "Bronze"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:728
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:750
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:772
+msgid "edit"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:729
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:751
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:773
+msgid "delete"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:732
+msgid "24-11-22"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:741
+msgid "Silver"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:754
+msgid "26-11-22"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:763
+msgid "Gold"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:776
+msgid "27-11-22"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:798
+msgid "Notification Details"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:801
+msgid "enter Notification title"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:803
+msgid "enter Notification message"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_extra_features.php:804
+msgid "Enter your reason here within 100 words..."
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:4
+msgid "Affiliaa - WordPress & WooCommerce Affiliate Program By"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:7
+msgid "RedefiningTheWeb"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:11
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:9
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_footer.php:14
+msgid "5-Stars Rating"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:3
+msgid "Know How It Works"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:17
+msgid "Video"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:20
+msgid "Contact Our Support Through"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:26
+msgid "Support Desk"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:35
+msgid "Skype"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:46
+msgid "Difference Between Direct commission & MLM commission."
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:50
+msgid ""
+"Direct commission is provide to the Affiliates and MLM level commission "
+"provided to the parent of affiliate. Direct commission will set from "
+"commission tab and MLM commission will set from commission tab   "
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:53
+msgid ""
+"What is difference between MLM Commission based on affiliate commission & "
+"MLM Commission based on Product Price?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:55
+msgid ""
+"The difference in these two option is when you choose \"MLM commission Based "
+"on product price \" then MLM commission generate on the basis of product "
+"price -> let suppose you have set MLM commission on level 1 is 10% and "
+"product price is 100% then parent will receive 10$ as MLM commission. And if "
+"you choose \"MLM commission Based on the amount earned by the affiliate as "
+"commission\" then commission generates on the amount generates for the "
+"affiliate as direct commission let suppose Direct commission was set 20%, "
+"MLM commission on level 1 is 10% and product price is 100$ then affiliate "
+"receive 20$ as commission and their parent will receive 10% of 20$(earned by "
+"affiliate as commission) on 1st level which is 2$"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:59
+msgid "How does binary MLM works?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:61
+msgid ""
+"In Binary MLM an affiliate can have maximum 2 children under them and "
+"affiliate start receiving MLM commission when then cycle is complete. A "
+"cycle is complete when an affiliate register 2 user under them if there is "
+"only one user then affiliate did not receive any MLM commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:64
+msgid "How does forced matrix works?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:66
+msgid ""
+"In forced matrix user have to register number of children under them enter "
+"by admin if admin set 5 number of maximum child then affiliate are forced to "
+"register 5 number of children under them to start earning MLM commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:69
+msgid "How to Deactivate/Activate plugin from one domain to another?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:71
+msgid ""
+"If you want to remove it from current domain then at top right corner you "
+"will find a button \"Remove purchase code\". So remove purchase code from "
+"current domain using that button and then install it on new domain"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_help.php:75
+msgid "Read More"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:6
+msgid "Add New Level"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:9
+msgid "Update Order"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:18
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:35
+msgid "Sort"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:19
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:36
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:8
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:131
+msgid "Level"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:21
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:38
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:16
+msgid "Commission"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:22
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels.php:39
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:51
+msgid "To Reach"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:22
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:94
+#: public/templates/rtwalwm_affiliate_body.php:76
+msgid "Type"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:25
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:97
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:28
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:158
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:41
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:219
+#: public/templates/rtwalwm_affiliate_body.php:79
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:57
+msgid "Criteria"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:60
+msgid "Value"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:68
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:389
+msgid "Become Affiliate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:71
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:27
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:157
+msgid "No. of Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_levels_add_edit.php:74
+msgid "Total sale amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:13
+msgid "Activate MLM"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:36
+msgid "MLM Type"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:44
+msgid "Binary"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:47
+msgid "Forced Matrix"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:50
+msgid "Unilevel"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:53
+msgid "Unlimited (Available in PRO)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:58
+msgid ""
+"NOTE : If you change MLM Plan then you need to activate/deactivate members "
+"to make the chains according to your plan selected"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:63
+msgid "Depth"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:66
+msgid "How many levels does this MLM can have? ( Note: By Default 1 )"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:67
+msgid "\"In PRO you can add more than 3 levels\""
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:72
+msgid "Child"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:83
+msgid "How many childs a User can have?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:88
+msgid "Default Commission for a Level"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:108
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:149
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:177
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:204
+msgid "Percentage (Available in PRO)"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:125
+msgid "MLM Levels"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:137
+msgid "Commission Amount"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_mlm.php:224
+msgid "User can change status of members in his chain?"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:7
+msgid "Pay marked PayPal Affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:9
+msgid "Pay marked Stripe Affiliates"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:25
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:155
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:29
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:209
+msgid "User ID"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:26
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:156
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:210
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:295
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:162
+msgid "Affiliate"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:29
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:159
+msgid "Last Referral"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:30
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:160
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:43
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:221
+#: public/templates/rtwalwm_affiliate_body.php:85
+msgid "Status"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:117
+msgid "Paypal"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:121
+msgid "Stripe"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:125
+msgid "Bank Details"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:135
+msgid "Pay"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_payouts.php:142
+msgid "No payment method defined"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:7
+msgid "Approve all marked Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:9
+msgid "Reject all marked Referrals"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:31
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:211
+msgid "Reference"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:35
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:215
+msgid "Order Status"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:42
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:220
+#: public/templates/rtwalwm_affiliate_body.php:82
+msgid "Date"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:89
+msgid "Manual Referral"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:94
+msgid "MLM Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:101
+msgid "Share Bonus"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:162
+msgid "Approve"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:165
+msgid "Reject"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:172
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:692
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:760
+msgid "Approved"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:179
+msgid "Paid"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:186
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:732
+msgid "Rejected"
+msgstr ""
+
+#: admin/partials/rtwalwm_tabs/rtwalwm_referrals.php:194
+msgid "Capped"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:158
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:116
+msgid "Clear"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:159
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:117
+msgid "Default"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:160
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:118
+msgid "Select Color"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:161
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:119
+msgid "Current Color"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:169
+msgid "Digits Only"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:170
+msgid "Details not filled"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:171
+msgid "Are you sure that you have completed this bank transfer?"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:172
+msgid "Nothing Marked"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:173
+msgid ""
+"Are you sure to approve this Referral? It can't be reverted back once "
+"approved"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:174
+msgid ""
+"Are you sure to approve all the Referrals? It can't be reverted back once "
+"approved"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:175
+msgid ""
+"Are you sure to reject this Referral? It can't be reverted back once rejected"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:176
+msgid "Please input some text in message box"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:177
+msgid ""
+"Are you sure to reject all the Referrals? It can't be reverted back once "
+"rejected"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:178
+msgid "Please Enter Target URL"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:179
+msgid "Please Select Image"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:180
+msgid ""
+"Image width or height is not matching with selected Image WIDTH x HEIGHT"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:200
+msgid "Settings"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:210
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:386
+msgid "Affiliaa - WordPress & WooCommerce Affiliate Program"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:210
+msgid "Affiliaa Lite"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:302
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:403
+msgid "Affiliate Level"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:370
+msgid "This user is an affiliate now"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:373
+msgid "This user is not an affiliate now"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:392
+msgid "This will make this user also as an Affiliate"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:458
+msgid "Percentage Commission"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:464
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:594
+msgid "Fixed Commission"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:544
+msgid "Commission for this product is updated"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:547
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:265
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:573
+msgid "Add Commission"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:696
+msgid "Some referrals are not approved. Try again"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:736
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:741
+msgid "Some referrals are not rejected. Try again"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:763
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:788
+msgid "Something went wrong. Try again"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:784
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:868
+msgid "Deleted"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:830
+msgid "Successfully Uploaded"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:834
+msgid "Failed to upload"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:871
+msgid "Not Deleted"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:888
+msgid "Select an affiliate"
+msgstr ""
+
+#: admin/rtwalwm-class-wp-wc-affiliate-program-admin.php:904
+msgid "Select Affiliate"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:134
+msgid "Enter valid Link"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:136
+#: public/templates/rtwalwm_affiliate_body.php:301
+#: public/templates/rtwalwm_affiliate_body.php:454
+msgid "Copied"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:137
+msgid "Are you sure to send the request?"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:262
+msgid "You are now an affiliate"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:860
+msgid "New MLM commission"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:861
+msgid "You got a new MLM commission of amount"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:865
+msgid "From"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:872
+msgid "Generated a new MLM commission of amount"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:966
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:984
+msgid "Link"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:967
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:985
+msgid "Banner"
+msgstr ""
+
+#: public/rtwalwm-class-wp-wc-affiliate-program-public.php:995
+msgid "No Result Found"
+msgstr ""
+
+#: public/templates/rtwalwm_aff_login_page.php:55
+msgid "Login your Account"
+msgstr ""
+
+#: public/templates/rtwalwm_aff_login_page.php:61
+msgid "Username or Email Address"
+msgstr ""
+
+#: public/templates/rtwalwm_aff_login_page.php:63
+msgid "Password"
+msgstr ""
+
+#: public/templates/rtwalwm_aff_login_page.php:64
+msgid "Login"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate.php:47
+msgid "Not approved yet"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate.php:52
+#: public/templates/rtwalwm_affiliate.php:61
+msgid "Become an Affiliate"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate.php:72
+msgid "Benefits of becoming our Affiliate"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:46
+msgid "Wallet"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:94
+msgid "Referral Bonus"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:97
+msgid "10$"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:100
+msgid "January 1, 2020 12:00 am"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:104
+msgid "Pending"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:141
+msgid "Commission on all Products"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:202
+msgid "Per Product Commission"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:209
+msgid "Product Name"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:213
+msgid "Percentage commission (%)"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:248
+msgid "Specific Product commission not set. Check Category Commissions"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:258
+msgid "No Commission is set on any Product"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:294
+msgid "Generate links"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:296
+msgid "Enter any product's URL from this website"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:298
+msgid "Generate link"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:300
+msgid "Copy link"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:305
+msgid "Create QR Code"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:320
+msgid "Tweet"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:325
+msgid "Facebook"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:329
+msgid "Mail"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:333
+msgid "Whatsapp"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:340
+msgid "Download QR"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:344
+msgid "Create banners"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:346
+msgid "Search Product"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:373
+msgid "Search"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:405
+msgid "Profile"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:412
+#: public/templates/rtwalwm_affiliate_body.php:413
+msgid "First Name"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:415
+#: public/templates/rtwalwm_affiliate_body.php:416
+msgid "Last Name"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:418
+msgid "Update Details"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:451
+msgid " x "
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:453
+msgid " Copy and paste the code into your Website"
+msgstr ""
+
+#: public/templates/rtwalwm_affiliate_body.php:455
+msgid "COPY HTML"
+msgstr ""
